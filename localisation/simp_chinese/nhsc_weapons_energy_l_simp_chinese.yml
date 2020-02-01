@@ -1,0 +1,211 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###       Advanced Combat Laser      ###
+########################################
+
+NHSC_LASER_6: "先进战斗激光器"
+NHSC_LASER_6_DESC: "新一代战斗激光的性能大大提高。"
+SMALL_NHSC_LASER_6: "小型$NHSC_LASER_6$"
+SMALL_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+MEDIUM_NHSC_LASER_6: "中型$NHSC_LASER_6$"
+MEDIUM_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+LARGE_NHSC_LASER_6: "大型$NHSC_LASER_6$"
+LARGE_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+
+########################################
+###            Aurora Laser          ###
+########################################
+
+NHSC_LASER_7: "极光激光"
+NHSC_LASER_7_DESC: "美丽的像一颗明星，致命的像地狱之火。"
+SMALL_NHSC_LASER_7: "小型$NHSC_LASER_7$"
+SMALL_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+MEDIUM_NHSC_LASER_7: "中型$NHSC_LASER_7$"
+MEDIUM_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+LARGE_NHSC_LASER_7: "大型$NHSC_LASER_7$"
+LARGE_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+
+########################################
+###        Tachyon Disruptor         ###
+########################################
+
+NHSC_DISRUPTOR_4: "快子$DISRUPTOR_1$"
+NHSC_DISRUPTOR_4_DESC: "新一代的$DISRUPTOR_1$使用快子来穿透装甲和护盾。"
+SMALL_NHSC_DISRUPTOR_4: "小型$NHSC_DISRUPTOR_4$"
+SMALL_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+MEDIUM_NHSC_DISRUPTOR_4: "中型$NHSC_DISRUPTOR_4$"
+MEDIUM_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+LARGE_NHSC_DISRUPTOR_4: "大型$NHSC_DISRUPTOR_4$"
+LARGE_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+
+########################################
+###         Disruptor Lance          ###
+########################################
+
+NHSC_DISRUPTOR_5: "裂解枪"
+NHSC_DISRUPTOR_5_DESC: "一个由裂解器的光束聚焦而成的极具破坏性的矛状光束。"
+SMALL_NHSC_DISRUPTOR_5: "小型$NHSC_DISRUPTOR_5$"
+SMALL_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+MEDIUM_NHSC_DISRUPTOR_5: "中型$NHSC_DISRUPTOR_5$"
+MEDIUM_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+LARGE_NHSC_DISRUPTOR_5: "大型$NHSC_DISRUPTOR_5$"
+LARGE_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+
+########################################
+###      Advanced Plasma Cannon      ###
+########################################
+
+NHSC_PLASMA_4: "先进$PLASMA_3$"
+NHSC_PLASMA_4_DESC: "改良型$PLASMA_3$射出更稳定的等离子体簇，从而对目标造成更大的伤害。"
+SMALL_NHSC_PLASMA_4: "小型$NHSC_PLASMA_4$"
+SMALL_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+MEDIUM_NHSC_PLASMA_4: "中型$NHSC_PLASMA_4$"
+MEDIUM_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+LARGE_NHSC_PLASMA_4: "大型$NHSC_PLASMA_4$"
+LARGE_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+
+########################################
+###        Dragonbreath Cannon       ###
+########################################
+
+NHSC_PLASMA_5: "龙息加农炮"
+NHSC_PLASMA_5_DESC: "将等离子体像神话的巨龙龙息一般射出的大炮。"
+SMALL_NHSC_PLASMA_5: "小型$NHSC_PLASMA_5$"
+SMALL_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+MEDIUM_NHSC_PLASMA_5: "中型$NHSC_PLASMA_5$"
+MEDIUM_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+LARGE_NHSC_PLASMA_5: "大型$NHSC_PLASMA_5$"
+LARGE_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+
+########################################
+###        Antimatter Launcher       ###
+########################################
+
+NHSC_ENERGY_TORPEDO_3: "反物质发射器"
+NHSC_ENERGY_TORPEDO_3_DESC: "新一代能量发射器，使用物质到反物质的湮灭反应产生破坏性爆炸。"
+
+########################################
+###        Dark Matter Launcher      ###
+########################################
+
+NHSC_ENERGY_TORPEDO_4: "暗物质发射器"
+NHSC_ENERGY_TORPEDO_4_DESC: "一种能用暗物质分解反应产生的爆炸破坏目标的能量发射器。"
+
+########################################
+###     Lightstorm Point Defense     ###
+########################################
+
+NHSC_LIGHTSTORM_PD: "光风暴点防御"
+NHSC_LIGHTSTORM_PD_DESC: "一种极其有效的激光点防御系统。"
+
+########################################
+###      Improved Tachyon Lance      ###
+########################################
+
+NHSC_PARTICLE_LANCE_3: "改良型$ENERGY_LANCE_2$"
+NHSC_PARTICLE_LANCE_3_DESC: "将聚焦阵列改进后的新一代$ENERGY_LANCE_2$。"
+
+########################################
+###    Hypercharged Tachyon Lance    ###
+########################################
+
+NHSC_PARTICLE_LANCE_4: "超荷$ENERGY_LANCE_2$"
+NHSC_PARTICLE_LANCE_4_DESC: "增加粒子枪发射器的电容线圈，我们可以进一步提高武器的伤害。"
+
+########################################
+###       Light of Destruction       ###
+########################################
+
+NHSC_PARTICLE_LANCE_TITANIC: "毁灭之光"
+NHSC_PARTICLE_LANCE_TITANIC_DESC: "终极的粒子喷枪。"
+
+########################################
+###         Lightning Cannon         ###
+########################################
+
+NHSC_ARC_EMITTER_3: "闪电炮"
+NHSC_ARC_EMITTER_3_DESC: "一种先进的$ARC_EMITTER_1$，能激发强大的电力螺栓。"
+
+########################################
+###            Arc Cannon            ###
+########################################
+
+NHSC_ARC_EMITTER_4: "电弧炮"
+NHSC_ARC_EMITTER_4_DESC: "更强大的$ARC_EMITTER_1$,能够摧毁最坚硬的目标。"
+
+########################################
+###          Divine Thunder          ###
+########################################
+
+NHSC_ARC_EMITTER_TITANIC: "神雷"
+NHSC_ARC_EMITTER_TITANIC_DESC: "天体风暴的回响以无情的力量攻击我们的敌人。"
+
+NHSC_WAVEMOTIONGUN_1: "波动炮"
+NHSC_WAVEMOTIONGUN_1_DESC: "专用的排气口允许我们再次为引擎排气并将其变成一个极具破坏性的喷枪，在这条可以摧毁任何事物的轨迹上可以说是非常不幸的了。"
+
+NHSC_WAVEMOTIONGUN_2: "次元波动炮"
+NHSC_WAVEMOTIONGUN_2_DESC: "改进后的波动炮，提高了光速聚焦的精度和威力。"
+
+NHSC_WAVEMOTIONGUN_3: "次元波动巨炮"
+NHSC_WAVEMOTIONGUN_3_DESC: "一个超大版的稳定的次元波动炮。"
+
+########################################
+###        Arc-en-Ciel Cannon        ###
+########################################
+
+NHSC_ARC_EN_CIEL: "虹光炮"
+NHSC_ARC_EN_CIEL_DESC: "一种可怕的武器。它将目标密封在小型次元内然后将其强制性坍缩。有效地摧毁了目标存在的任何痕迹。"
+NHSC_ARC_EN_CIEL_TITANIC: "$NHSC_ARC_EN_CIEL$"
+NHSC_ARC_EN_CIEL_TITANIC_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+
+########################################
+###       Chrono-Vortex Cannon       ###
+########################################
+
+NHSC_CHRONO_CANNON: "时空旋涡炮"
+NHSC_CHRONO_CANNON_DESC: "这种令人恐惧的武器会将敌人的舰船跟着时空进行不稳定扭曲。"
+SMALL_NHSC_CHRONO_CANNON: "小型$NHSC_CHRONO_CANNON$"
+SMALL_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+MEDIUM_NHSC_CHRONO_CANNON: "中型$NHSC_CHRONO_CANNON$"
+MEDIUM_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+LARGE_NHSC_CHRONO_CANNON: "大型$NHSC_CHRONO_CANNON$"
+LARGE_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+
+########################################
+###    Amplified Cloud lightning     ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_2: "先进$SPACE_CLOUD_WEAPON_1$"
+NHSC_CLOUD_LIGHTNING_2_DESC: "一种允许使用的虚空之云的天然雷击武器，现在能够对最强大的战舰造成重大伤害。"
+
+########################################
+###      Thunderstorm Generator      ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_3: "雷暴发射器"
+NHSC_CLOUD_LIGHTNING_3_DESC: "毁灭性的闪电将撕裂我们敌人的船只。"
+
+########################################
+###           Plasma Cutter          ###
+########################################
+
+NHSC_MINING_LASER_2: "等离子切割机"
+NHSC_MINING_LASER_2_DESC: "一种先进的武器，可以把敌人的船体撕裂开，这是根据那些采矿机的激光制造的。"
+SMALL_NHSC_MINING_LASER_2: "小型$NHSC_MINING_LASER_2$"
+SMALL_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+MEDIUM_NHSC_MINING_LASER_2: "中型$NHSC_MINING_LASER_2$"
+MEDIUM_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+
+########################################
+###      Advanced Plasma Cutter      ###
+########################################
+
+NHSC_MINING_LASER_3: "先进等离子切割机"
+NHSC_MINING_LASER_3_DESC: "改进版的NHSC_MINING_LASER_2，拥有更强的功率，精度和攻击范围。"
+SMALL_NHSC_MINING_LASER_3: "小型$NHSC_MINING_LASER_3$"
+SMALL_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"
+MEDIUM_NHSC_MINING_LASER_3: "中型$NHSC_MINING_LASER_3$"
+MEDIUM_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"

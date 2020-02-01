@@ -1,0 +1,229 @@
+﻿l_simp_chinese:
+
+ ### Planet Cracker ###
+ 
+ planet_cracker_0: "粉碎平台"
+ planet_cracker_0_DESC: "一个轨道平台，为未来的星球采矿作业提供一些基础设施。"
+ planet_cracker_0_MEGASTRUCTURE_DETAILS: "一个§Y$planet_cracker_0$§!将作为星球采矿作业的轨道平台。"
+ planet_cracker_0_CONSTRUCTION_INFO_DELAYED: "行星粉碎机将利用强大的激光凿开星球表面，使富含矿物质的核心层裸露出来，但这会烧掉大气层，星球最终也无法居住。"
+ planet_cracker_1: "行星粉碎机"
+ planet_cracker_1_DESC: "行星粉碎机以§G100%§!完全状态运行中。该设备是开采无人机的操作基地，并为参与星球采矿工作的人提供居住场所。"
+  
+ ### Giant's Igniter ###
+
+ giants_igniter_0: "巨型点火装置基址"
+ giants_igniter_0_DESC: "一个巨型点火装置，用以控制$pc_gas_giant$的密度和温度，使其转换成一颗红矮星。"
+ giants_igniter_0_MEGASTRUCTURE_DETAILS: "这个§Y$giants_igniter_0$§!将点燃$pc_gas_giant$内部的氢气，将其变成一个巨大的发电厂。"
+ giants_igniter_0_CONSTRUCTION_INFO_DELAYED: "巨型点火装置将这颗$pc_gas_giant$的密度增加，把它变成了一颗褐矮星。然后点燃褐矮星，产生了燃烧的红矮星。"
+ giants_igniter_1: "巨型点火装置"
+ giants_igniter_1_DESC: "一个行星大小的聚变反应堆不断地为人造恒星提供燃料，从而产生大量的能量。"
+ 
+ ### Orbital Farm ###
+
+ orbital_farm_0: "轨道环形框架"
+ orbital_farm_0_DESC: "轨道农业圈将减少我们帝国人民的饥饿。"
+ orbital_farm_0_MEGASTRUCTURE_DETAILS: "§Y$orbital_farm_0$§!将作为一个巨型轨道温室，种植可耕作的作物。"
+ orbital_farm_0_CONSTRUCTION_INFO_DELAYED: "种植圈建造在一个非常适合种植植物的轨道上。建造将消耗掉所有可用的卫星。"
+ orbital_farm_1: "轨道农业圈"
+ orbital_farm_1_DESC: "这个结构确保了我们人口密集的星球也能有稳定的食物供应。"
+ 
+ ### World Shaper ###
+ 
+ world_shaper_0: "大气操纵卫星基址"
+ world_shaper_0_DESC: "这些卫星使我们能够操纵气候，甚至是那些环境最恶劣的星球。"
+ world_shaper_0_MEGASTRUCTURE_DETAILS: "§Y$world_shaper_0$§!将作为一个巨型轨道$TERRAFORM_TITLE$设施。"
+ world_shaper_0_CONSTRUCTION_INFO_DELAYED: "这颗卫星能将星球$TERRAFORM_TITLE$。但因为技术限制，我们只能将它改造成矮行星。"
+ world_shaper_1: "大气操纵卫星"
+ world_shaper_1_DESC: "不断微调这个星球的人造大气，这样它就不会回到原来的状态。"
+   
+ ### Stellar Foundry ###
+ 
+ stellar_foundry_0: "合金制造平台"
+ stellar_foundry_0_DESC: "完成后，这个装置可以用原始矿物生产出高质量的合金。"
+ stellar_foundry_0_MEGASTRUCTURE_DETAILS: "§Y$stellar_foundry_0$§!将利用恒星的磁场来制造出大量的合金。"
+ stellar_foundry_0_CONSTRUCTION_INFO_DELAYED: "该$MEGASTRUCTURE$只能围绕高度磁化的恒星建造（比如$pc_neutron_star$或$pc_pulsar$）。为了安全起见，恒星轨道上也不允许有其他轨道空间站。"
+ stellar_foundry_1: "合金锻炉"
+ stellar_foundry_1_DESC: "这个锻炉能生产出大量的合金。"
+ 
+ ### Orbital Fabricator ###
+ 
+ orbital_fabricator_0: "轨道工业平台"
+ orbital_fabricator_0_DESC: "一旦建成，这个复合体就可以用原材料生产大量的消费品。"
+ orbital_fabricator_0_MEGASTRUCTURE_DETAILS: "§Y$orbital_fabricator_0$§!将为我们生产大量的消费品。"
+ orbital_fabricator_0_CONSTRUCTION_INFO_DELAYED: "该$MEGASTRUCTURE$只能建造在人口密集的$NUM_HABITABLE_WORLDS$轨道上，因为它需要大量的人口来运作。"
+ orbital_fabricator_1: "轨道制造站"
+ orbital_fabricator_1_DESC: "该复合体生产出大量的消费品。"
+ 
+ ### Celestial AI ###
+ 
+ celestial_ai_0: "$nanites$制造站基址"
+ celestial_ai_0_DESC: "该工厂制造超级计算机所需的纳米机械。"
+ celestial_ai_0_MEGASTRUCTURE_DETAILS: "§Y$celestial_ai_0$§!将卫星变成一个巨型处理器。"
+ celestial_ai_0_CONSTRUCTION_INFO_DELAYED: "这个工厂能生产制造巨型处理器所需的大量纳米机械。必须建在靠近母星的地方以保持密切观测该科技。"
+ celestial_ai_1: "月神AI"
+ celestial_ai_1_DESC: "这台超级计算机能帮助我们进行研究。尽管一小部分计算能力被秘密地用来操纵对我们有利的政治系统。"
+ celestial_ai_2: "毁坏的月神AI"
+ celestial_ai_2_DESC: "这是我们物种优越性的纪念碑。我们不会被自己的造物所打败！"
+ 
+ ### Military Nexus ###
+
+ military_nexus_0: "防御链接"
+ military_nexus_0_DESC: "这个$MEGASTRUCTURE$容纳了帝国的国防部和情报机构。"
+ military_nexus_0_MEGASTRUCTURE_DETAILS: "§YDefense Nexus§!能够增器我们的防御能力。"
+ military_nexus_0_CONSTRUCTION_INFO_DELAYED: "该$MEGASTRUCTURE$能够协调我们各个军事力量，增器我们的防御能力。它必须建造在首都轨道上。"
+
+ ### Wormhole initiative ###
+ 
+ wormhole_initiative_0: "虫洞研究计划"
+ wormhole_initiative_0_DESC: "这个空间站将制造一个人工虫洞来协助我们的研究。"
+ wormhole_initiative_0_MEGASTRUCTURE_DETAILS: "§Y$wormhole_initiative_0$§!将会制造出人工虫洞，这样我们就能快速地在星系间移动了。"
+ wormhole_initiative_0_CONSTRUCTION_INFO_DELAYED: "这个空间站在黑洞引力的帮助下制造出了一个人工虫洞。"
+ wormhole_initiative_1: "人工虫洞站"
+ wormhole_initiative_1_DESC: "我们设法在我们的时空中创造了一个虫洞，但我们似乎在我们的星系中又创造了3个虫洞。"
+ BYPASS_WORMHOLE2: "撕裂了时空"
+ ARTIFICIAL_WORMHOLE:1 "人工虫洞"
+ ARTIFICIAL_WORMHOLE_DESC_UNEXPLORED:1 "未经探索的人工虫洞"
+ ARTIFICIAL_WORMHOLE_DESC:0 "该星系包含一个§Y$ARTIFICIAL_WORMHOLE$§!"
+
+ ### Protoplanetary Matter Extractor ###
+ 
+ protoplanetary_matter_extractor_0: "原始星球提取器基址"
+ protoplanetary_matter_extractor_0_DESC: "这个空间站能够提取原始星球的物质来获得稀有的矿物。"
+ protoplanetary_matter_extractor_0_MEGASTRUCTURE_DETAILS: "这个空间站能让我们从原始星球中提取$volatile_motes$，$rare_crystals$和$exotic_gases$。"
+ protoplanetary_matter_extractor_0_CONSTRUCTION_INFO_DELAYED: "这个$MEGASTRUCTURE$只能建造在年轻恒星周围的原始星球轨道上。"
+ protoplanetary_matter_extractor_1: "原始星球物质提取器"
+ protoplanetary_matter_extractor_1_DESC: "由于不断与恒星粒子发生碰撞，该$MEGASTRUCTURE$的维护成本很高。"
+ 
+ ### Superstructure Removal ###
+ 
+ planet_cracker_2: "拆除$planet_cracker_1$"
+ planet_cracker_2_DESC: "拆除这个$MEGASTRUCTURE$。"
+ giants_igniter_2: "拆除$giants_igniter_1$"
+ giants_igniter_2_DESC: "$planet_cracker_2_DESC$"
+ orbital_farm_2: "拆除$orbital_farm_1$"
+ orbital_farm_2_DESC: "$planet_cracker_2_DESC$"
+ world_shaper_2: "拆除$world_shaper_1$"
+ world_shaper_2_DESC: "$planet_cracker_2_DESC$"
+ stellar_foundry_2: "拆除$stellar_foundry_1$"
+ stellar_foundry_2_DESC: "$planet_cracker_2_DESC$"
+ orbital_fabricator_2: "拆除$orbital_fabricator_1$"
+ orbital_fabricator_2_DESC: "$planet_cracker_2_DESC$"
+ military_nexus_1: "拆除$military_nexus_0$"
+ military_nexus_1_DESC: "$planet_cracker_2_DESC$"
+ wormhole_initiative_2: "拆除$wormhole_initiative_1$"
+ wormhole_initiative_2_DESC: "$planet_cracker_2_DESC$"
+ protoplanetary_matter_extractor_2: "拆除$protoplanetary_matter_extractor_1$"
+ protoplanetary_matter_extractor_2_DESC: "$planet_cracker_2_DESC$"
+ 
+ ### Events ###
+ 
+ planet_cracker.0.name:0 "$planet_cracker_0$完成"
+ planet_cracker.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$planet_cracker_0$§!已经建造完成。我们现在必须启动采矿激光。"
+  
+ planet_cracker.1.name:0 "$planet_cracker_1$启动"
+ planet_cracker.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$planet_cracker_1$§!已经成功启动采矿激光开始采技矿物。"
+ 
+ orbital_farm.0.name:0 "$orbital_farm_0$完成"
+ orbital_farm.0.desc:0 "位于[From.From.From.From.Planet.GetName]的$orbital_farm_0$已经建造完成。我们可以开始建造生物园区了。"
+ 
+ orbital_farm.1.name:0 "$orbital_farm_1$完成"
+ orbital_farm.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$orbital_farm_0$§!已经建造完成。"
+ 
+ solar_igniter.0.name:0 "$giants_igniter_0$完成"
+ solar_igniter.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$giants_igniter_0$§!已经建造完成。$pc_gas_giant$的密度和温度还需要增加，直到氢气燃烧完。"
+ 
+ solar_igniter.1.name:0 "$giants_igniter_1$完成"
+ solar_igniter.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$giants_igniter_1$§!已经成功把星球改造成一个聚变反应堆。"
+ 
+ world_shaper.0.name:0 "$world_shaper_0$完成"
+ world_shaper.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$world_shaper_0$§!已经建造完成。现在我们必须创造一种适合我们人民居住的气候。"
+
+ world_shaper.1.name:0 "$world_shaper_1$完成"
+ world_shaper.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$world_shaper_1$§!已经成功将星球变成了$NUM_HABITABLE_WORLDS$。"
+ 
+ stellar_foundry.0.name:0 "$stellar_foundry_0$完成"
+ stellar_foundry.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$stellar_foundry_0$§!已经建造完成。现在只差点燃火炉了。"
+
+ stellar_foundry.1.name:0 "$stellar_foundry_1$完成"
+ stellar_foundry.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$stellar_foundry_1$§!已经成功点燃。"
+ 
+ orbital_fabricator.0.name:0 "$orbital_fabricator_0$完成"
+ orbital_fabricator.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$orbital_fabricator_0$§!已经建造完成。我们现在要建造必须的基础设施。"
+ 
+ orbital_fabricator.1.name:0 "$orbital_fabricator_1$完成"
+ orbital_fabricator.1.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$orbital_fabricator_1$§!已经成功以完全状态运作。"
+
+ celestial_ai.0.name:0 "$celestial_ai_0$完成"
+ celestial_ai.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§YNanite Production Site§!已经完成。接下来它会生产$celestial_ai_1$所需要的各种纳米材料。"
+
+ celestial_ai.1.name:0 "$celestial_ai_1$完成"
+ celestial_ai.1.desc:0 "我们已经成功将[From.From.From.From.Planet.GetName]改造成§Y$celestial_ai_1$§!。"
+ 
+ celestial_ai.2.name:0 "摧毁$celestial_ai_1$"
+ celestial_ai.2.desc:0 "[From.From.From.From.Planet.GetName]的§Y$celestial_ai_1$§!已经被摧毁。"
+ 
+ military_nexus.0.name:0 "$military_nexus_0$建造完成"
+ military_nexus.0.desc:0 "位于[From.From.From.From.Planet.GetName]的§Y$military_nexus_0$§!已经可以开始运作。"
+ 
+ wormhole_initiative.0.name:0 "虫洞研究计划成立"
+ wormhole_initiative.0.desc:0 "科学家们已经搬进了位于[From.From.From.From.Planet.GetName]的研究站。"
+ 
+ wormhole_initiative.1.name:0 "人工虫洞形成"
+ wormhole_initiative.1.desc:0 "我们的虫洞计划研究团队成功地在时空结构上撕开了一个口。由此产生了一个人工虫洞。"
+ 
+ protoplanetary_matter_extractor.0.name: "$protoplanetary_matter_extractor_0$建造完成"
+ protoplanetary_matter_extractor.0.desc: "位于[From.From.From.From.Planet.GetName]的§Y$protoplanetary_matter_extractor_0$§!已经建造完成。"
+ 
+ protoplanetary_matter_extractor.1.name: "$protoplanetary_matter_extractor_1$完成"
+ protoplanetary_matter_extractor.1.desc: "位于[From.From.From.From.Planet.GetName]的§Y$protoplanetary_matter_extractor_1$§!现在开始正常运作。"
+ 
+ planet_cracker.3.name:0 "$planet_cracker_1$"
+ planet_cracker.3.desc:0 "该$MEGASTRUCTURE$负责在数百万吨被开采的岩石中提取出有用的矿物质。"
+ 
+ orbital_farm.3.name:0 "$orbital_farm_1$"
+ orbital_farm.3.desc:0 "在农业圈中收获的物质正源源不断地流入我们的帝国。"
+ 
+ solar_igniter.3.name:0 "$giants_igniter_1$"
+ solar_igniter.3.desc:0 "我们的军事物理学家已经提交了一份申请，要利用我们的$giants_igniter_1$为我们新一代的空间站开发和测试实验性的热屏蔽以及太阳能收集器。"
+ 
+ world_shaper.3.name:0 "$world_shaper_1$"
+ world_shaper.3.desc:0 "我们的大气传感器阵列经常受到干扰。研究小组将这些干扰与我们星系中的舰队运动联系起来。也许这种技术能有军事用途？"
+ 
+ stellar_foundry.3.name:0 "$stellar_foundry_1$"
+ stellar_foundry.3.desc:0 "中子星附近的观测站让我们可以深入了解物质是怎样脱离超高密度物体的。我们的工程团队相信他们可能能够人工重现这种现象！"
+ 
+ celestial_ai.3.name:0 "$celestial_ai_1$"
+ celestial_ai.3.desc:0 "我国政府已经决定隔离在卫星上的纳米机械，我们的顾问开始担心它们的可能的变化。有些人甚至认为它们在收集周围星球的数据。"
+
+ celestial_ai.4.name:0 "AI消灭"
+ celestial_ai.4.desc:0 "我们毁灭了它们，让这些造物明白我们的力量和决心。尽管如此，我们有理由相信还是有一些纳米机械逃脱了封锁。"
+ 
+ ### custom Tooltip ###
+ 
+ requires_special_planet:1 "$TRIGGER_FAIL$这个星球类型不适合这个$MEGASTRUCTURE$。"
+ requires_dwarf_planet:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要一个矮行星。"
+ wrong_planet_size:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要一个足够大的星球。"
+ requires_giant:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要一个$pc_gas_giant$。"
+ requires_survey_habitable:1 "$TRIGGER_FAIL$不能建造在未经调查或不$NUM_HABITABLE_WORLDS$上。"
+ requires_moons_for_material:0 "$TRIGGER_FAIL$不能建造在没有卫星的星球上。"
+ #requires_no_black_hole:1 "$TRIGGER_FAIL$This superstructure cannot be build around a black hole."
+ requires_moon:1 "$TRIGGER_FAIL$T这个$MEGASTRUCTURE$需要一个无人居住的卫星。"
+ requires_close_watch:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造在我们的家园星系。"
+ requires_magnetic_star:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造在一个高度磁化的恒星（$pc_neutron_star$，$pc_pulsar$，$pc_magnetar$或$pc_microquasar_1$）附近。"
+ requires_m_star:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造M级恒星附近。"
+ requires_not_asteroid:1 "$TRIGGER_FAIL$不能建造在小行星上。"
+ requires_black_hole:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造黑洞附近。"
+ requires_capital:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造在首都星球附近。"
+ requires_protostar:1 "$TRIGGER_FAIL$这个$MEGASTRUCTURE$需要建造在$pc_protostar$上。"
+ tech_superstructures_society:0 "轨道$MEGASTRUCTURE$"
+ tech_superstructures_society_desc:0 "允许建造研究社会科学的空间站。"
+ tech_superstructures_physics:0 "轨道$MEGASTRUCTURE$"
+ tech_superstructures_physics_desc:0 "允许建造研究科学发展的空间站。"
+ tech_superstructures_engineering:0 "轨道$MEGASTRUCTURE$"
+ tech_superstructures_engineering_desc:0 "允许建造研究复杂工程学的空间站。"
+ allow_superstructures_society:0 "§H解锁$MEGASTRUCTURE$：§!$world_shaper_1$，$orbital_farm_1$和$military_nexus_0$"
+ allow_superstructures_physics:0 "§H解锁$MEGASTRUCTURE$：§!$giants_igniter_1$，$stellar_foundry_1$和$wormhole_initiative_0$"
+ allow_superstructures_engineering:0 "§H解锁$MEGASTRUCTURE$：§!$celestial_ai_1$，$orbital_fabricator_1$，$planet_cracker_1$和$protoplanetary_matter_extractor_1$"
+ society_0_MEGASTRUCTURE_DETAILS:1 "复杂的空间站，这将使我们的帝国社会更加繁荣。"
+ physics_0_MEGASTRUCTURE_DETAILS:1 "极其精密的仪器，能给我们提供大量的科学知识。"
+ engineering_0_MEGASTRUCTURE_DETAILS:1 "极其先进的空间站，使我们帝国的工程师能够化不可能为可能。"

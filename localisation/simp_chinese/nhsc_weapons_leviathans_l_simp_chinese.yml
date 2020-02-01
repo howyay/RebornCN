@@ -1,0 +1,63 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###   Enigmatic Energy Discharger    ###
+########################################
+
+NHSC_ENIGMATIC_CANNON: "神秘能量发射器"
+NHSC_ENIGMATIC_CANNON_DESC: "使用神秘技术的强大武器。"
+
+########################################
+###      Enigmatic Energy Lash       ###
+########################################
+
+NHSC_ENIGMATIC_LASH: "神秘能量冲击"
+NHSC_ENIGMATIC_LASH_DESC: "使用神秘技术的能够灼伤目标并释放能量的武器。"
+
+########################################
+###   Enigmatic Energy Autocannon    ###
+########################################
+
+NHSC_ENIGMATIC_AUTOCANNON: "神秘能量自动炮"
+NHSC_ENIGMATIC_AUTOCANNON_DESC: "使用神秘技术的快速能量武器。"
+
+########################################
+###      Enigmatic Energy Lance      ###
+########################################
+
+NHSC_ENIGMATIC_LANCE: "神秘能量光矛"
+NHSC_ENIGMATIC_LANCE_DESC: "一个使用神秘技术的能量喷枪。"
+NHSC_ENIGMATIC_LANCE_TITANIC: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_TITANIC_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+
+########################################
+###      Extradimensional Spike      ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_PD: "异次元尖钉"
+NHSC_EXTRADIMENSIONAL_PD_DESC: "从$leviathans.525.name$的攻击方式而逆向研究得到的武器。使用一种尖钉穿过传送门来攻击敌人。"
+
+########################################
+###        Tiyanki Beam Cannon       ###
+########################################
+
+NHSC_TIYANKI_CANNON: "$story.501.name$光束炮"
+NHSC_TIYANKI_CANNON_DESC: "一种能量喷枪，是根据$NAME_Elderly_Tiyanki$所使用的生物武器而设计的。"
+NHSC_TIYANKI_CANNON_TITANIC: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_TITANIC_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+
+########################################
+###        Junk Mines Launcher       ###
+########################################
+
+NHSC_JUNK_MINE_LAUNCHER: "垃圾地雷发射器"
+NHSC_JUNK_MINE_LAUNCHER_DESC: "一种基于$NAME_Scavenger_Bot$使用的武器。它使用廉价和简单的自我推进的地雷并将废金属和其他垃圾作为弹丸。"
+
+########################################
+###        Voidspawn Missile         ###
+########################################
+
+NHSC_VOIDSPAWN_MISSILE: "虚空飞弹"
+NHSC_VOIDSPAWN_MISSILE_DESC: "$leviathan_01_voidspawn$使用的有机导弹。"

@@ -1,0 +1,112 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+nhsc_building_centralresearchbureau: "中央研究机构"
+nhsc_building_centralresearchbureau_desc: "聚集帝国顶尖人才共同努力推进科技的地方。"
+
+nhsc_building_culture_nexus: "文化网络"
+nhsc_building_culture_nexus_desc: "我们帝国的人民可以在这里了解银河系和各种种族文化。"
+nhsc_building_cerebral_node: "大脑节点"
+nhsc_building_cerebral_node_desc: "一个大型的意识体不断地思考如何进一步改善蜂巢。"
+nhsc_building_network_regulator: "网络调节器"
+nhsc_building_network_regulator_desc: "一个特殊的处理节点，在其控制下的机器之间重新分配信息，大大提高了它们的效率。"
+
+nhsc_building_materials_laboratory: "先进材料实验室"
+nhsc_building_materials_laboratory_desc: "致力于开发更好的材料的大型实验室，既可以研究特殊项目也可以当作一般实验室来日常使用。"
+
+nhsc_building_technology_institute: "技术研究所"
+nhsc_building_technology_institute_desc: "致力于帝国技术进步的大型科学中心。"
+
+nhsc_building_enigmatic_tower: "神秘能量收集器"
+nhsc_building_enigmatic_tower_desc: "一个收集神秘能量核心产生的能量的高耸建筑。"
+
+nhsc_building_stellar_energy_tower: "恒星能源塔"
+nhsc_building_stellar_energy_tower_desc: "这座巨塔将光元素转换为纯能量，就像一个小太阳。"
+
+nhsc_building_quantum_node: "量子计算节点"
+nhsc_building_quantum_node_desc: "模拟$technosphere$处理器的特殊计算机网络。"
+job_esc_infinity_thinker_effect_desc: "£job_esc_infinity_thinker£ $job_esc_infinity_thinker_plural$将 £consumer_goods£ §Y$consumer_goods$§!转化为 £physics£ £society£ £engineering£ §YResearch Points§!。"
+job_esc_infinity_thinker_drone_effect_desc: "£job_esc_infinity_thinker_drone£ $job_esc_infinity_thinker_drone_plural$将 £minerals£ §Y$minerals$§!转化为 £physics£ £society£ £engineering£ §YResearch Points§!。"
+job_esc_infinity_thinker_unit_effect_desc: "£job_esc_infinity_thinker_unit£ $job_esc_infinity_thinker_unit_plural$将 £minerals£ §Y$minerals$§!转化为 £physics£ £society£ £engineering£ §YResearch Points§!。"
+
+nhsc_building_watcher: "永恒守望者"
+nhsc_building_watcher_desc: "一个巨大的复合体，它扭曲着现实，让我们能凝视过去、现在和未来。"
+
+nhsc_building_reprocessing_plant: "再处理工厂"
+nhsc_building_reprocessing_plant_desc: "这个先进的回收和再加工设施可以从普通垃圾中提取出大量有用资源。"
+job_esc_reprocessor_effect_desc: "£job_esc_reprocessor£ $job_esc_reprocessor_plural$z将 £minerals£ §Y$minerals$§!和 £energy£ §Y$energy$§!转化成 £consumer_goods£ §Y$consumer_goods$§!和 £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_drone_effect_desc: "£job_esc_reprocessor_drone£ $job_esc_reprocessor_drone_plural$将 £minerals£ §Y$minerals$§!和 £food£ §Y$food$§! 转化成 £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_unit_effect_desc: "£job_esc_reprocessor_unit£ $job_esc_reprocessor_unit_plural$将 £minerals£ §Y$minerals$§!和 £energy£ §Y$energy$§!转化成 £alloys£ §Y$alloys$§!."
+
+nhsc_building_zro_distillery: "$sr_zro$蒸馏间"
+nhsc_building_zro_distillery_desc: "这个先进的加工设备可以从堆积如山的原料中筛选出极具战略价值的$sr_zro$粉尘。"
+job_esc_zro_distiller_effect_desc: "£job_esc_zro_distiller£ $job_esc_zro_distiller_plural$生产 £sr_zro£ $sr_zro$ 的原材料。"
+job_esc_zro_distiller_drone_effect_desc: "£job_esc_zro_distiller_drone£ $job_esc_zro_distiller_drone_plural$生产 £sr_zro£ $sr_zro$的原材料。"
+
+nhsc_building_dark_matter_facility: "暗物质提取设施"
+nhsc_building_dark_matter_facility_desc: "该设施能产生巨大而复杂的引力场将时空结构弯曲，从而产生暗物质。"
+job_esc_dark_matter_shaper_effect_desc: "£job_esc_dark_matter_shaper£ $job_esc_dark_matter_shaper_plural$将 £energy£ §Y$energy$§!和 £consumer_goods£ §Y$consumer_goods$§!转换成 £sr_dark_matter£ §Y$sr_dark_matter$§!和 £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_drone_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$将 £energy£ §Y$energy$§!, £minerals£ §Y$minerals$§!和 £food£ §Y$food$§!转换成 £sr_dark_matter£ §Y$sr_dark_matter$§!和 £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_unit_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$将 £energy£ §Y$energy$§!和 £minerals£ §Y$minerals$§!转换成 £sr_dark_matter£ §Y$sr_dark_matter$§!和 £physics_research£ §Y$physics_research$§!"
+
+nhsc_building_magmaminer_1: "地幔采矿设施"
+nhsc_building_magmaminer_1_desc: "一个巨大的矿井,一直延伸到星球的核心。它需要数不清的工人来配合操作，来产生大量的资源。\n\n§R警告G：建造该建筑将永久减少5个可用地区。§!"
+nhsc_building_magmaminer_2: "先进地幔采矿设施"
+nhsc_building_magmaminer_2_desc: "一个更大、效率更高的矿井，可以从星球内核中开采有价值的资源。"
+job_esc_planetary_core_miner_effect_desc: "£job_esc_planetary_core_miner£ $job_esc_planetary_core_miner_plural$通过开采星球的地幔和地核来生产大量的 £minerals£ §Y$minerals$§!。"
+job_esc_planetary_core_miner_drone_effect_desc: "£job_esc_planetary_core_miner_drone£ $job_esc_planetary_core_miner_drone_plural$通过开采星球的地幔和地核来生产大量的 £minerals£ §Y$minerals$§!。"
+job_esc_planetary_core_miner_unit_effect_desc: "£job_esc_planetary_core_miner_unit£ $job_esc_planetary_core_miner_unit_plural$通过开采星球的地幔和地核来生产大量的 £minerals£ §Y$minerals$§! 。"
+
+### special resource production buildings
+
+nhsc_building_nanite_foundry: "纳米机械铸造厂"
+nhsc_building_nanite_foundry_desc: "一个专注于制造纳米机械的巨型建筑群。"
+job_esc_nanite_breeder_effect_desc: "£job_esc_nanite_breeder£ $job_esc_nanite_breeder_plural$将 £consumer_goods£ §Y$consumer_goods$§!和 £alloys£ §Y$alloys$§!转化成 £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_drone_effect_desc: "£job_esc_nanite_breeder_drone£ $job_esc_nanite_breeder_drone_plural$将 £food£ §Y$food$§!和 £alloys£ §Y$alloys$§!转化成 £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_unit_effect_desc: "£job_esc_nanite_breeder_unit£ $job_esc_nanite_breeder_unit_plural$将 £energy£ §Y$energy$§!和 £alloys£ §Y$alloys$§!转化成 £nanites£ §Y$nanites$§!."
+
+building_esc_crystal_farm_1: "水晶农场"
+building_esc_crystal_farm_1_desc: "这里的大片土地被用来种植半有机晶体。"
+building_esc_crystal_farm_2: "改良型水晶农场"
+building_esc_crystal_farm_2_desc: "一个能更有效种植半有机晶体物质的农场。"
+job_esc_crystal_farmer_effect_desc: "£job_esc_crystal_farmer£ $job_esc_crystal_farmer_plural$将 £consumer_goods£ §Y$consumer_goods$§!和 £minerals£ §Y$minerals$§!转化成 £esc_living_crystal£ §Y$esc_living_crystal$§!和 £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_drone_effect_desc: "£job_esc_crystal_farmer_drone£ $job_esc_crystal_farmer_drone_plural$将 £food£ §Y$food$§!和 £minerals£ §Y$minerals$§!转化成 £esc_living_crystal£ §Y$esc_living_crystal$§!和 £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_unit_effect_desc: "$£job_esc_crystal_farmer_unit£ $job_esc_crystal_farmer_unit_plural$将 £energy£ §Y$energy$§!和 £minerals£ §Y$minerals$§!转化成 £esc_living_crystal£ §Y$esc_living_crystal$§!和 £alloys£ §Y$alloys$§!."
+
+nhsc_building_psionic_containment: "灵能控制器"
+nhsc_building_psionic_containment_desc: "该设施能收集和将星球上人们释放的灵能能量凝聚起来。"
+job_esc_channeller_effect_desc: "£job_esc_channeller£ $job_esc_channeller_plural$将 £energy£ §Y$energy$§!和 £food£ §Y$food$§!转化成 £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+job_esc_channeller_drone_effect_desc: "£job_esc_channeller_drone£ $job_esc_channeller_drone_plural$将 £energy£ §Y$energy$§!和 £food£ §Y$food$§!转化成 £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+
+nhsc_building_graviton_condenser: "引力子电容器"
+nhsc_building_graviton_condenser_desc: "专门用于收集并储存引力子的建筑物。"
+job_esc_gravity_manipulator_effect_desc: "£job_esc_gravity_manipulator£ $job_esc_gravity_manipulator_plural$将 £energy£ §Y$energy$§!和 £consumer_goods£ §Y$consumer_goods$§!转变成 £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_drone_effect_desc: "£job_esc_gravity_manipulator_drone£ $job_esc_gravity_manipulator_drone_plural$将 £energy£ §Y$energy$§!和 £food£ §Y$food$§!转化成 £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_unit_effect_desc: "£job_esc_gravity_manipulator_unit£ $job_esc_gravity_manipulator_unit_plural$将 £energy£ §Y$energy$§!转化成 £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+
+nhsc_building_dimensional_breach: "裂缝控制器"
+nhsc_building_dimensional_breach_desc: "这是一个拥有各种专业设备，包括大规模的立场发生器，能够扭曲现实的实验设施。"
+job_esc_dimension_warper_effect_desc: "£job_esc_dimension_warper£ $job_esc_dimension_warper_plural$将 £energy£ §Y$energy$§!和 £consumer_goods£ §Y$consumer_goods$§!转化成 £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_drone_effect_desc: "£job_esc_dimension_warper_drone£ $job_esc_dimension_warper_drone_plural$将 £energy£ §Y$energy$§!和 £food£ §Y$food$§!转化成 £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_unit_effect_desc: "£job_esc_dimension_warper_unit£ $job_esc_dimension_warper_unit_plural$将 £energy£ §Y$energy$§!转化成 £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+
+nhsc_building_enigmatic_coil: "神秘能量线圈"
+nhsc_building_enigmatic_coil_desc: "这座巨型发电机能收集并增加供能效率，类似于$enigmatic_fortress_chain_title$的能量供给方式。"
+job_esc_enigma_reader_effect_desc: "£job_esc_enigma_reader£ $job_esc_enigma_reader_plural$将 £energy£ §Y$energy$§!和 £consumer_goods£ §Y$consumer_goods$§!转化成 £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_drone_effect_desc: "£job_esc_enigma_reader_drone£ $job_esc_enigma_reader_drone_plural$将 £energy£ §Y$energy$§!和 £food£ §Y$food$§!转化成 £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_unit_effect_desc: "£job_esc_enigma_reader_unit£ $job_esc_enigma_reader_unit_plural$将 £energy£ §Y$energy$§!转化成 £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+
+### Fallen Empire Buildings
+
+nhsc_building_nanite_containment: "纳米机械存储设施"
+nhsc_building_nanite_containment_desc: "一个储存了大量可自我复制的纳米机械的大型容器，应该是由一个早已消亡且极其先进的文明制造的。"
+
+nhsc_building_psi_energy_spire: "灵能能量塔"
+nhsc_building_psi_energy_spire_desc: "这个庞大的巨型装置里运转着物质世界以及从天幕抽出的能量。"
+
+nhsc_building_localized_gravity_fault: "局部断层控制器"
+nhsc_building_localized_gravity_fault_desc: "很久以前，在这个地区进行的一项实验将这里的时空撕开了一个裂口。这个裂缝从那时起就被用于吸取其他次元的大量资源。"
+
+nhsc_building_crystalline_manufacture: "水晶加工厂"
+nhsc_building_crystalline_manufacture_desc: "这个工厂使用一种失传已久的技术来加工活水晶，从而获得几乎无限的珍稀资源。"

@@ -1,0 +1,326 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###          Auxiliary Slots         ###
+########################################
+
+NHSC_REPAIR_DRONES: "维修无人机"
+NHSC_REPAIR_DRONES_DESC: "对船体进行紧急修理的自动机器人。"
+
+NHSC_ADV_SHIELD_RECHARGER: "先进$SHIELD_BOOSTER$"
+NHSC_ADV_SHIELD_RECHARGER_DESC: "新型的改良型，更强大的$SHIELD_BOOSTER$器，比旧型号更快地再生护盾。"
+
+NHSC_BLUE_CRYSTAL_CAPACITOR: "晶体注入型$SHIELD_BOOSTER$"
+NHSC_BLUE_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_crystalinfusedcapacitor_desc$"
+
+NHSC_RED_CRYSTAL_CAPACITOR: "晶体强化型$SHIELD_BOOSTER$"
+NHSC_RED_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_crystalinfusedcapacitor_desc$"
+
+NHSC_STELLARITE_POWER_CORE: "$leviathans.520.name$能量核心"
+NHSC_STELLARITE_POWER_CORE_DESC: "存在于$leviathans.520.name$心脏的能将光元素转换为纯能量的半有机实体。"
+
+NHSC_STANDARDIZED_WARHEADS: "标准化弹头"
+NHSC_STANDARDIZED_WARHEADS_DESC: "导弹弹头的标准化使我们能够减少故障从而减少被杂志批评的风险，也能改进导弹武器。"
+
+NHSC_PSI_REINFORCEMENT: "灵能强化"
+NHSC_PSI_REINFORCEMENT_DESC: "重定向船员的精神能量，以支撑和加强舰船的结构完整性。"
+
+NHSC_AFTERBURNER_3: "脉冲等离子加力燃烧室"
+NHSC_AFTERBURNER_3_DESC: "改良了能量和燃料效率的先进加力燃烧室。"
+
+NHSC_REACTOR_BOOSTER_4: "辅助零点反应堆"
+NHSC_REACTOR_BOOSTER_4_DESC: "为舰船系统产生额外能量的次级反应堆。"
+
+NHSC_REACTOR_BOOSTER_5: "辅助奇点反应堆"
+NHSC_REACTOR_BOOSTER_5_DESC: "改进的$NHSC_REACTOR_BOOSTER_4$，为舰船提供更多电量。"
+
+NHSC_ADV_AUX_FIRE_CONTROL: "先进火控系统"
+NHSC_ADV_AUX_FIRE_CONTROL_DESC: "这台辅助计算机为舰船武器提供了精确的射击方案。"
+
+NHSC_STRUCTURAL_REINFORCEMENT: "结构强化"
+NHSC_STRUCTURAL_REINFORCEMENT_DESC: "以牺牲较小的装甲为代价来加强船体结构，使基础船体更加坚固。"
+
+########################################
+###           Strikecrafts           ###
+########################################
+
+NHSC_FIGHTERS_HANGAR_4: "战术拦截机"
+NHSC_FIGHTERS_HANGAR_4_DESC: "新一代的航载机拦截手段，可以在任何条件下进行最佳操作。"
+NHSC_BOMBERS_HANGAR_4: "战术轰炸机"
+NHSC_BOMBERS_HANGAR_4_DESC: "新一代的轰炸机攻击手段，能在任何条件下进行微调和最佳操作。"
+
+NHSC_FIGHTERS_HANGAR_5: "破城者拦截机"
+NHSC_FIGHTERS_HANGAR_5_DESC: "终极的战术拦截机。"
+NHSC_BOMBERS_HANGAR_5: "破城者轰炸机"
+NHSC_BOMBERS_HANGAR_5_DESC: "终极的战术轰炸机。"
+
+NHSC_CYBER_AMOEBA: "机械装备强化变形虫"
+NHSC_CYBER_AMOEBA_DESC: "将集成芯片植入到有目的培养的变形虫中，他们将成为强大且凶猛的战机。"
+
+NHSC_RAVAGING_SWARMERS: "肆虐的群蜂"
+NHSC_RAVAGING_SWARMERS_DESC: "这些蜂群已经被训练银河系有史以来最强大凶猛的有机体战术攻击艇。"
+
+NHSC_MERCENRY_HANGAR_1: "雇佣兵中队"
+NHSC_MERCENRY_HANGAR_1_DESC: "一群自私自利的太空杀手，他们愿意付费为我们的事业而战。虽然没有真正士兵的那么有纪律和荣誉，但胜在便宜、有效。"
+
+NHSC_MERCENRY_HANGAR_2: "雇佣兵精英中队"
+NHSC_MERCENRY_HANGAR_2_DESC: "雇佣这些技术娴熟的杀手比雇佣普通的雇佣兵要贵得多，他们既有经验也有技术，可以用传统的舰载机进行一对一的对抗。"
+
+########################################
+###         Special Resources        ###
+########################################
+
+esc_psionic_charge: "灵能能量"
+esc_psionic_charge_desc: "这种稳定的能量涡流被认为是“灵魂”的必要成分。"
+
+esc_gravitic_anomaly: "引力异常"
+esc_gravitic_anomaly_desc: "被控制的引力异常，正准备被我们的军队所用。"
+
+esc_living_crystal: "活水晶"
+esc_living_crystal_desc: "这种半有机水晶可以加工模拟成任何稀有晶体。"
+
+esc_transdimensional_vortex: "次元涡流"
+esc_transdimensional_vortex_desc: "另一个次元的能量听从我们的召唤而来。希望释放它们不会造成......事故。"
+
+esc_enigmatic_energy: "神秘能量"
+esc_enigmatic_energy_desc: "成功重现$enigmatic_fortress_chain_title$的供能方式后的产物。"
+
+########################################
+###               Jobs               ###
+########################################
+
+job_esc_crystal_farmer: "水晶培育员$JOBS_TITLE$"
+job_esc_crystal_farmer_plural: "水晶培育员"
+mod_job_esc_crystal_farmer_add: "$job_esc_crystal_farmer$"
+job_esc_crystal_farmer_desc: "这些人负责管理种植活晶体和少量合金的水晶农场。"
+job_esc_crystal_farmer_drone: "水晶培育蜂$JOBS_TITLE$"
+job_esc_crystal_farmer_drone_plural: "水晶培育蜂"
+mod_job_esc_crystal_farmer_drone_add: "$job_esc_crystal_farmer_drone$"
+job_esc_crystal_farmer_drone_desc: "这里由专用个体负责管理种植活晶体和少量合金的水晶农场。"
+job_esc_crystal_farmer_unit: "水晶农场管理单元$JOBS_TITLE$"
+job_esc_crystal_farmer_unit_plural: "水晶农场管理单元"
+mod_job_esc_crystal_farmer_unit_add: "$job_esc_crystal_farmer_unit$"
+job_esc_crystal_farmer_unit_desc: "$job_esc_crystal_farmer_drone_desc$"
+
+job_esc_channeller: "引导者$JOBS_TITLE$"
+job_esc_channeller_plural: "引导者"
+mod_job_esc_channeller_add: "$job_esc_channeller$"
+job_esc_channeller_desc: "这个特殊群体的工作是引导灵能能量流来贯通电容器，从而产生灵能。"
+job_esc_channeller_drone: "牵引蜂$JOBS_TITLE$"
+job_esc_channeller_drone_plural: "牵引蜂"
+mod_job_esc_channeller_drone_add: "$job_esc_channeller_drone$"
+job_esc_channeller_drone_desc: "由这些个体的大脑产生灵能能量并将其储存。"
+
+job_esc_gravity_manipulator: "引力操纵器管理员$JOBS_TITLE$"
+job_esc_gravity_manipulator_plural: "引力操纵器管理员"
+mod_job_esc_gravity_manipulator_add: "$job_esc_gravity_manipulator$"
+job_esc_gravity_manipulator_desc: "这些专家管理着能产生引力异常的特殊引力发生器。"
+job_esc_gravity_manipulator_drone: "引力操纵器管理蜂$JOBS_TITLE$"
+job_esc_gravity_manipulator_drone_plural: "引力操纵器管理蜂"
+mod_job_esc_gravity_manipulator_drone_add: "$job_esc_gravity_manipulator_drone$"
+job_esc_gravity_manipulator_drone_desc: "这些个体管理着能产生引力异常的特殊引力发生器。"
+job_esc_gravity_manipulator_unit: "引力操纵器管理单元$JOBS_TITLE$"
+job_esc_gravity_manipulator_unit_plural: "引力操纵器管理单元"
+mod_job_esc_gravity_manipulator_unit_add: "$job_esc_gravity_manipulator_unit$"
+job_esc_gravity_manipulator_unit_desc: "$job_esc_gravity_manipulator_drone_desc$"
+
+job_esc_dimension_warper: "次元扭曲器管理员$JOBS_TITLE$"
+job_esc_dimension_warper_plural: "次元扭曲器管理员"
+mod_job_esc_dimension_warper_add: "$job_esc_dimension_warper$"
+job_esc_dimension_warper_desc: "这个专家群体负责监督产生跨维度旋涡的次元裂缝的工作。"
+job_esc_dimension_warper_drone: "次元扭曲器管理蜂$JOBS_TITLE$"
+job_esc_dimension_warper_drone_plural: "次元扭曲器管理蜂"
+mod_job_esc_dimension_warper_drone_add: "$job_esc_dimension_warper_drone$"
+job_esc_dimension_warper_drone_desc: "这些特殊个体负责监督产生跨维度旋涡的次元裂缝的工作。"
+job_esc_dimension_warper_unit: "次元扭曲器管理单元$JOBS_TITLE$"
+job_esc_dimension_warper_unit_plural: "次元扭曲器管理单元"
+mod_job_esc_dimension_warper_unit_add: "$job_esc_dimension_warper_unit$"
+job_esc_dimension_warper_unit_desc: "$job_esc_dimension_warper_drone_desc$"
+
+job_esc_enigma_reader: "神秘探求者$JOBS_TITLE$"
+job_esc_enigma_reader_plural: "神秘探求者"
+mod_job_esc_enigma_reader_add: "$job_esc_enigma_reader$"
+job_esc_enigma_reader_desc: "这些专家的工作就是让这个神秘的能量线圈发电。"
+job_esc_enigma_reader_drone: "秘读蜂$JOBS_TITLE$"
+job_esc_enigma_reader_drone_plural: "秘读蜂"
+mod_job_esc_enigma_reader_drone_add: "$job_esc_enigma_reader_drone$"
+job_esc_enigma_reader_drone_desc: "这些个体的工作是让这个神秘的线圈产生能量。"
+job_esc_enigma_reader_unit: "解密单元$JOBS_TITLE$"
+job_esc_enigma_reader_unit_plural: "解密单元"
+mod_job_esc_enigma_reader_unit_add: "$job_esc_enigma_reader_unit$"
+job_esc_enigma_reader_unit_desc: "$job_esc_enigma_reader_drone_desc$"
+
+job_esc_nanite_breeder: "纳米机械培养员$JOBS_TITLE$"
+job_esc_nanite_breeder_plural: "纳米机械培养员"
+mod_job_esc_nanite_breeder_add: "$job_esc_nanite_breeder$"
+job_esc_nanite_breeder_desc: "这些专家的工作是研究远古纳米加工厂并用其制造纳米机械。"
+job_esc_nanite_breeder_drone: "纳米机械制造蜂$JOBS_TITLE$"
+job_esc_nanite_breeder_drone_plural: "纳米机械制造蜂"
+mod_job_esc_nanite_breeder_drone_add: "$job_esc_nanite_breeder_drone$"
+job_esc_nanite_breeder_drone_desc: "这些个体会使用远古纳米加工厂制造大量纳米机械。"
+job_esc_nanite_breeder_unit: "纳米机械制造单元$JOBS_TITLE$"
+job_esc_nanite_breeder_unit_plural: "纳米机械制造单元"
+mod_job_esc_nanite_breeder_unit_add: "$job_esc_nanite_breeder_unit$"
+job_esc_nanite_breeder_unit_desc: "$job_esc_nanite_breeder_drone_desc$"
+
+job_esc_reprocessor: "再处理厂操作员$JOBS_TITLE$"
+job_esc_reprocessor_plural: "再处理厂操作员"
+mod_job_esc_reprocessor_add: "$job_esc_reprocessor$"
+job_esc_reprocessor_desc: "这些专家负责操作再处理厂，从废料中挑选有用的材料。"
+mod_job_esc_reprocessor_per_pop: "每§Y25§!人口增加§G+1§!$job_esc_reprocessor$"
+mod_job_esc_reprocessor_per_pop_short: "\n每§Y25§! £pop£ §G+1§! £job_esc_reprocessor£"
+job_esc_reprocessor_drone: "再处理厂管理蜂$JOBS_TITLE$"
+job_esc_reprocessor_drone_plural: "再处理厂管理蜂"
+mod_job_esc_reprocessor_drone_add: "$job_esc_reprocessor_drone$"
+job_esc_reprocessor_drone_desc: "这些个体操作再处理厂，从废料中挑选有用的材料。"
+mod_job_esc_reprocessor_drone_per_pop: "每§Y25§!人口增加§G+1§! $job_esc_reprocessor_drone$"
+mod_job_esc_reprocessor_drone_per_pop_short: "\n每§Y25§! £pop£ §G+1§! £job_esc_reprocessor_drone£"
+job_esc_reprocessor_unit: "再处理单元$JOBS_TITLE$"
+job_esc_reprocessor_unit_plural: "再处理单元"
+mod_job_esc_reprocessor_unit_add: "$job_esc_reprocessor_unit$"
+job_esc_reprocessor_unit_desc: "$job_esc_reprocessor_drone_desc$"
+mod_job_esc_reprocessor_unit_per_pop: "每§Y25§!人口增加§G+1§! $job_esc_reprocessor_unit$"
+mod_job_esc_reprocessor_unit_per_pop_short: "\n每§Y25§! £pop£ §G+1§! £job_esc_reprocessor_unit£"
+
+job_esc_infinity_thinker: "无限探求者$JOBS_TITLE$"
+job_esc_infinity_thinker_plural: "无限探求者"
+mod_job_esc_infinity_thinker_add: "$job_esc_infinity_thinker$"
+job_esc_infinity_thinker_desc: "这些勇敢的研究人员利用量子计算节点一头扎进"$leviathans.1030.name$"的问题中。虽然他们还没有找到解决办法，但他们的努力确实产生了许多有价值的发现。"
+job_esc_infinity_thinker_drone: "思考蜂$JOBS_TITLE$"
+job_esc_infinity_thinker_drone_plural: "思考蜂"
+mod_job_esc_infinity_thinker_drone_add: "$job_esc_infinity_thinker_drone$"
+job_esc_infinity_thinker_drone_desc: "这些特殊个体花费大量时间来解决"$leviathans.1030.name$"的问题，并得出很多有价值的发现。"
+job_esc_infinity_thinker_unit: "无极处理单元$JOBS_TITLE$"
+job_esc_infinity_thinker_unit_plural: "无极处理单元"
+mod_job_esc_infinity_thinker_unit_add: "$job_esc_infinity_thinker_unit$"
+job_esc_infinity_thinker_unit_desc: "$job_esc_infinity_thinker_drone_desc$"
+
+job_esc_zro_distiller: "$sr_zro$蒸馏间操作员$JOBS_TITLE$"
+job_esc_zro_distiller_plural: "$sr_zro$蒸馏间操作员"
+mod_job_esc_zro_distiller_add: "$job_esc_zro_distiller$"
+job_esc_zro_distiller_desc: "$sr_zro$蒸馏间的操作人员负责从原料中提取微量的$sr_zro$。"
+job_esc_zro_distiller_drone: "蒸馏蜂$JOBS_TITLE$"
+job_esc_zro_distiller_drone_plural: "蒸馏蜂"
+mod_job_esc_zro_distiller_drone_add: "$job_esc_zro_distiller_drone$"
+job_esc_zro_distiller_drone_desc: "$job_esc_zro_distiller_desc$"
+
+job_esc_dark_matter_shaper: "暗物质塑造者$JOBS_TITLE$"
+job_esc_dark_matter_shaper_plural: "暗物质塑造者"
+mod_job_esc_dark_matter_shaper_add: "$job_esc_dark_matter_shaper$"
+job_esc_dark_matter_shaper_desc: "这些专家操作着机器，为我们的帝国提供这种稀有资源。"
+job_esc_dark_matter_shaper_drone: "塑形蜂$JOBS_TITLE$"
+job_esc_dark_matter_shaper_drone_plural: "塑形蜂"
+mod_job_esc_dark_matter_shaper_drone_add: "$job_esc_dark_matter_shaper_drone$"
+job_esc_dark_matter_shaper_drone_desc: "这些个体操作着机器，为我们提供这种稀有资源。"
+job_esc_dark_matter_shaper_unit: "暗物质生产单元$JOBS_TITLE$"
+job_esc_dark_matter_shaper_unit_plural: "暗物质生产单元"
+mod_job_esc_dark_matter_shaper_unit_add: "$job_esc_dark_matter_shaper_unit$"
+job_esc_dark_matter_shaper_unit_desc: "$job_esc_dark_matter_shaper_drone_desc$"
+
+job_esc_planetary_core_miner: "星球核心矿工$JOBS_TITLE$"
+job_esc_planetary_core_miner_plural: "星球核心矿工"
+mod_job_esc_planetary_core_miner_add: "$job_esc_planetary_core_miner$"
+job_esc_planetary_core_miner_desc: "从星球的地幔和地核中提取有价值资源的矿工。"
+job_esc_planetary_core_miner_drone: "地核开采蜂$JOBS_TITLE$"
+job_esc_planetary_core_miner_drone_plural: "地核开采蜂"
+mod_job_esc_planetary_core_miner_drone_add: "$job_esc_planetary_core_miner_drone$"
+job_esc_planetary_core_miner_drone_desc: "从星球的地幔和地核中提取有价值资源的采矿个体。"
+job_esc_planetary_core_miner_unit: "地核开采单元$JOBS_TITLE$"
+job_esc_planetary_core_miner_unit_plural: "地核开采单元"
+mod_job_esc_planetary_core_miner_unit_add: "$job_esc_planetary_core_miner_unit$"
+job_esc_planetary_core_miner_unit_desc: "$job_esc_planetary_core_miner_drone_desc$"
+
+job_esc_borehole_maintainer: "钻孔维护者$JOBS_TITLE$"
+job_esc_borehole_maintainer_plural: "钻孔维护者"
+mod_job_esc_borehole_maintainer_add: "$job_esc_borehole_maintainer$"
+job_esc_borehole_maintainer_desc: "确保地幔采矿设备的钻孔处于最好状态的专家。他们还能从地核中获取额外的资源。"
+job_esc_borehole_maintainer_drone: "钻孔维护蜂$JOBS_TITLE$"
+job_esc_borehole_maintainer_drone_plural: "钻孔维护蜂"
+mod_job_esc_borehole_maintainer_drone_add: "$job_esc_borehole_maintainer_drone$"
+job_esc_borehole_maintainer_drone_desc: "确保地幔采矿设备的钻孔处于最好状态的专用个体。它们还能从地核中获取额外的资源。"
+job_esc_borehole_maintainer_unit: "钻孔维护单元$JOBS_TITLE$"
+job_esc_borehole_maintainer_unit_plural: "钻孔维护单元"
+mod_job_esc_borehole_maintainer_unit_add: "$job_esc_borehole_maintainer_unit$"
+job_esc_borehole_maintainer_unit_desc: "$job_esc_borehole_maintainer_drone_desc$"
+
+########################################
+###    Deposits and Tile Blockers    ###
+########################################
+
+d_nhsc_large_borehole_1: "深层钻孔"
+d_nhsc_large_borehole_1_desc: "为了从星球的地幔和地核中提取资源而形成的一个巨大的洞。"
+d_nhsc_large_borehole_2: "$d_nhsc_large_borehole_1$扩展"
+d_nhsc_large_borehole_2_desc: "$d_nhsc_large_borehole_1_desc$"
+
+########################################
+###              Edicts              ###
+########################################
+
+edict_nhsc_mega_construction: "巨型工程建设项目"
+edict_nhsc_mega_construction_desc: "将劳动力重新分配到最需要的地方，我们可以实现令人难以置信的成果"
+
+edict_nhsc_millennium_project: "千年计划"
+edict_nhsc_millennium_project_desc: "巨型结构是我们工程天才的最伟大的证明，任何东西都不应该妨碍他们。"
+
+edict_nhsc_mod_control_edict: "ESC 3.0控制菜单"
+edict_nhsc_mod_control_edict_desc: "打开 ESC 3.0选项菜单"
+edict_nhsc_mod_control_edict2: "$edict_nhsc_mod_control_edict$"
+edict_nhsc_mod_control_edict2_desc: "$edict_nhsc_mod_control_edict_desc$"
+
+edict_nhsc_edict_living_crystal_trading: "活水晶交易"
+edict_nhsc_edict_living_crystal_trading_desc: "通过向民用市场投放大量优质的活水晶，我们可以刺激整个帝国的奢侈品生产。"
+
+edict_nhsc_edict_living_crystals_extractors: "活水晶采集器"
+edict_nhsc_edict_living_crystals_extractors_desc: "对活水晶的研究可以改进我们的采集方式，这将显著提高稀有晶体的开采速度。"
+
+edict_nhsc_edict_psychic_unification: "精神统一"
+edict_nhsc_edict_psychic_unification_desc: "消耗大量储存的灵能，我们可以使人民更容易接受我们的政府和政策。"
+
+edict_nhsc_edict_psionic_avatar: "召唤灵能化身"
+edict_nhsc_edict_psionic_avatar_desc: "有了足够多的灵能，我们就可以从虚境中召唤意志强大的实体并受我们控制。"
+
+edict_nhsc_edict_improved_gravity_manipulation: "改进引力操作"
+edict_nhsc_edict_improved_gravity_manipulation_desc: "将控制引力异常的技术应用到工程领域将大大缩短项目的施工时间。"
+
+edict_nhsc_edict_gravitic_foundries: "引力铸造厂"
+edict_nhsc_edict_gravitic_foundries_desc: "利用引力压力机凝聚物质，我们可以更有效地制造出合金。"
+
+edict_nhsc_edict_improved_nano_assemblers: "改进的纳米组装器"
+edict_nhsc_edict_improved_nano_assemblers_desc: "使用专门的纳米材料生产日常用品将使我们更容易满足人口日益增长的需求。"
+
+edict_nhsc_edict_maintenance_nanites: "维护用纳米机械"
+edict_nhsc_edict_maintenance_nanites_desc: "使用专门的纳米技术将使我们帝国的无人机更容易保持良好状态。"
+
+edict_nhsc_edict_enigmatic_energy_boost: "神秘能量整合"
+edict_nhsc_edict_enigmatic_energy_boost_desc: "通过向电网释放多余的神秘能量，我们可以改善帝国的能源生产，使我们的船舶能够自给自足。"
+
+edict_nhsc_edict_transdimensional_research: "跨次元研究"
+edict_nhsc_edict_transdimensional_research_desc: "我们的研究部门开始研究次元漩涡的奥秘，这将显著提高研究效率。"
+
+########################################
+###          Starbase stuff          ###
+########################################
+
+sm_nhsc_starbase_reactor: "$OUTLINER_STARBASES$反应堆"
+sm_nhsc_starbase_reactor_desc: "能够维持巨大太空设施的巨大零点反应堆。"
+
+########################################
+###            Event stuff           ###
+########################################
+
+nhsc_buildings.111.name: "矿藏"
+nhsc_buildings.111.desc: "报告称，矿工们在§Y[Root.GetName]§!星球的地幔中提出出一组非常有价值的矿物。"
+
+nhsc_buildings.112.name: "熔融合金"
+nhsc_buildings.112.desc: "报告陈，矿工们在§Y[Root.GetName]§!星球的地幔中提取出大量的熔融合金和一些常见矿物。"
+
+nhsc_buildings.113.name: "水晶赠品"
+nhsc_buildings.113.desc: "报告称，矿工们在§Y[Root.GetName]§!星球的地幔中提取出几大簇的$rare_crystals$"
+
+nhsc_buildings.114.name: "熔化微粒"
+nhsc_buildings.114.desc: "报告称，矿工们在§Y[Root.GetName]§!星球的地幔中提取出大量的$volatile_motes$，这些粉尘溶解在地幔的岩石中。"
+
+nhsc_buildings.115.name: "外来气穴"
+nhsc_buildings.115.desc: "报告称，矿工们在§Y[Root.GetName]§!星球的地幔中发现了一些$exotic_gases$。并且开采成功，获得了大量资源。"

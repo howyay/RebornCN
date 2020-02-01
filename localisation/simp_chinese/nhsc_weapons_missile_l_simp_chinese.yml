@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###        Missiles : normal         ###
+########################################
+
+NHSC_MISSILE_6: "诙谐者导弹"
+NHSC_MISSILE_6_DESC: "强大而棘手的击破火箭。"
+
+NHSC_MISSILE_7: "幽灵导弹"
+NHSC_MISSILE_7_DESC: "死亡悄悄到来。"
+
+########################################
+###        Missiles : swarmer        ###
+########################################
+
+NHSC_SWARMER_MISSILES_3: "台风导弹"
+NHSC_SWARMER_MISSILES_3_DESC: "新一代使用力量和数量压倒一切防御力和敌人的蜂群导弹。"
+
+NHSC_SWARMER_MISSILES_4: "飓风导弹"
+NHSC_SWARMER_MISSILES_4_DESC: "超时空导弹大屠杀真实上演。"
+
+########################################
+###        Missiles : torpedo        ###
+########################################
+
+NHSC_TORPEDO_4: "辐射鱼雷"
+NHSC_TORPEDO_4_DESC: "新一代的太空鱼雷比以前制造的鱼雷的更具破坏性。"
+
+NHSC_TORPEDO_5: "消灭者鱼雷"
+NHSC_TORPEDO_5_DESC: "一种能想到的最强大的常规鱼雷。"
+
+NHSC_CORROSIVE_WARHEAD: "侵蚀鱼雷"
+NHSC_CORROSIVE_WARHEAD_DESC: "一种能将时空撕裂分离的可怕武器。"
+
+########################################
+###        Missiles : plasma         ###
+########################################
+
+NHSC_PLASMA_MISSILE_1: "等离子体导弹"
+NHSC_PLASMA_MISSILE_1_DESC: "能像火箭一样寻找目标的等离子体导弹。"
+SMALL_NHSC_PLASMA_MISSILE_1: "小型$NHSC_PLASMA_MISSILE_1$"
+SMALL_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_1: "中型$NHSC_PLASMA_MISSILE_1$"
+MEDIUM_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_1: "大型$NHSC_PLASMA_MISSILE_1$"
+LARGE_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+
+NHSC_PLASMA_MISSILE_2: "改良型等离子体导弹"
+NHSC_PLASMA_MISSILE_2_DESC: "等离子体导弹的改进版本，速度更快，温度更高并且更难被破坏。"
+SMALL_NHSC_PLASMA_MISSILE_2: "小型$NHSC_PLASMA_MISSILE_2$"
+SMALL_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_2: "中型$NHSC_PLASMA_MISSILE_2$"
+MEDIUM_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_2: "大型$NHSC_PLASMA_MISSILE_2$"
+LARGE_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+
+NHSC_PLASMA_MISSILE_3: "焚化导弹"
+NHSC_PLASMA_MISSILE_3_DESC: "它将会把你的敌人烧成灰烬。"
+SMALL_NHSC_PLASMA_MISSILE_3: "小型$NHSC_PLASMA_MISSILE_3$"
+SMALL_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_3: "中型$NHSC_PLASMA_MISSILE_3$"
+MEDIUM_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_3: "大型$NHSC_PLASMA_MISSILE_3$"
+LARGE_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+
+########################################
+###        Missiles : x-slot         ###
+########################################
+
+NHSC_XMISSILE_1: "未知物质弹头"
+NHSC_XMISSILE_1_DESC: "向目标发射装有奇异粒子的爆炸混合物的特殊弹头。"
+
+NHSC_XMISSILE_2: "奇异物质弹头"
+NHSC_XMISSILE_2_DESC: "改进版的未知物质弹头，它的爆炸更具有破坏性。"
+
+NHSC_XMISSILE_3: "反射弹头发射器"
+NHSC_XMISSILE_3_DESC: "更强大的超大型火箭，能够轻易破坏最强大的军舰。"
+
+NHSC_XMISSILE_3_TITANIC: "$NHSC_XMISSILE_3$"
+NHSC_XMISSILE_3_TITANIC_DESC: "$NHSC_XMISSILE_3_DESC$"

@@ -1,0 +1,89 @@
+﻿l_simp_chinese:
+
+### SIMPLE CHINESE (ACTUALLY ENGLISH) LOCALIZATION
+
+########################################
+###       Crystal Shard Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_1: "水晶碎片喷射器"
+NHSC_CRYSTAL_CANNON_1_DESC: "根据水晶实体的防御机制设计的武器。"
+SMALL_NHSC_CRYSTAL_CANNON_1: "小型$NHSC_CRYSTAL_CANNON_1$"
+SMALL_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1: "中型$NHSC_CRYSTAL_CANNON_1$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_1: "大型$NHSC_CRYSTAL_CANNON_1$"
+LARGE_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+
+########################################
+###  Improved Crystal Shard Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_2: "改良型水晶碎片喷射器"
+NHSC_CRYSTAL_CANNON_2_DESC: "改进后的水晶碎片喷射器，增加了一些攻击能力。"
+SMALL_NHSC_CRYSTAL_CANNON_2: "小型$NHSC_CRYSTAL_CANNON_2$"
+SMALL_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2: "中型$NHSC_CRYSTAL_CANNON_2$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_2: "大型$NHSC_CRYSTAL_CANNON_2$"
+LARGE_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+
+########################################
+###       Crystal Spike Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_3: "水晶碎片投掷器"
+NHSC_CRYSTAL_CANNON_3_DESC: "通过研究我们能提高作为炮弹的有机晶体的质量，从而提高伤害。"
+SMALL_NHSC_CRYSTAL_CANNON_3: "小型$NHSC_CRYSTAL_CANNON_3$"
+SMALL_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3: "中型$NHSC_CRYSTAL_CANNON_3$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_3: "大型$NHSC_CRYSTAL_CANNON_3$"
+LARGE_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+
+########################################
+###  Improved Crystal Spike Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_4: "改良型水晶碎片投掷器"
+NHSC_CRYSTAL_CANNON_4_DESC: "进一步改进水机武器技术，提高了这种能量武器的威力。"
+SMALL_NHSC_CRYSTAL_CANNON_4: "小型$NHSC_CRYSTAL_CANNON_4$"
+SMALL_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4: "中型$NHSC_CRYSTAL_CANNON_4$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_4: "大型$NHSC_CRYSTAL_CANNON_4$"
+LARGE_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+
+########################################
+###       Crystal Spear Cannon       ###
+########################################
+
+NHSC_CRYSTAL_CANNON_5: "水晶矛炮"
+NHSC_CRYSTAL_CANNON_5_DESC: "我们战舰的终极水晶武器。"
+SMALL_NHSC_CRYSTAL_CANNON_5: "小型$NHSC_CRYSTAL_CANNON_5$"
+SMALL_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5: "中型$NHSC_CRYSTAL_CANNON_5$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_5: "大型$NHSC_CRYSTAL_CANNON_5$"
+LARGE_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+
+########################################
+###      Crystal Javelin Cannon      ###
+########################################
+
+NHSC_CRYSTAL_LANCE_1: "水晶标枪"
+NHSC_CRYSTAL_LANCE_1_DESC: "一个巨大的水晶矛炮，它每次射击都能造成巨大的伤害。"
+
+########################################
+###       Crystal Lance Cannon       ###
+########################################
+
+NHSC_CRYSTAL_LANCE_2: "水晶长枪"
+NHSC_CRYSTAL_LANCE_2_DESC: "一个更强大更精准的水晶标枪。"
+
+########################################
+###       Crystalline Impaler        ###
+########################################
+
+NHSC_CRYSTAL_LANCE_TITANIC: "水晶长矛"
+NHSC_CRYSTAL_LANCE_TITANIC_DESC: "巨型水晶标枪，专为巨型舰船而设计。"

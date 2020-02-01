@@ -1,0 +1,79 @@
+﻿l_simp_chinese:
+
+### SIMPLE CHINESE (ACTUALLY ENGLISH) LOCALIZATION
+
+########################################
+### Gravitational Anomaly Projector  ###
+########################################
+
+NHSC_SINGULARITY_CANNON_1: "引力异常投射器"
+NHSC_SINGULARITY_CANNON_1_DESC: "这种武器在敌舰附近产生随机引力波来撕裂敌舰。"
+SMALL_NHSC_SINGULARITY_CANNON_1: "小型$NHSC_SINGULARITY_CANNON_1$"
+SMALL_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1: "中型$NHSC_SINGULARITY_CANNON_1$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_1: "大型$NHSC_SINGULARITY_CANNON_1$"
+LARGE_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+
+########################################
+###    Spatial Distortion Cannon     ###
+########################################
+
+NHSC_SINGULARITY_CANNON_2: "空间扭曲炮"
+NHSC_SINGULARITY_CANNON_2_DESC: "一种改进后的，更强大的引力异常投射器。"
+SMALL_NHSC_SINGULARITY_CANNON_2: "小型$NHSC_SINGULARITY_CANNON_2$"
+SMALL_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2: "中型$NHSC_SINGULARITY_CANNON_2$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_2: "大型$NHSC_SINGULARITY_CANNON_2$"
+LARGE_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+
+########################################
+###     Microsingularity Cannon      ###
+########################################
+
+NHSC_SINGULARITY_CANNON_3: "微奇点加农炮"
+NHSC_SINGULARITY_CANNON_3_DESC: "该武器能射出小型的不稳定空间奇异点，可以轻松消灭所有最强大的舰船。"
+SMALL_NHSC_SINGULARITY_CANNON_3: "小型$NHSC_SINGULARITY_CANNON_3$"
+SMALL_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3: "中型$NHSC_SINGULARITY_CANNON_3$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_3: "大型$NHSC_SINGULARITY_CANNON_3$"
+LARGE_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+
+########################################
+###    Spatial Distortion Warhead    ###
+########################################
+
+NHSC_GRAVITY_TORPS_1: "空间扭曲鱼雷"
+NHSC_GRAVITY_TORPS_1_DESC: "该鱼雷能产生强大的引力波，撕裂原子层面的任何东西。"
+
+########################################
+###     Microsingularity Warhead     ###
+########################################
+
+NHSC_GRAVITY_TORPS_2: "微奇点鱼雷"
+NHSC_GRAVITY_TORPS_2_DESC: "该鱼雷爆炸后会产生一个小型的非常不稳定的黑洞，它会在消散之前会吃掉任何不幸靠近的舰船。"
+
+########################################
+###       Super-Graviton Cannon      ###
+########################################
+
+NHSC_GRAVITON_LANCE_1: "超重力炮"
+NHSC_GRAVITON_LANCE_1_DESC: "一种能沿者射击轨迹扭曲时空连续的粒子炮，在那条能撕裂任何物体的轨迹上可以说是十分不幸的。"
+
+########################################
+###   Focused Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_2: "集束超重力炮"
+NHSC_GRAVITON_LANCE_2_DESC: "一种改良型超重力炮。"
+NHSC_GRAVITON_LANCE_TITANIC: "$NHSC_GRAVITON_LANCE_2$"
+NHSC_GRAVITON_LANCE_TITANIC_DESC: "$NHSC_GRAVITON_LANCE_2_DESC$"
+
+########################################
+###        Singularity Bombers       ###
+########################################
+
+NHSC_GRAVITY_BOMBERS: "奇点舰载机"
+NHSC_GRAVITY_BOMBERS_DESC: "该舰载机装备了引力型武器。"

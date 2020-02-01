@@ -1,0 +1,693 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###      Technologies : general      ###
+########################################
+
+nhsc_tech_central_research_bureau: "中央研究机构"
+nhsc_tech_central_research_bureau_desc: "聚集帝国顶尖人才共同努力推进科技的地方。"
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_TITLE: "§H解锁发展:§! 先进技术"
+NHSC_TECH_UNLOCK_ADV_COMPONENTS_DESC: "新武器本身无法工作，它们也需要反应堆给它们通电，以及使用引擎来移动..."
+
+nhsc_tech_culture_nexus: "高级社会生物学研究"
+nhsc_tech_culture_nexus_desc: "更深入地了解活生生的肉体和能干的大脑是如何工作将极大地有益于我们的帝国。"
+nhsc_tech_culture_nexus_desc_hive: "更深入的了解那些拥有独立思考能力的生物是如何运作的，也能给我们带来很多益处。"
+nhsc_tech_culture_nexus_desc_machine: "通过观察有机物之间的相互作用，我们发现这种智能可以进一步优化各个单元的性能，也能更好地理解肉体生物。"
+
+nhsc_tech_technology_institute: "技术学院"
+nhsc_tech_technology_institute_desc: "为了走在技术飞升的前沿，我们需要一个专业的机构来进行各种研究。"
+
+nhsc_tech_advanced_materials_lab: "先进材料实验室"
+nhsc_tech_advanced_materials_lab_desc: "为军事和日常生活研发新的先进材料的实验室。"
+
+nhsc_tech_new_age_warfare: "新时代的战争"
+nhsc_tech_new_age_warfare_desc: "军事实力是星系中唯一的通用语言。改进和开发新武器有利于巩固我们在星际舞台上的地位。"
+NHSC_TECH_UNLOCK_ADV_WEAPONS_TITLE: "§H解锁发展:§! 先进武器类型"
+NHSC_TECH_UNLOCK_ADV_WEAPONS_DESC: "为我们的舰队改进和开发新武器。"
+
+nhsc_tech_advanced_heavy_weapons: "先进重型武器系统"
+nhsc_tech_advanced_heavy_weapons_desc: "新型轴基武器的研发使我们的舰队比以往更加致命。"
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_TITLE: "§H解锁发展:§! 先进重型轴基武器"
+NHSC_TECH_UNLOCK_ADV_HEAVY_WEAPONS_DESC: "为我们的军舰研发新的更强大的轴基武器。"
+
+nhsc_tech_gravity_manipulation: "引力操作技术"
+nhsc_tech_gravity_manipulation_desc: "学习如何操纵局部引力，为我们开辟了新的视野。"
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_TITLE: "§H解锁发展:§! 引力操作"
+NHSC_TECH_UNLOCK_GRAVITY_MANIPULATION_DESC: "利用重力来改善我们生活的各个方面。"
+
+nhsc_tech_gravity_weapons: "引力武器"
+nhsc_tech_gravity_weapons_desc: "引力可以作为对敌人造成痛苦的手段。"
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_TITLE: "§H解锁发展:§! 引力型武器"
+NHSC_TECH_UNLOCK_GRAV_WEAPONS_DESC: "基于引力的武器将帝国的敌人撕成太空尘埃。"
+
+nhsc_tech_advanced_materials: "先进材料"
+nhsc_tech_advanced_materials_desc: "研发更好的材料供我们使用。"
+NHSC_TECH_UNLOCK_ADV_MATERIALS_TITLE: "§H解锁发展:§! 先进装甲类型和纳米技术"
+NHSC_TECH_UNLOCK_ADV_MATERIALS_DESC: "新型材料为我们开辟了新的视野，这让以往不敢想象的事成为可能。"
+
+nhsc_tech_synthetic_lifeform_studies: "合成生命形态研究"
+nhsc_tech_synthetic_lifeform_studies_desc: "纳米机器的制造和研究。"
+NHSC_TECH_UNLOCK_NANITIES_TITLE: "§H解锁发展:§! 基于纳米材料的装甲和武器"
+NHSC_TECH_UNLOCK_NANITIES_DESC: "纳米可以以惊人的速度和精度执行许多任务。"
+
+nhsc_tech_psionic_weapons: "灵能武器"
+nhsc_tech_psionic_weapons_desc: "思想的力量也可以用于舰船装备。"
+NHSC_TECH_UNLOCK_PSI_WEAPONS_TITLE: "§H解锁发展:§! 灵能武器"
+NHSC_TECH_UNLOCK_PSI_WEAPONS_DESC: "灵能武器利用船员思想的力量来摧毁敌人。"
+
+nhsc_tech_spacetime_manipulation: "时空连续体操纵"
+nhsc_tech_spacetime_manipulation_desc: "驾驭这种力量来控制我们周围的现实，我们将实现新的科学高度。"
+NHSC_TECH_UNLOCK_REALITY_ALTER_TITLE: "§H解锁发展:§! 现实扭曲技术"
+NHSC_TECH_UNLOCK_REALITY_ALTER_DESC: "随意改变现实的力量可以让我们做以前做梦都没想到的事情。"
+
+nhsc_tech_quantum_node: "量子计算节点"
+nhsc_tech_quantum_node_desc: "以无极机器处理器作为模型的特殊计算机网络"
+
+nhsc_tech_stellar_energy_tower: "恒星能源塔"
+nhsc_tech_stellar_energy_tower_desc: "这座巨塔将光元素转换为纯能量，就像一个小太阳。"
+
+nhsc_tech_watcher: "永恒守望者"
+nhsc_tech_watcher_desc: "一个巨大的建筑，它扭曲着现实，让我们能凝视过去、现在和未来。"
+
+nhsc_tech_phase_shifted_ammunition: "相位弹药"
+nhsc_tech_phase_shifted_ammunition_desc: "将我们对时空连续的理解应用到我们的武器上，它们将能够突破最强大的防御系统。"
+
+nhsc_tech_time_dilation_chambers: "时间膨胀室"
+nhsc_tech_time_dilation_chambers_desc: "以我们目前的技术水平无法给与每个人额外的时间，但我们可以给那些最需要的人，而这将极大地改善我们的帝国。"
+
+nhsc_tech_superconductors: "超导材料"
+nhsc_tech_superconductors_desc: "超导体的大规模使用将大大减少在传输过程中的能源损失。"
+
+nhsc_tech_neutronium_tools: "零素镀层"
+nhsc_tech_neutronium_tools_desc: "我们可以给钻机表面镀上一层中子薄膜，这样钻头就不易磨损，挖掘效率也会提升。"
+
+nhsc_tech_orbital_powerplant: "$OUTLINER_STARBASES$反应堆"
+nhsc_tech_orbital_powerplant_desc: "为支援大型深空设施而开发的空间站专用型$ZERO_POINT_REACTOR$。"
+
+nhsc_tech_reprocessing_plant: "再处理工厂"
+nhsc_tech_reprocessing_plant_desc: "通过研究$NAME_Scavenger_Bot$背后的技术，我们可以找到一种新的、更有效的资源回收和再处理方法。"
+
+nhsc_tech_chrono_spatial_weapons: "现实扭曲武器"
+nhsc_tech_chrono_spatial_weapons_desc: "掌握这种扭转现实的力量，我们将拥有宇宙中最强大的武器。"
+
+nhsc_tech_zro_distilleries: "$sr_zro$蒸馏间"
+nhsc_tech_zro_distilleries_desc: "随着我们对灵能的理解不断加深，我们发现自己需要一种辅助药剂来释放我们的全部潜能。这类药剂中，$sr_zro$是最好的，虽然天然$sr_zro$极为罕见，但我们可以合成生产更多的$sr_zro$。"
+
+nhsc_tech_dark_matter_facilities: "暗物质采集"
+nhsc_tech_dark_matter_facilities_desc: "我们对暗物质的需求每天都在增长，只靠黑洞上方的采矿站已经跟不上消耗了。我们必须寻找其他提取暗物质的方法。"
+
+nhsc_tech_mantle_mining_1: "地核开采"
+nhsc_tech_mantle_mining_1_desc: "我们对原始资源的需求不断增长，使得我们将注意力转向我们星球的核心。地核核和地幔。并且随着适当技术的出现和应用，这些财富终于可以为我们所用！"
+
+nhsc_tech_mantle_mining_2: "改良地核开采"
+nhsc_tech_mantle_mining_2_desc: "从星球地核和地幔直接挖掘有价值资源的精炼方法。"
+
+########################################
+###     Technologies : reactors      ###
+########################################
+
+nhsc_tech_enigmatic_tower: "神秘能量收集器"
+nhsc_tech_enigmatic_tower_desc: "一个收集神秘能量核心产生的能量的高耸建筑。"
+NHSC_TECH_ENIGMATIC_TOWER_TITLE: "神秘能量收集器"
+NHSC_TECH_ENIGMATIC_TOWER_TITLE: "一个收集神秘能量核心产生的能量的高耸建筑。"
+
+nhsc_tech_advanced_reactor_1: "改良型$tech_zero_point_power$"
+nhsc_tech_advanced_reactor_1_desc: "小型化技术使这些新型$ZERO_POINT_REACTOR$比它们的前辈更有效。"
+NHSC_TECH_UNLOCK_REACTOR_6_TITLE: "§H解锁部件:§! 改良型$ZERO_POINT_REACTOR$"
+NHSC_TECH_UNLOCK_REACTOR_6_DESC: "新型的$ZERO_POINT_REACTOR$改进了转换能量的方法，提高了供能效率。"
+
+nhsc_tech_advanced_reactor_2: "奇点动力"
+nhsc_tech_advanced_reactor_2_desc: "新一代$ZERO_POINT_REACTOR$产生的能量超过任何旧型反应堆。"
+NHSC_TECH_UNLOCK_REACTOR_7_TITLE: "§H解锁部件:§! $NHSC_ADV_REACTOR_2$"
+NHSC_TECH_UNLOCK_REACTOR_7_DESC: "新一代的$ZERO_POINT_REACTOR$提供更多的能量。"
+
+nhsc_tech_advanced_reactor_3: "改良奇点动力"
+nhsc_tech_advanced_reactor_3_desc: "迄今为止最高效的舰载反应堆。"
+NHSC_TECH_UNLOCK_REACTOR_8_TITLE: "§H解锁部件:§! $NHSC_ADV_REACTOR_3$"
+NHSC_TECH_UNLOCK_REACTOR_8_DESC: "$NHSC_ADV_REACTOR_2$的升级版。"
+
+nhsc_tech_dark_matter_power_core_2: "改良型$tech_dark_matter_power_core$"
+nhsc_tech_dark_matter_power_core_2_desc: "新的高能粒子引导理论和改进方案使我们可以改进$DARK_MATTER_REACTOR$来生产更多能量。"
+NHSC_TECH_UNLOCK_DM_REACTOR_2_TITLE: "§H解锁部件:§! $NHSC_ENIGMATIC_CORE_2$"
+NHSC_TECH_UNLOCK_DM_REACTOR_2_DESC: "$DARK_MATTER_REACTOR$的升级版。"
+
+nhsc_tech_reactor_booster_4: "辅助型$ZERO_POINT_REACTOR$"
+nhsc_tech_reactor_booster_4_desc: "当主反应堆的供电量不能满足所以舰船系统，辅助型反应堆是个很好的解决办法。"
+
+nhsc_tech_reactor_booster_5: "辅助型奇点反应堆"
+nhsc_tech_reactor_booster_5_desc: "一种更先进的$nhsc_tech_reactor_booster_4$，能产生更多的电量。"
+
+########################################
+###      Technologies : sensors      ###
+########################################
+
+nhsc_tech_advanced_sensors_1: "改良型$tech_sensors_4$"
+nhsc_tech_advanced_sensors_1_desc: "$tech_sensors_4$的改进版本，可以看得比上一代更深更远。"
+TECH_UNLOCK_ADV_TACHYON_SENSOR_TITLE: "§H解锁部件:§! $NHSC_ADV_TACHYON_SENSOR_SHIP$"
+TECH_UNLOCK_ADV_TACHYON_SENSOR_DESC: "$tech_sensors_4$的改进版本，可以看得比上一代更深更远。"
+
+nhsc_tech_advanced_sensors_2: "弦理论"
+nhsc_tech_advanced_sensors_2_desc: "一种能够解释我们世界的相对较新的理论，但无法解释之前的现象。"
+TECH_UNLOCK_STRING_SENSOR_TITLE: "§H解锁部件:§! $NHSC_STRING_SENSOR_SHIP$"
+TECH_UNLOCK_STRING_SENSOR_DESC: "一种能够解释我们世界的相对较新的理论，但无法解释之前的现象。"
+
+nhsc_tech_advanced_sensors_3: "空间波动分析"
+nhsc_tech_advanced_sensors_3_desc: "掌握由弦理论展现在我们面前的知识，我们终于明白了我们周围的世界。"
+TECH_UNLOCK_ADV_STRING_SENSOR_TITLE: "§H解锁部件:§! $NHSC_ADV_STRING_SENSOR_SHIP$"
+TECH_UNLOCK_ADV_STRING_SENSOR_DESC: "掌握由弦理论展现在我们面前的知识，我们终于明白了我们周围的世界。"
+
+nhsc_tech_psionic_sensors: "灵能传感器"
+nhsc_tech_psionic_sensors_desc: "灵能在弦理论上的应用使我们对世界的观察达到了前所未有的深度。"
+TECH_UNLOCK_PSI_SENSOR_TITLE: "§H解锁部件:§! $NHSC_PSI_SENSOR_SHIP$"
+TECH_UNLOCK_PSI_SENSOR_DESC: "灵能在弦理论上的应用使我们对世界的观察达到了前所未有的深度。"
+
+########################################
+###      Technologies : armors       ###
+########################################
+
+nhsc_tech_armor_6: "改良型$ARMOR_5$"
+nhsc_tech_armor_6_desc: "一种拥有更高密度的$ARMOR_5$，能承受任何程度的攻击。"
+NHSC_TECH_TIER_6_ARMOR_TITLE: "改良型$ARMOR_5$"
+NHSC_TECH_TIER_6_ARMOR_DESC: "一种拥有更高密度的$ARMOR_5$，能承受任何程度的攻击。"
+
+nhsc_tech_armor_7: "艾德曼合金装甲"
+nhsc_tech_armor_7_desc: "以幻想材料命名，这种几乎坚不可摧的装甲为我们的船只提供了无与伦比的保护。"
+NHSC_TECH_TIER_7_ARMOR_TITLE: "艾德曼合金装甲"
+NHSC_TECH_TIER_7_ARMOR_DESC: "以幻想材料命名，这种几乎坚不可摧的装甲为我们的船只提供了无与伦比的保护。"
+
+nhsc_tech_armor_nanite_1: "纳米材料装甲"
+nhsc_tech_armor_nanite_1_desc: "将编程后能维修船体的纳米机械注入装甲，我们能制造出不仅能让船体免受伤害，而且还能修复损伤的装甲。"
+NHSC_TECH_NANO_ARMOR_1_TITLE: "纳米材料装甲"
+NHSC_TECH_NANO_ARMOR_1_DESC: "将编程后能维修船体的纳米机械注入装甲，我们能制造出不仅能让船体免受伤害，而且还能修复损伤的装甲。"
+
+nhsc_tech_armor_nanite_2: "改良型纳米材料装甲"
+nhsc_tech_armor_nanite_2_desc: "改进版本的纳米材料装甲。它更坚韧并可以更快地自我修复。"
+NHSC_TECH_NANO_ARMOR_2_TITLE: "改良型纳米材料装甲"
+NHSC_TECH_NANO_ARMOR_2_DESC: "改进版本的纳米材料装甲。它更坚韧并可以更快地自我修复。"
+
+nhsc_tech_armor_shield_1: "护盾生成装甲"
+nhsc_tech_armor_shield_1_desc: "将编程后能处理周围能量的纳米机械注入装甲，我们能制造出一种产生少量护盾的装甲来保护舰船。"
+NHSC_TECH_SHIELD_ARMOR_1_TITLE: "护盾生成装甲"
+NHSC_TECH_SHIELD_ARMOR_1_DESC: "将编程后能处理周围能量的纳米机械注入装甲，我们能制造出一种产生少量护盾的装甲来保护舰船。"
+
+nhsc_tech_armor_shield_2: "改良型护盾生成装甲"
+nhsc_tech_armor_shield_2_desc: "护盾生成装甲的改进版，它更坚韧并能产生更强的护盾。"
+NHSC_TECH_SHIELD_ARMOR_2_TITLE: "改良型护盾生成装甲"
+NHSC_TECH_SHIELD_ARMOR_2_DESC: "护盾生成装甲的改进版，它更坚韧并能产生更强的护盾。"
+
+nhsc_tech_armor_shield_3: "护盾屏障装甲"
+nhsc_tech_armor_shield_3_desc: "进一步改良的纳米机械能够制造出更加坚韧的装甲并能产生更强的护盾。"
+NHSC_TECH_SHIELD_ARMOR_3_TITLE: "护盾屏障装甲"
+NHSC_TECH_SHIELD_ARMOR_3_DESC: "进一步改良的纳米机械能够制造出更加坚韧的装甲并能产生更强的护盾。"
+
+nhsc_tech_armor_dragonscales_nanite: "纳米灌输型$DRAGON_ARMOR$"
+nhsc_tech_armor_dragonscales_nanite_desc: "将纳米机械注入$DRAGON_ARMOR$中可以进一步提高其难以置信的韧性。"
+NHSC_TECH_NANO_DRAGON_ARMOR_TITLE: "纳米灌输型$DRAGON_ARMOR$"
+NHSC_TECH_NANO_DRAGON_ARMOR_DESC: "将纳米机械注入$DRAGON_ARMOR$中可以进一步提高其难以置信的韧性。"
+
+nhsc_tech_armor_wraith: "硬光装甲"
+nhsc_tech_armor_wraith_desc: "粒子操纵的新方式使我们可以自己制造伪物质，但这种制造方式就像把最弱变成最强一样困难。"
+
+nhsc_tech_armor_horror: "$dimensional_horror$装甲"
+nhsc_tech_armor_horror_desc: "对传送门残留的研究使我们能够确定$dimensional_horror$的组成。这种难以置信的材料将为我们的船舶提供新的保护。"
+
+nhsc_tech_crystal_armor_3: "强化水晶镀层"
+nhsc_tech_crystal_armor_3_desc: "水晶材料具有惊人的耐用性，我们可以利用这个性质来制作最强的船体镀层。"
+
+########################################
+###    Technologies : propulsion     ###
+########################################
+
+nhsc_tech_advanced_thrusters_1: "反物质推进器"
+nhsc_tech_advanced_thrusters_1_desc: "使用这种物质到反物质湮灭产生的能量，我们可以制造出比以往任何时候更强大的引擎。"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_TITLE: "反物质推进器"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_1_DESC: "使用这种物质到反物质湮灭产生的能量，我们可以制造出比以往任何时候更强大的引擎。"
+
+nhsc_tech_advanced_thrusters_2: "引力操纵引擎"
+nhsc_tech_advanced_thrusters_2_desc: "将扭曲技术应用在亚光速航驶上能让舰船产生令人难以置信的速度。"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_TITLE: "引力操纵引擎"
+NHSC_TECH_UNLOCK_ADV_THRUSTERS_2_DESC: "将扭曲技术应用在亚光速航驶上能让舰船产生令人难以置信的速度。"
+
+nhsc_tech_afterburners_3: "脉冲等离子加力燃烧室"
+nhsc_tech_afterburners_3_desc: "更先进的加力燃烧室，能让舰船以最小的消耗获得最快的速度。."
+
+########################################
+###     Technologies : shields       ###
+########################################
+
+nhsc_tech_advanced_shields_1: "改良型$SHIELD_5$"
+nhsc_tech_advanced_shields_1_desc: "更强大的护盾保护我们的舰船和空间站。"
+NHSC_TECH_ADV_SHIELDS_1_TITLE: "§H解锁部件:§! 改良型$SHIELD_5$"
+NHSC_TECH_ADV_SHIELDS_1_DESC: "更强大的护盾保护我们的舰船和空间站。"
+
+nhsc_tech_advanced_shields_2: "增压型$SHIELD_5$"
+nhsc_tech_advanced_shields_2_desc: "一种比我们以前开发过任何护盾都要强的护盾。"
+NHSC_TECH_ADV_SHIELDS_2_TITLE: "§H解锁部件:§! 增压型$SHIELD_5$"
+NHSC_TECH_ADV_SHIELDS_2_DESC: "一种比我们以前开发过任何护盾都要强的护盾。"
+
+nhsc_tech_waveforcearmor: "强制波动装甲理论"
+nhsc_tech_waveforcearmor_desc: "该理论将护盾发生器与装甲的纳米材料层结合，通过一种特殊方式产生出一种拥有惊人强度的护盾——克莱因立场。"
+NHSC_TECH_WFARMOR_TITLE: "克莱因立场"
+NHSC_TECH_WFARMOR_DESC: "通过将攻击能量转移到另一个维度来获得惊人的强度。"
+
+nhsc_tech_dark_matter_shields_2: "改良型$DARK_MATTER_DEFLECTOR$"
+nhsc_tech_dark_matter_shields_2_desc: "新的$DARK_MATTER_DEFLECTOR$更加强大。"
+NHSC_TECH_ENIGMA_SHIELDS_2_TITLE: "改良型$DARK_MATTER_DEFLECTOR$"
+NHSC_TECH_ENIGMA_SHIELDS_2_DESC: "新的$DARK_MATTER_DEFLECTOR$更加强大。"
+
+nhsc_tech_atfield: "A.T.立场"
+nhsc_tech_atfield_desc: "绝对领域的存在表示我们思想不允许危险进入这个空间。"
+NHSC_TECH_ATFIELD_TITLE: "A.T.立场"
+NHSC_TECH_ATFIELD_DESC: "绝对领域的存在表示我们思想不允许危险进入这个空间。"
+
+nhsc_tech_shields_cyclonic_1: "旋风$tech_shields_1$"
+nhsc_tech_shields_cyclonic_1_desc: "一种实验性的护盾技术，牺牲了一些护盾强度，显着提高了充电速度。"
+NHSC_TECH_CYCLONIC_SHIELDS_TITLE: "§H解锁部件:§! 旋风$tech_shields_1$"
+NHSC_TECH_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_1_desc$"
+
+nhsc_tech_shields_cyclonic_2: "旋风调制护盾"
+nhsc_tech_shields_cyclonic_2_desc: "旋风偏转器的改进版本在保持快速充电的同时强度也显著变强。"
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_TITLE: "§H解锁部件:§! 旋风护盾"
+NHSC_TECH_ADV_CYCLONIC_SHIELDS_DESC: "$nhsc_tech_shields_cyclonic_2_desc$"
+
+nhsc_tech_shields_cyclonic_3: "改良型旋风调制护盾"
+nhsc_tech_shields_cyclonic_3_desc: "一组更强大的电容器能进一步提高旋风护盾的充能速率，同时赋予它们更高的强度。"
+NHSC_TECH_CYCLONIC_SHIELDS_3_TITLE: "改良型旋风护盾"
+NHSC_TECH_CYCLONIC_SHIELDS_3_DESC: "$nhsc_tech_shields_cyclonic_3_desc$"
+
+########################################
+###     Technologies : weapons       ###
+########################################
+
+### rockets and torpedoes
+
+nhsc_tech_missile_6: "诙谐者导弹"
+nhsc_tech_missile_6_desc: "强大而棘手的击破火箭。"
+
+nhsc_tech_missile_7: "幽灵导弹"
+nhsc_tech_missile_7_desc: "死亡悄悄到来。"
+
+nhsc_tech_torpedoes_4: "辐射鱼雷"
+nhsc_tech_torpedoes_4_desc: "新一代的太空鱼雷比以前制造的鱼雷的更具破坏性。"
+
+nhsc_tech_torpedoes_5: "消灭者鱼雷"
+nhsc_tech_torpedoes_5_desc: "一种能想到的最强大的常规鱼雷。"
+
+nhsc_tech_corrosivewarheadtorpedo: "侵蚀鱼雷"
+nhsc_tech_corrosivewarheadtorpedo_desc: "一种能将时空撕裂分离的可怕武器。"
+
+nhsc_tech_swarmermissiles_3: "台风导弹"
+nhsc_tech_swarmermissiles_3_desc: "新一代使用力量和数量压倒一切防御力和敌人的蜂群导弹。"
+
+nhsc_tech_swarmermissiles_4: "飓风导弹"
+nhsc_tech_swarmermissiles_4_desc: "超时空导弹大屠杀真实上演。"
+
+nhsc_tech_xmissile1: "未知物质弹头"
+nhsc_tech_xmissile1_desc: "向目标发射装有奇异粒子的爆炸混合物的特殊弹头。"
+
+nhsc_tech_xmissile2: "奇异物质弹头"
+nhsc_tech_xmissile2_desc: "改进版的未知物质弹头，它的爆炸更具有破坏性。"
+
+nhsc_tech_xmissile3: "反射弹头发射器"
+nhsc_tech_xmissile3_desc: "更强大的超大型火箭，能够轻易破坏最强大的军舰。"
+
+nhsc_tech_xmissile3_titanic: "$nhsc_tech_xmissile3$"
+nhsc_tech_xmissile3_titanic_desc: "$nhsc_tech_xmissile3_desc$"
+
+### gravity
+
+nhsc_tech_gravitic_torpedo_1: "空间扭曲弹头"
+nhsc_tech_gravitic_torpedo_1_desc: "这是一种鱼雷发射器，该鱼雷能产生强大的引力波，撕裂原子层面的任何东西。"
+
+nhsc_tech_gravitic_torpedo_2: "微奇点弹头"
+nhsc_tech_gravitic_torpedo_2_desc: "该弹头爆炸后会产生一个小型的非常不稳定的黑洞，它会在消散之前会吃掉任何不幸靠近的舰船。"
+
+nhsc_tech_gravitic_cannon_1: "引力异常投射器"
+nhsc_tech_gravitic_cannon_1_desc: "在敌舰附近产生随机引力波来撕裂敌舰的武器。"
+
+nhsc_tech_gravitic_cannon_2: "空间扭曲炮"
+nhsc_tech_gravitic_cannon_2_desc: "引力异常投射器的改进版。"
+
+nhsc_tech_gravitic_cannon_3: "微奇点加农炮"
+nhsc_tech_gravitic_cannon_3_desc: "一种使用奇异物质分解反应生成的微型奇点来撕裂目标的能量武器。"
+
+nhsc_tech_gravitic_lance_1: "超重力炮"
+nhsc_tech_gravitic_lance_1_desc: "一种能沿者射击轨迹扭曲时空连续的粒子炮，在那条能撕裂任何物体的轨迹上可以说是十分不幸的。"
+
+nhsc_tech_gravitic_lance_2: "集束超重力炮"
+nhsc_tech_gravitic_lance_2_desc: "改进后的超重力炮。"
+
+nhsc_tech_gravitic_lance_titanic: "超巨型超重力炮"
+nhsc_tech_gravitic_lance_titanic_desc: "改进后的超巨型超重力炮。"
+
+nhsc_tech_gravitic_strikecrafts: "奇点舰载机"
+nhsc_tech_gravitic_strikecrafts_desc: "该攻击机装备了引力型武器。"
+
+### nanities
+
+nhsc_tech_nanite_torpedo_1: "纳米鱼雷"
+nhsc_tech_nanite_torpedo_1_desc: "一种向敌舰释放大量分解用纳米机器的鱼雷发射器。"
+
+nhsc_tech_nanite_torpedo_2: "灰蛊鱼雷"
+nhsc_tech_nanite_torpedo_2_desc: "通过鱼雷将新型的更具侵略性的纳米机械投射到敌舰上。"
+
+nhsc_tech_nanite_cannon_1: "纳米火炮"
+nhsc_tech_nanite_cannon_1_desc: "这种火炮能发射装满纳米机械的弹药，纳米机器能快速地将敌舰分解。"
+
+nhsc_tech_nanite_cannon_2: "改良型纳米火炮"
+nhsc_tech_nanite_cannon_2_desc: "使用了一种新的投掷机制来让纳米弹药更好的发射。"
+
+nhsc_tech_nanite_xslot_1: "纳米火箭发射器"
+nhsc_tech_nanite_xslot_1_desc: "非常强大且超远攻击距离的纳米鱼雷。导弹也能飞得更快。"
+
+nhsc_tech_nanite_xslot_2: "纳米火箭炮"
+nhsc_tech_nanite_xslot_2_desc: "改良的纳米火箭发射器。"
+
+nhsc_tech_nanite_titanic_weapon: "纳米弹幕系统"
+nhsc_tech_nanite_titanic_weapon_desc: "一个巨大的且拥有强大火力的纳米弹头火箭炮，它适合安装在我们舰队中最大的船只上。"
+
+nhsc_tech_nanite_strikecraft: "纳米舰载机"
+nhsc_tech_nanite_strikecraft_desc: "该舰载机装备了纳米武器。"
+
+### psionics
+
+nhsc_tech_psionic_torpedo_1: "灵能冲击鱼雷"
+nhsc_tech_psionic_torpedo_1_desc: "一种能量鱼雷，用强大的灵能冲击攻击我们的敌人。"
+TECH_UNLOCK_PSIONIC_TORPEDO_1_TITLE: "§H解锁部件:§! 灵能冲击鱼雷"
+TECH_UNLOCK_PSIONIC_TORPEDO_1_DESC: "一种能量鱼雷，用强大的灵能冲击攻击我们的敌人。"
+
+nhsc_tech_psionic_torpedo_2: "改良型灵能冲击鱼雷"
+nhsc_tech_psionic_torpedo_2_desc: "灵能冲击鱼雷的改进版，能爆发更强大的灵能能量。"
+
+nhsc_tech_psionic_cannon_1: "灵能投射器"
+nhsc_tech_psionic_cannon_1_desc: "一种能破坏目标的灵能能量武器。"
+
+nhsc_tech_psionic_cannon_2: "灵能波炮"
+nhsc_tech_psionic_cannon_2_desc: "升级的灵能炮能发射更多聚集爆炸的灵能能量。"
+
+nhsc_tech_psionic_cannon_3: "灵能光束炮"
+nhsc_tech_psionic_cannon_3_desc: "一种能量武器，使用聚焦的灵能能量攻击目标。"
+
+nhsc_tech_psionic_lance_1: "灵能光矛"
+nhsc_tech_psionic_lance_1_desc: "由聚焦且精致的灵能能量制成的能量喷枪。"
+
+nhsc_tech_psionic_lance_2: "穿透$utopia.3000.name$之光"
+nhsc_tech_psionic_lance_2_desc: "新型的更强大更精准的灵能能量喷枪。"
+
+nhsc_tech_psionic_lance_titanic: "虚空之光"
+nhsc_tech_psionic_lance_titanic_desc: "超大型的灵能能量喷枪。"
+
+nhsc_tech_psionic_strikecraft: "灵能舰载机"
+nhsc_tech_psionic_strikecraft_desc: "该攻击机配备小型的灵能投射器。"
+
+### energy
+
+nhsc_tech_laser_6: "先进战斗激光器"
+nhsc_tech_laser_6_desc: "新一代战斗激光性能大大提高。"
+
+nhsc_tech_laser_7: "极光激光器"
+nhsc_tech_laser_7_desc: "美丽的像一颗明星，致命的像地狱之火。"
+
+nhsc_tech_energy_launcher_3: "反物质发射器"
+nhsc_tech_energy_launcher_3_desc: "新一代能量发射器，使用物质到反物质湮灭反应产生破坏性爆炸。"
+
+nhsc_tech_energy_launcher_4: "暗物质发射器"
+nhsc_tech_energy_launcher_4_desc: "一种能用暗物质分解反应产生的爆炸破坏目标的能量发射器。"
+
+nhsc_tech_disruptors_4: "快子$DISRUPTOR_1$"
+nhsc_tech_disruptors_4_desc: "新一代的$DISRUPTOR_1$使用快子来穿透装甲和护盾。"
+
+nhsc_tech_disruptors_5: "裂解枪"
+nhsc_tech_disruptors_5_desc: "一个由裂解器的光束聚焦而成的极具破坏性的矛状光束。"
+
+nhsc_tech_plasma_4: "先进$PLASMA_3$"
+nhsc_tech_plasma_4_desc: "改良型$PLASMA_3$射出更稳定的等离子簇，从而对目标造成更大的伤害。"
+
+nhsc_tech_plasma_5: "龙息加农炮"
+nhsc_tech_plasma_5_desc: "将等离子体像神话的巨龙龙息一般射出的大炮。"
+
+nhsc_tech_plasma_missiles_1: "可控等离子体抛射"
+nhsc_tech_plasma_missiles_1_desc: "目前我们对等离子和火箭的理解让我们能够制造完全由等离子体制成的导弹。"
+TECH_UNLOCK_PLASMA_MISSILE_TITLE: "§H解锁部件:§! 等离子体导弹"
+TECH_UNLOCK_PLASMA_MISSILE_DESC: "等离子可以像火箭一样瞄准目标抛射。"
+
+nhsc_tech_plasma_missiles_2: "改良型等离子体导弹"
+nhsc_tech_plasma_missiles_2_desc: "等离子体导弹的改进版本，速度更快，温度更高并且更难被破坏。"
+
+nhsc_tech_plasma_missiles_3: "焚化导弹"
+nhsc_tech_plasma_missiles_3_desc: "一种更热，更难消散的等离子导弹。"
+
+nhsc_tech_chrono_vortex_cannon: "时空旋涡炮"
+nhsc_tech_chrono_vortex_cannon_desc: "在不稳定的时空领域中，能量屏障可以像切割物质一样分开。"
+
+nhsc_tech_energy_lance_3: "改良型$ENERGY_LANCE_2$"
+nhsc_tech_energy_lance_3_desc: "具有改进聚焦阵列的新一代$ENERGY_LANCE_2$。"
+
+nhsc_tech_energy_lance_4: "超荷$ENERGY_LANCE_2$"
+nhsc_tech_energy_lance_4_desc: "改进后的超导体能将更多的功率引导到枪芯上，从而进一步提高武器杀伤力。"
+
+nhsc_tech_energy_lance_titanic: "毁灭之光"
+nhsc_tech_energy_lance_titanic_desc: "终极的粒子喷枪。"
+
+nhsc_tech_arc_emitter_3: "闪电炮"
+nhsc_tech_arc_emitter_3_desc: "一种先进的$ARC_EMITTER_1$，能激发强大的电力螺栓。"
+
+nhsc_tech_arc_emitter_4: "电弧炮"
+nhsc_tech_arc_emitter_4_desc: "更强大的$ARC_EMITTER_1$。"
+
+nhsc_tech_arc_emitter_titanic: "神雷"
+nhsc_tech_arc_emitter_titanic_desc: "天体风暴的回响以无情的力量攻击我们的敌人。"
+
+nhsc_tech_wavemotiongun_1: "波动炮"
+nhsc_tech_wavemotiongun_1_desc: "专用的排气口允许我们再次为引擎排气并将其变成一个极具破坏性的喷枪，在这条可以摧毁任何事物的轨迹上可以说是非常不幸的了。"
+
+nhsc_tech_wavemotiongun_2: "次元波动炮"
+nhsc_tech_wavemotiongun_2_desc:  "升级版的$nhsc_tech_wavemotiongun_1$改善了光谱对焦，提高了精度和威力。"
+
+nhsc_tech_wavemotiongun_3: "次元波动巨炮"
+nhsc_tech_wavemotiongun_3_desc:  "一个超大版的稳定的次元波动炮。"
+
+nhsc_tech_arcenciel: "虹光炮"
+nhsc_tech_arcenciel_desc: "一种可怕的武器。它将目标密封在小型次元内然后将其强制性坍缩。有效地摧毁了目标存在的任何痕迹。"
+
+nhsc_tech_arcenciel_titanic: "虹光炮"
+nhsc_tech_arcenciel_titanic_desc: "一种可怕的武器。它将目标密封在小型次元内然后将其强制性坍缩。有效地摧毁了目标存在的任何痕迹。"
+
+nhsc_tech_cloud_lightning_2: "先进$SPACE_CLOUD_WEAPON_1$"
+nhsc_tech_cloud_lightning_2_desc: "我们的研究人员发明了一种方法，使虚空之云产生的强大闪电成为现代宇宙战舰的武器。"
+
+nhsc_tech_cloud_lightning_3: "雷暴发射器"
+nhsc_tech_cloud_lightning_3_desc: "毁灭性的闪电摧毁我们敌人的飞船。"
+
+nhsc_tech_mining_laser_2: "等离子切割机"
+nhsc_tech_mining_laser_2_desc: "一种先进的武器，用来切割敌人的船体，来源于采矿无人机所使用的激光。"
+
+nhsc_tech_mining_laser_3: "先进等离子切割机"
+nhsc_tech_mining_laser_3_desc: "改进版的$nhsc_tech_mining_laser_2$，具有增强的功率、精度和攻击距离。"
+
+### kinetic
+
+nhsc_tech_mass_driver_6: "先进$MASS_DRIVER_5$"
+nhsc_tech_mass_driver_6_desc: "$MASS_DRIVER_5$的改进版更精准，更强大。"
+
+nhsc_tech_mass_driver_7: "撞击炮"
+nhsc_tech_mass_driver_7_desc: "一种紧凑但致命的电磁加速大炮。"
+
+nhsc_tech_autocannon_4: "改良型$AUTOCANNON_3$"
+nhsc_tech_autocannon_4_desc: "$AUTOCANNON_3$的升级版，具有强大的力量和更快的装弹速度。"
+
+nhsc_tech_autocannon_5: "撕碎者机炮"
+nhsc_tech_autocannon_5_desc: "用子弹风暴撕碎敌人的机炮。"
+
+nhsc_tech_kinetic_artillery_3: "改良型$KINETIC_ARTILLERY_2$"
+nhsc_tech_kinetic_artillery_3_desc: "$KINETIC_ARTILLERY_2$的升级版更加精准和强大。"
+
+nhsc_tech_kinetic_artillery_4: "天空穿刺者火炮"
+nhsc_tech_kinetic_artillery_4_desc: "这种强大火炮发射的炮弹能将敌人与天空一同贯穿。"
+
+nhsc_tech_mass_accelerator_3: "改良型$MASS_ACCELERATOR_2$"
+nhsc_tech_mass_accelerator_3_desc: "新一代的$MASS_ACCELERATOR_2$更加精准且强大。"
+
+nhsc_tech_mass_accelerator_4: "宏伟巨炮"
+nhsc_tech_mass_accelerator_4_desc: "最好的远程动能武器！"
+
+nhsc_tech_mhdcannon: "磁流体动力巨炮"
+nhsc_tech_mhdcannon_desc: "一种将轨道炮和切割机组合而成的强力武器，使用高温的液态金属来切割敌人的舰船。"
+
+nhsc_tech_autocannon_x_1: "冰风暴$AUTOCANNON_1$"
+nhsc_tech_autocannon_x_1_desc: "随着超大型$AUTOCANNON_1$被证明是一种可行的武器，一种将其进一步放大的想法诞生了。冰风暴$AUTOCANNON_1$是迄今为止最大和最强的$AUTOCANNON_1$武器。"
+
+nhsc_tech_autocannon_x_2: "暴风$AUTOCANNON_1$"
+nhsc_tech_autocannon_x_2_desc: "冰风暴$AUTOCANNON_1$的改进型，能让敌人的脸受到更多子弹。"
+
+nhsc_tech_autocannon_t: "暴风雨$AUTOCANNON_1$"
+nhsc_tech_autocannon_t_desc: "泰坦级装备的$AUTOCANNON_1$具有前所未有的力量。"
+
+### crystalline
+
+nhsc_tech_crystal_cannon_1: "水晶碎片喷射器"
+nhsc_tech_crystal_cannon_1_desc: "一种能发射点燃的有机水晶的武器，与水晶实体所使用的武器不一样的。"
+
+nhsc_tech_crystal_cannon_2: "改良型水晶碎片喷射器"
+nhsc_tech_crystal_cannon_2_desc: "改良型的水晶碎片喷射器，有着更坚固的水晶碎片和更强大的发射系统。"
+
+nhsc_tech_crystal_cannon_3: "水晶碎片投掷器"
+nhsc_tech_crystal_cannon_3_desc: "新的水晶碎片比以往都更坚硬，这让我们能够用这种毁灭性的炮弹向敌人射击。"
+
+nhsc_tech_crystal_cannon_4: "改良型水晶碎片投掷器"
+nhsc_tech_crystal_cannon_4_desc: "水晶碎片投射器的改进版本。"
+
+nhsc_tech_crystal_cannon_5: "水晶矛炮"
+nhsc_tech_crystal_cannon_5_desc: "拥有更好的发射机制和更大功率的水晶武器。"
+
+nhsc_tech_crystal_lance_1: "水晶标枪"
+nhsc_tech_crystal_lance_1_desc: "一个非常强大的轴基长矛型半有机晶体加速器。这个武器甚至可以穿透战列舰的装甲。"
+
+nhsc_tech_crystal_lance_2: "水晶长枪"
+nhsc_tech_crystal_lance_2_desc: "水晶标枪的改进版。"
+
+nhsc_tech_crystalline_impaler: "水晶长矛"
+nhsc_tech_crystalline_impaler_desc: "一个超巨型的水晶标枪"
+
+### point defense
+
+nhsc_tech_pd_tracking_4: "保护者点防御"
+nhsc_tech_pd_tracking_4_desc: "目标算法的最新进展使我们能够建立更好的点防御系统。"
+
+nhsc_tech_pd_tracking_5: "铁幕点防御"
+nhsc_tech_pd_tracking_5_desc: "终极的点防御系统。"
+
+nhsc_tech_flak_battery_4: "改良型高射炮"
+nhsc_tech_flak_battery_4_desc: "新一代高射炮比以前更准确且强大。"
+
+nhsc_tech_flak_battery_5: "铁云防御者"
+nhsc_tech_flak_battery_5_desc: "终极的高射炮，没有什么可以超越他们。"
+
+nhsc_tech_lightstorm_pd: "光风暴点防御"
+nhsc_tech_lightstorm_pd_desc: "一种极其有效的激光点防御系统。"
+
+### leviathans
+
+nhsc_tech_enigmatic_energy_harvesting: "隐秘的知识"
+nhsc_tech_enigmatic_energy_harvesting_desc: "$enigmatic_fortress_chain_title$已经向我们揭示了它的秘密，那么我们现在可以重现它。"
+
+nhsc_tech_enigmatic_discharger: "神秘能量发射器"
+nhsc_tech_enigmatic_discharger_desc: "使用神秘技术的强大武器。"
+
+nhsc_tech_enigmatic_autocannon: "神秘能量自动炮"
+nhsc_tech_enigmatic_autocannon_desc: "使用神秘技术的快速能量武器。"
+
+nhsc_tech_enigmatic_lance: "神秘能量光矛"
+nhsc_tech_enigmatic_lance_desc: "一个使用神秘能量技术制造的能量喷枪。"
+
+nhsc_tech_enigmatic_lance_titanic: "超大型神秘能量光矛"
+nhsc_tech_enigmatic_lance_titanic_desc: "一个超大型的$nhsc_tech_enigmatic_lance$，专为我们舰队最强大的舰船设计。"
+
+nhsc_tech_enigmatic_lash: "神秘能量冲击"
+nhsc_tech_enigmatic_lash_desc: "使用神秘技术的能够灼伤目标并释放能量的武器。"
+
+nhsc_tech_extradimensional_pd: "异次元攻击"
+nhsc_tech_extradimensional_pd_desc: "一个研究中的能通过其直接攻击敌舰的传送门。"
+
+nhsc_tech_tiyanki_cannon: "$story.501.name$光束炮"
+nhsc_tech_tiyanki_cannon_desc: "一种能量喷枪，是根据$NAME_Elderly_Tiyanki$使用的生物武器而设计的。"
+
+nhsc_tech_tiyanki_cannon_titanic: "特大型$story.501.name$光束炮"
+nhsc_tech_tiyanki_cannon_titanic_desc: "一个巨型的$nhsc_tech_tiyanki_cannon$，能够进行毁灭性的攻击。"
+
+nhsc_tech_junk_mine_launcher: "垃圾地雷发射器"
+nhsc_tech_junk_mine_launcher_desc: "一种导弹武器，类似于$NAME_Scavenger_Bot$使用的那种。它使用便宜和简单的自推进地雷作为炮弹。"
+
+nhsc_tech_voidspawn_missile: "虚空飞弹"
+nhsc_tech_voidspawn_missile_desc: "$leviathan_01_voidspawn$使用的有机导弹。"
+
+### strikecrafts
+
+nhsc_tech_tactical_strikecrafts: "战术舰载机"
+nhsc_tech_tactical_strikecrafts_desc: "这些新一代的太空战机比之前研制的战机更强大。"
+
+nhsc_tech_siegebreaker_strikecrafts: "破城者舰载机"
+nhsc_tech_siegebreaker_strikecrafts_desc: "终极战机。"
+
+########################################
+###      Technologies : other        ###
+########################################
+
+nhsc_tech_improved_crystal_farm: "改良水晶农场"
+nhsc_tech_improved_crystal_farm_desc: "现在我们对活晶体有了更好的了解，我们可以改进水晶农场，以更有效的方式种植它们。"
+
+nhsc_tech_repair_drones: "修理无人机"
+nhsc_tech_repair_drones_desc: "自动执行紧急船体修理。"
+NHSC_TECH_UNLOCK_AUX_REAPIR_DRONES_TITLE: "§H解锁部件:§! 修理无人机"
+NHSC_TECH_UNLOCK_AUX_REPAIR_DRONES_DESC: "自动执行紧急船体修理。"
+
+nhsc_tech_psionic_reinforcement: "灵能强化"
+nhsc_tech_psionic_reinforcement_desc: "船员使用灵能来提高船体的强度。"
+TECH_UNLOCK_PSIREINFORCEMENT_TITLE: "§H解锁部件:§! 灵能强化"
+TECH_UNLOCK_PSIREINFORCEMENT_DESC: "船员使用灵能来提高船体的强度。"
+
+nhsc_tech_tactical_strikecrafts: "战术舰载机"
+nhsc_tech_tactical_strikecrafts_desc: "这些新一代的太空战机比之前研制的战机更强大。"
+
+nhsc_tech_siegebreaker_strikecrafts: "破城者舰载机"
+nhsc_tech_siegebreaker_strikecrafts_desc: "终极战机。"
+
+nhsc_tech_amoeba_strike_craft_2: "机械装备强化变形虫"
+nhsc_tech_amoeba_strike_craft_2_desc: "将集成芯片植入到有目的培养的变形虫中，他们将成为强大且凶猛的战机。"
+
+nhsc_tech_swarm_strike_craft_2: "肆虐的群蜂"
+nhsc_tech_swarm_strike_craft_2_desc: "这些蜂群已经被训练银河系有史以来最强大凶猛的有机体战术攻击机。"
+
+nhsc_tech_strikecrafts_mercenary_1: "雇佣兵联系人"
+nhsc_tech_strikecrafts_mercenary_1_desc: "金钱可以买很多东西，尤其是战斗力。通过与独立的太空雇佣兵接触，他们强大和经验丰富的飞行员将增增强我们的势力。他们有自己独特的技术。"
+nhsc_tech_strikecrafts_mercenary_2: "精英雇佣兵联系人"
+nhsc_tech_strikecrafts_mercenary_2_desc: "随着我们这种慷慨雇主名声的扩大，越来越多的雇佣兵愿意为我们服务。当然，为了更多的金钱……"
+
+nhsc_tech_dreadnought_computer: "全自动无畏舰的战斗逻辑"
+nhsc_tech_dreadnought_computer_desc: "基于全自动无畏舰逻辑算法的作战计算机。"
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_TITLE: "§H解锁部件:§! 无畏舰协议"
+NHSC_TECH_UNLOCK_DREADNOUGHT_COMPUTER_DESC: "基于观察到的全自动无畏舰逻辑的作战计算机。"
+
+nhsc_tech_advanced_shield_capacitors: "先进$SHIELD_BOOSTER$"
+nhsc_tech_advanced_shield_capacitors_desc: "新型的改进电容器，使我们的护盾更坚硬，充能速率更快。"
+
+nhsc_tech_crystal_infused_capacitor: "晶体注入型$SHIELD_BOOSTER$"
+nhsc_tech_crystal_infused_capacitor_desc: "利用结晶物质加强船体的$SHIELD_BOOSTER$。"
+
+nhsc_tech_crystal_forged_capacitor: "晶体锻造型$SHIELD_BOOSTER$"
+nhsc_tech_crystal_forged_capacitor_desc: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+nhsc_tech_stellarite_powercore: "$leviathans.520.name$能量核心"
+nhsc_tech_stellarite_powercore_desc: "我们发现了$leviathans.520.name$身上类似聚变反应堆功能的器官。也许，它们可以用来为我们的舰船系统的提供额外的能源。"
+
+nhsc_tech_standardized_warheads: "标准化弹头"
+nhsc_tech_standardized_warheads_desc: "对服役中的各种弹头实施标准，我们可以增加舰船的安全性，同时为他们配备更好的导弹。"
+
+nhsc_tech_auxiliary_fire_control_2: "先进火控系统"
+nhsc_tech_auxiliary_fire_control_2_desc: "算法优化为我们的武器提供更好的射击方案。"
+
+nhsc_tech_structural_reinforcement: "结构强化"
+nhsc_tech_structural_reinforcement_desc: "专业的建造技术使我们的船体更能抵抗损坏。不幸的是，这要牺牲一些装甲为代价。"
+
+nhsc_tech_crystalline_valuables: "水晶珍宝"
+nhsc_tech_crystalline_valuables_desc: "活水晶可以用于很多军事领域，但经过特殊加工后，它们也可以变成一种闪闪发亮的宝石。"
+NHSC_TECH_LIVING_CRYSTALS_TRADE_TITLE: "§H升级$JOBS_TITLE$：§! £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§!也会同时生产 £trade_value£ §Y$TRADE_VALUE$§!"
+NHSC_TECH_LIVING_CRYSTALS_TRADE_DESC: "$nhsc_tech_crystalline_valuables_desc$"
+
+nhsc_tech_rare_crystals_cultivation: "稀有晶体培养"
+nhsc_tech_rare_crystals_cultivation_desc: "随着基质的细微变化，我们应该能够使活水晶与更稀有且更有价值的材料内含物一起生长。"
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_TITLE: "§H升级$JOBS_TITLE$：§! £job_esc_crystal_farmer£ §Y$job_esc_crystal_farmer_plural$§!也会同时生产 £rare_crystals£ §Y$rare_crystals$§!"
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_T_DESC: "$nhsc_tech_rare_crystals_cultivation_desc$"
+
+nhsc_tech_autocannons_m: "大型自动炮"
+nhsc_tech_autocannons_m_desc: "当你需要更多的“哒咔”，这种武器就诞生了。是时候拿出更大的炮了！"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_TITLE: "§HUnlocks components§!: M-size advanced autocannons"
+#NHSC_TECH_UNLOCK_M_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_m_desc$"
+
+nhsc_tech_autocannons_l: "超级自动炮"
+nhsc_tech_autocannons_l_desc: "“哒咔”永远不够！！"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_TITLE: "§HUnlocks components§!: L-size advanced autocannons"
+#NHSC_TECH_UNLOCK_L_AUTOCANNONS_DESC: "$nhsc_tech_autocannons_l_desc$"
+NHSC_TECH_RARE_CRYSTALS_CULTIVATION_DESC: "$nhsc_tech_rare_crystals_cultivation_desc$"

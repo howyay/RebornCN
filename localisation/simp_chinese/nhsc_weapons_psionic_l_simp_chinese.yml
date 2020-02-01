@@ -1,0 +1,79 @@
+﻿l_simp_chinese:
+
+### SIMPLE CHINESE (ACTUALLY ENGLISH) LOCALIZATION
+
+########################################
+###      Psionic Blast Torpedo       ###
+########################################
+
+NHSC_TORPEDO_PSI_1: "灵能冲击鱼雷"
+NHSC_TORPEDO_PSI_1_DESC: "一种能量鱼雷，用强大的灵能冲击攻击我们的敌人。"
+
+########################################
+###  Improved Psionic Blast Torpedo  ###
+########################################
+
+NHSC_TORPEDO_PSI_2: "改良型灵能冲击鱼雷"
+NHSC_TORPEDO_PSI_2_DESC: "改进后的灵能能量技术能增加鱼雷爆炸的威力。"
+
+########################################
+###     Psionic Energy Projector     ###
+########################################
+
+NHSC_CANNON_PSI_1: "灵能投射器"
+NHSC_CANNON_PSI_1_DESC: "一种聚焦灵能能量破坏目标的武器。"
+SMALL_NHSC_CANNON_PSI_1: "小型$NHSC_CANNON_PSI_1$"
+SMALL_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+MEDIUM_NHSC_CANNON_PSI_1: "中型$NHSC_CANNON_PSI_1$"
+MEDIUM_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+LARGE_NHSC_CANNON_PSI_1: "大型$NHSC_CANNON_PSI_1$"
+LARGE_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+
+########################################
+###       Psionic Wave Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_2: "灵能波炮"
+NHSC_CANNON_PSI_2_DESC: "改良型灵能聚焦器能显著增加灵能投射器的输出能量。"
+SMALL_NHSC_CANNON_PSI_2: "小型$NHSC_CANNON_PSI_2$"
+SMALL_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+MEDIUM_NHSC_CANNON_PSI_2: "中型$NHSC_CANNON_PSI_2$"
+MEDIUM_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+LARGE_NHSC_CANNON_PSI_2: "大型$NHSC_CANNON_PSI_2$"
+LARGE_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+
+########################################
+###       Psionic Beam Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_3: "灵能光束炮"
+NHSC_CANNON_PSI_3_DESC: "该武器能射出一束狭窄的灵能能量，可以在几秒钟内压倒我们的对手。"
+SMALL_NHSC_CANNON_PSI_3: "小型$NHSC_CANNON_PSI_3$"
+SMALL_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+MEDIUM_NHSC_CANNON_PSI_3: "中型$NHSC_CANNON_PSI_3$"
+MEDIUM_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+LARGE_NHSC_CANNON_PSI_3: "大型$NHSC_CANNON_PSI_3$"
+LARGE_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+
+########################################
+###           Psionic Lance          ###
+########################################
+
+NHSC_PSI_LANCE_1: "灵能光矛"
+NHSC_PSI_LANCE_1_DESC: "由聚焦且精致的灵能能量制成的能量枪。"
+
+########################################
+###       Focused Psionic Lance      ###
+########################################
+
+NHSC_PSI_LANCE_2: "虚空之光"
+NHSC_PSI_LANCE_2_DESC: "一种改进后的，更强大的灵能光矛。"
+NHSC_PSI_LANCE_TITANIC: "$NHSC_PSI_LANCE_2$"
+NHSC_PSI_LANCE_TITANIC_DESC: "$NHSC_PSI_LANCE_2_DESC$"
+
+########################################
+###       Psionic Interceptors       ###
+########################################
+
+NHSC_PSI_CRAFTS: "灵能舰载机"
+NHSC_PSI_CRAFTS_DESC: "该舰载机装备灵能武器。"
