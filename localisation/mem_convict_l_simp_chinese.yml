@@ -2,7 +2,7 @@
 # Code and Text by ViolentBeetle
 # Idea by Solarius Scorch
 
-l_english:
+l_simp_chinese:
 
  mem_convict_ship_size: "$large_ship_fallen_empire$"
  mem_convict_ship_size_plural: "$large_ship_fallen_empire_plural$"

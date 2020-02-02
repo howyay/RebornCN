@@ -1,7 +1,7 @@
 ﻿# Agrarian Idyll
 # By ViolentBeetle
 
-l_english:
+l_simp_chinese:
 
  mem_agrarian_dig_site: "Agrarian Idyll"
  mem_agrarian_dig_site_desc: "A small isolated region on this planet is covered in neat rows of farm plots - overgrown with plants, but still recognizable. This feature looks very out of place, especially considering that this is the only pre-existing artificial structures on [From.Planet.GetName]. \n\nMechanized farming equipment is still rusting in the fields, while farm owners are nowhere to be found."

@@ -1,7 +1,7 @@
 ﻿#Crucible
 #By ViolentBeetle
 
-l_english:
+l_simp_chinese:
  mem_crucible.3.name:0 "Gripped by Insanity"
  mem_crucible.3.desc:0 "The population of [From.GetName] appears to have been affected by some kind of collective insanity. \n\nReports from our observation outpost indicate rioting on the streets and widespread chanting of nonsensical mantras. The small fraction of natives who have maintained their cognitive abilities are fleeing population centers, and their numbers are rapidly dwindling. The [From.Owner.GetName] is on the brink of complete collapse."
  mem_crucible.3.a:0 "Troubling."

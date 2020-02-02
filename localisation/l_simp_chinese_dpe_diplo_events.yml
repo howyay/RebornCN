@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
 
 dpe_diplo.1.name:0 "民众渴望战争"
 dpe_diplo.1.desc:0 "[root.GetSpeciesNamePlural]大众间的民族主义浪潮近来达到顶点，全国各地都在举行游行，要求重塑民族荣光——[root.GetName]国内承平日久，民众对此焦躁不安，担心这会使敌人认为我们已经变得软弱可欺。他们的狂热指向了[enemy.GetName],该国领导人最近公开嘲讽了[root.GetSpeciesNamePlural]，称我们胆小怕事，毫无荣誉可言。愤怒的民众呼吁对此还以战争。"

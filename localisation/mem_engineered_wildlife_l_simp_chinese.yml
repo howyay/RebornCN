@@ -1,6 +1,6 @@
 ﻿#The Ark
 #By ViolentBeetle
-l_english:
+l_simp_chinese:
 
 mem_engineered_wildlife_category:0 "Curious Wildlife"
 mem_engineered_wildlife_category_desc:0 "Our scans have indicated unusual behavioural patterns among the wildlife native to [root.GetName]. Further study is needed to see how this may impact potential colonization efforts."

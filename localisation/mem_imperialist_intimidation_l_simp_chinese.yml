@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  mem_imperialist_intimidation.2.name:0 "The [hegimp.GetAdj] Fleet is Intimidating Our Colonies"
  mem_imperialist_intimidation.2.desc_01:0 "The [hegimp.GetName] has begun claiming systems near our space. [hegimp.GetAdj] forces have already started fortifying their position and have sent a detachment of their fleet into the border region. Officially, these ships are executing routine manoeuvres, but their message is clear: The [hegimp.GetName] is here to stay. As a result, the population of [Root.GetName] has started congregating in a Holy Order sworn to defend the planet."
  mem_imperialist_intimidation.2.holyorder:0 "Faith put in righteous arms will never waver."

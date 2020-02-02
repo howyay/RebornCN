@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  civic_hive_autonomous_drones:0 "Autonomous Drones"
  civic_hive_autonomous_drones_desc:0 "Drones of this Hive are proactive, they do not need an assigned job to be productive to the colonies. These drones will intuitively scavenge and tend to other Drones needs while unemployed."
  civic_tooltip_autonomous_drones_effects:0 "£minerals£ §Y$minerals$§! from £unemployment£ §YUnemployed Pops§!: §G+1§!\n£amenities£ §YAmenities§! from £unemployment£ §YUnemployed Pops§!: §G+2§!"

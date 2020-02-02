@@ -1,7 +1,7 @@
 ﻿# Cold Comfort
 # By ViolentBeetle
 
-l_english:
+l_simp_chinese:
  
  mem_cold_dig_site: "Cold Comfort"
  mem_cold_dig_site_desc: "The surface of §Y[From.Planet.GetName]§! is extremely cold, much colder than expected based on its position in the system. Even though it's uninhabitable now, the decaying ruins of an industrial civilization are scattered across the surface of the [From.Planet.GetPlanetMoon], suggesting relatively recent and extremely drastic climate change."

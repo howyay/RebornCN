@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION:0 "Divine Intervention"
  MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION_DESC:0 "One of our ships will provide the much needed assistance for the almost defeated rebels on [mem_primitive_civil_war_planet.GetName], even though the natives won't understand what is happening. A few well-placed shots from orbit should rout the imperial forces with ease."
  mem_primitive_civil_war.2.name:0 "The Way of the Warrior"

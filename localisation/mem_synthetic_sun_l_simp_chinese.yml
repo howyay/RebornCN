@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  #TEXTS
  mem_synthetic_sun.1.name:0 "This is No Moon"
  mem_synthetic_sun.1.desc:0 "Ever since §Y[Root.GetName]§! was colonized, its moon §Y[the_moon.GetName]§! has never seemed quite right to the residents. They couldn't make complete sense out of its orbital mechanics, and now they've discovered why. \n\nBeneath the relatively thin crust, the moon turned out to be filled with strange equipment of alien origin. In fact, the whole moon appears to have been artificially constructed millennia ago. \n\nSpeculation is running wild, and it might be wise to find the purpose of the equipment."

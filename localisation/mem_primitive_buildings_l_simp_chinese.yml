@@ -1,6 +1,6 @@
 ﻿# Knock-offs for primitive buildings and jobs, uncoupled from ages.
 
-l_english:
+l_simp_chinese:
  building_mem_primitive_capital:1 "$building_primitive_capital$"
  building_mem_primitive_capital_desc:1 "$building_primitive_capital_desc$"
  building_mem_urban_dwellings:1 "$building_urban_dwellings$"

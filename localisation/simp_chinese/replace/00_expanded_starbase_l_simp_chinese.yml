@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
 sm_offworld_trading_company_desc_modifier:3 "Produces §G2§! £trade_value£§Y$TRADE_VALUE$§! for each [Root.Owner.GetTradingHubType]\nProduces additional §G+2§! £trade_value£§Y$TRADE_VALUE$§! per [Root.Owner.GetTradingHubType] with §Y$tech_galactic_trading_companies$§! tech\n§G+10%§! System Trade Value\n\n"
 sm_naval_logistics_office_desc_modifier:2 "Anchorages: §G+2§! §YNaval Capacity§!\nAnchorages: Additional §G+2§! §YNaval Capacity§! with §Y$tech_interstellar_fleet_doctrines$§! tech\n\n"
 

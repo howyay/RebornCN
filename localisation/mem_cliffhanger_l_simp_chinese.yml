@@ -1,7 +1,7 @@
 ﻿# Cliffhanger
 # By ViolentBeetle
 
-l_english:
+l_simp_chinese:
  mem_cliffhanger_dig_site: "Cliffhanger"
  mem_cliffhanger_dig_site_desc: "An artificial structure of some kind is built into a massive cliff, overlooking a massive tectonic crevice. Its walls are blocking all sensors and prevent us from mapping its underground parts from orbit, but if exposed parts are any indication, it's made in the shape of a massive cylinder. There don't seem to be any doors, windows or other points of entry. \n\nWho could have built such a thing on such a lifeless [From.Planet.GetPlanetMoon], and why?"
  mem_cliffhanger.1.name: "Screwed"

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  civic_overmind_secondary_species:0 "Remote Drones"
  civic_tooltip_overmind_effects:0 "Start the game with all §YRemote drones§! Pops with §Y$citizenship_full$§! citizenship and §Y$living_standard_hive_mind$§! living standard\nOnly members of the §YMain species§! can be §YLeaders§!\nMembers of the §YMain species§! can only be §YLeaders§!\n\n§RMembers of the§! §YMain species§! §Rcan not be gene-modded§!\n\nStability: §G+5§!"
  civic_hive_overmind:0 "Overmind"

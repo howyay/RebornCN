@@ -1,7 +1,7 @@
 ﻿#Blacksite
 #By ViolentBeetle
 
-l_english:
+l_simp_chinese:
  #EVENTS
  mem_blacksite.2.name:0 "Communication from the §S[blacksite_fallen_empire.GetName]§!"
  mem_blacksite.2.desc:0 "An undertaking of galactic importance requires your cooperation. A particularly sensitive project is being conducted, and we would prefer to not conduct it within our own borders. A [blacksite_planet.GetPlanetMoon] within a system you control, §Y[blacksite_planet.GetName]§!, is of no value to you, so would be perfect for this. \n\nIt would be better for all if you didn't try to interfere with operations of our black site and allow our shuttles free passage in and out. \n\nThis is not a request we make lightly. It is an opportunity for you to not only contribute to a noble goal, but also earn a good relationship with us."

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
 
  mem_fe.1.name:0 "Seeking the Help of the Ancients?"
  mem_fe.1.desc:0 "Despite the massive progress that has been made over the last few centuries, there are some illnesses that the best [root.GetSpeciesAdj] doctors cannot heal. It is [root.GetRulerTitle] [root.GetRulerName]'s misfortune to have been diagnosed with one such disease. The doctors are stumped by the sudden onset of [root.leader.GetHisHer] rare degenerative brain condition, which has left [root.leader.GetHimHer] with mere months left to live. There are however societies so advanced that what would be a miracle to our people is a commonplace fact of life there - societies where even diseases such as this are extinct. However, drawing their attention upon oneself can be risky, for their mood is unpredictable and their wrath terrible. Nevertheless, perhaps the Ancients would be willing to save [root.GetRulerName], if offered the right price?"

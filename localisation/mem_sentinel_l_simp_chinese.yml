@@ -1,7 +1,7 @@
 ﻿# Silent Sentinel
 # By ViolentBeetle
 
-l_english:
+l_simp_chinese:
 
  mem_sentinel_dig_site: "Dead and Buried"
  mem_sentinel_dig_site_desc: "A massive ship has been detected on this [From.Planet.GetPlanetMoon], mostly buried under tons of sand and dust. Its design is unlike anything we have seen before. \n\nNo signs of life or energy signatures are detected on the site, but the ship itself appears to be mostly intact."
