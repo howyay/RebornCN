@@ -1,0 +1,715 @@
+﻿l_simp_chinese:
+# BetterCheats Localisation - English #
+
+# Disabled
+policy_bc_disabled:0                "Disabled"
+policy_bc_disabled_desc:0           "This cheat is currently not activated. \n"
+#
+
+# Names
+policy_bc_habitability:0        "BetterCheats: Habitability"
+policy_bc_army:0                "BetterCheats: Army Training Speed"
+policy_bc_buildings:0           "BetterCheats: Building Speed"
+policy_bc_capacity:0            "BetterCheats: Capacity"
+policy_bc_diplomacy:0           "BetterCheats: Diplomacy"
+policy_bc_growth_speed:0        "BetterCheats: Growth Speed"
+policy_bc_happiness:0           "BetterCheats: Happiness"
+policy_bc_energy:0              "BetterCheats: Energy Credits"
+policy_bc_minerals:0            "BetterCheats: Minerals"
+policy_bc_consumer_goods:0      "BetterCheats: Consumer Goods"
+policy_bc_food:0                "BetterCheats: Food"
+policy_bc_alloys:0              "BetterCheats: Alloys"
+policy_bc_influence:0           "BetterCheats: Influence"
+policy_bc_unity:0               "BetterCheats: Unity"
+policy_bc_strategic_resources:0 "BetterCheats: Strategic Resources"
+policy_bc_upkeep:0              "BetterCheats: Upkeep"
+policy_bc_admin_cap:0           "BetterCheats: Admin. Capacity"
+policy_bc_colony:0              "BetterCheats: Colony Dev. Speed"
+policy_bc_exploration:0         "BetterCheats: Exploration Speed"
+policy_bc_leaders:0             "BetterCheats: Leader Improvements"
+policy_bc_research:0            "BetterCheats: Research Speed"
+policy_bc_trade_value:0         "BetterCheats: Trade Value"
+policy_bc_damage:0              "BetterCheats: Damage Multiplier"
+#
+
+# Active
+policy_bc_army_active:0             "Active"
+policy_bc_buildings_active:0        "Active"
+policy_bc_capacity_active:0         "Active"
+policy_bc_diplomacy_active:0        "Active"
+policy_bc_growth_speed_active:0     "Active"
+policy_bc_happiness_active:0        "Active"
+#
+
+# Energy Tiers
+policy_bc_energy_tier_i:0           "Tier I"
+policy_bc_energy_tier_ii:0          "Tier II"
+policy_bc_energy_tier_iii:0         "Tier III"
+policy_bc_energy_tier_iv:0          "Tier IV"
+policy_bc_energy_tier_v:0           "Tier V"
+policy_bc_energy_tier_vi:0          "Tier VI"
+policy_bc_energy_tier_vii:0         "Tier VII"
+policy_bc_energy_tier_viii:0        "Tier VIII"
+policy_bc_energy_tier_ix:0          "Tier IX"
+#
+
+# Mineral Tiers
+policy_bc_minerals_tier_i:0           "Tier I"
+policy_bc_minerals_tier_ii:0          "Tier II"
+policy_bc_minerals_tier_iii:0         "Tier III"
+policy_bc_minerals_tier_iv:0          "Tier IV"
+policy_bc_minerals_tier_v:0           "Tier V"
+policy_bc_minerals_tier_vi:0          "Tier VI"
+policy_bc_minerals_tier_vii:0         "Tier VII"
+policy_bc_minerals_tier_viii:0        "Tier VIII"
+policy_bc_minerals_tier_ix:0          "Tier IX"
+#
+
+# Consumer Goods Tiers
+policy_bc_consumer_goods_tier_i:0           "Tier I"
+policy_bc_consumer_goods_tier_ii:0          "Tier II"
+policy_bc_consumer_goods_tier_iii:0         "Tier III"
+policy_bc_consumer_goods_tier_iv:0          "Tier IV"
+policy_bc_consumer_goods_tier_v:0           "Tier V"
+policy_bc_consumer_goods_tier_vi:0          "Tier VI"
+policy_bc_consumer_goods_tier_vii:0         "Tier VII"
+policy_bc_consumer_goods_tier_viii:0        "Tier VIII"
+policy_bc_consumer_goods_tier_ix:0          "Tier IX"
+#
+
+# Food Tiers
+policy_bc_food_tier_i:0           "Tier I"
+policy_bc_food_tier_ii:0          "Tier II"
+policy_bc_food_tier_iii:0         "Tier III"
+policy_bc_food_tier_iv:0          "Tier IV"
+policy_bc_food_tier_v:0           "Tier V"
+policy_bc_food_tier_vi:0          "Tier VI"
+policy_bc_food_tier_vii:0         "Tier VII"
+policy_bc_food_tier_viii:0        "Tier VIII"
+policy_bc_food_tier_ix:0          "Tier IX"
+#
+
+# Alloys Tiers
+policy_bc_alloys_tier_i:0           "Tier I"
+policy_bc_alloys_tier_ii:0          "Tier II"
+policy_bc_alloys_tier_iii:0         "Tier III"
+policy_bc_alloys_tier_iv:0          "Tier IV"
+policy_bc_alloys_tier_v:0           "Tier V"
+policy_bc_alloys_tier_vi:0          "Tier VI"
+policy_bc_alloys_tier_vii:0         "Tier VII"
+policy_bc_alloys_tier_viii:0        "Tier VIII"
+policy_bc_alloys_tier_ix:0          "Tier IX"
+#
+
+# Influence Tiers
+policy_bc_influence_tier_i:0           "Tier I"
+policy_bc_influence_tier_ii:0          "Tier II"
+policy_bc_influence_tier_iii:0         "Tier III"
+policy_bc_influence_tier_iv:0          "Tier IV"
+policy_bc_influence_tier_v:0           "Tier V"
+policy_bc_influence_tier_vi:0          "Tier VI"
+policy_bc_influence_tier_vii:0         "Tier VII"
+policy_bc_influence_tier_viii:0        "Tier VIII"
+policy_bc_influence_tier_ix:0          "Tier IX"
+policy_bc_influence_tier_x:0           "Tier X"
+#
+
+# Unity Tiers
+policy_bc_unity_tier_i:0           "Tier I"
+policy_bc_unity_tier_ii:0          "Tier II"
+policy_bc_unity_tier_iii:0         "Tier III"
+policy_bc_unity_tier_iv:0          "Tier IV"
+policy_bc_unity_tier_v:0           "Tier V"
+policy_bc_unity_tier_vi:0          "Tier VI"
+policy_bc_unity_tier_vii:0         "Tier VII"
+policy_bc_unity_tier_viii:0        "Tier VIII"
+policy_bc_unity_tier_ix:0          "Tier IX"
+#
+
+# Strategic Resources Tiers
+policy_bc_strategic_resources_tier_i:0           "Tier I"
+policy_bc_strategic_resources_tier_ii:0          "Tier II"
+policy_bc_strategic_resources_tier_iii:0         "Tier III"
+policy_bc_strategic_resources_tier_iv:0          "Tier IV"
+policy_bc_strategic_resources_tier_v:0           "Tier V"
+policy_bc_strategic_resources_tier_vi:0          "Tier VI"
+policy_bc_strategic_resources_tier_vii:0         "Tier VII"
+policy_bc_strategic_resources_tier_viii:0        "Tier VIII"
+policy_bc_strategic_resources_tier_ix:0          "Tier IX"
+policy_bc_strategic_resources_tier_x:0           "Tier X"
+#
+
+# Upkeep Tiers
+policy_bc_upkeep_tier_i:0           "Tier I"
+policy_bc_upkeep_tier_ii:0          "Tier II"
+policy_bc_upkeep_tier_iii:0         "Tier III"
+policy_bc_upkeep_tier_iv:0          "Tier IV"
+policy_bc_upkeep_tier_v:0           "Tier V"
+policy_bc_upkeep_tier_vi:0          "Tier VI"
+policy_bc_upkeep_tier_vii:0         "Tier VII"
+policy_bc_upkeep_tier_viii:0        "Tier VIII"
+policy_bc_upkeep_tier_ix:0          "Tier IX"
+#
+
+# Admin Cap Tiers
+policy_bc_admin_cap_tier_i:0           "Tier I"
+policy_bc_admin_cap_tier_ii:0          "Tier II"
+policy_bc_admin_cap_tier_iii:0         "Tier III"
+policy_bc_admin_cap_tier_iv:0          "Tier IV"
+policy_bc_admin_cap_tier_v:0           "Tier V"
+policy_bc_admin_cap_tier_vi:0          "Tier VI"
+policy_bc_admin_cap_tier_vii:0         "Tier VII"
+policy_bc_admin_cap_tier_viii:0        "Tier VIII"
+policy_bc_admin_cap_tier_ix:0          "Tier IX"
+policy_bc_admin_cap_tier_x:0           "Tier X"
+#
+
+# Colony Tiers
+policy_bc_colony_tier_i:0           "Tier I"
+policy_bc_colony_tier_ii:0          "Tier II"
+policy_bc_colony_tier_iii:0         "Tier III"
+policy_bc_colony_tier_iv:0          "Tier IV"
+policy_bc_colony_tier_v:0           "Tier V"
+policy_bc_colony_tier_vi:0          "Tier VI"
+policy_bc_colony_tier_vii:0         "Tier VII"
+policy_bc_colony_tier_viii:0        "Tier VIII"
+policy_bc_colony_tier_ix:0          "Tier IX"
+#
+
+# Army Tiers
+policy_bc_army_tier_i:0           "Tier I"
+policy_bc_army_tier_ii:0          "Tier II"
+policy_bc_army_tier_iii:0         "Tier III"
+policy_bc_army_tier_iv:0          "Tier IV"
+policy_bc_army_tier_v:0           "Tier V"
+policy_bc_army_tier_vi:0          "Tier VI"
+policy_bc_army_tier_vii:0         "Tier VII"
+policy_bc_army_tier_viii:0        "Tier VIII"
+policy_bc_army_tier_ix:0          "Tier IX"
+#
+
+# Exploration Tiers
+policy_bc_exploration_tier_i:0           "Tier I"
+policy_bc_exploration_tier_ii:0          "Tier II"
+policy_bc_exploration_tier_iii:0         "Tier III"
+policy_bc_exploration_tier_iv:0          "Tier IV"
+policy_bc_exploration_tier_v:0           "Tier V"
+policy_bc_exploration_tier_vi:0          "Tier VI"
+policy_bc_exploration_tier_vii:0         "Tier VII"
+policy_bc_exploration_tier_viii:0        "Tier VIII"
+policy_bc_exploration_tier_ix:0          "Tier IX"
+#
+
+# Leader Tiers
+policy_bc_leaders_tier_i:0           "Tier I"
+policy_bc_leaders_tier_ii:0          "Tier II"
+policy_bc_leaders_tier_iii:0         "Tier III"
+policy_bc_leaders_tier_iv:0          "Tier IV"
+policy_bc_leaders_tier_v:0           "Tier V"
+policy_bc_leaders_tier_vi:0          "Tier VI"
+policy_bc_leaders_tier_vii:0         "Tier VII"
+policy_bc_leaders_tier_viii:0        "Tier VIII"
+policy_bc_leaders_tier_ix:0          "Tier IX"
+#
+
+# Research Tiers
+policy_bc_research_tier_i:0           "Tier I"
+policy_bc_research_tier_ii:0          "Tier II"
+policy_bc_research_tier_iii:0         "Tier III"
+policy_bc_research_tier_iv:0          "Tier IV"
+policy_bc_research_tier_v:0           "Tier V"
+policy_bc_research_tier_vi:0          "Tier VI"
+policy_bc_research_tier_vii:0         "Tier VII"
+policy_bc_research_tier_viii:0        "Tier VIII"
+policy_bc_research_tier_ix:0          "Tier IX"
+policy_bc_research_tier_x:0           "Tier X"
+#
+
+# Trade Value Tiers
+policy_bc_trade_value_tier_i:0           "Tier I"
+policy_bc_trade_value_tier_ii:0          "Tier II"
+policy_bc_trade_value_tier_iii:0         "Tier III"
+policy_bc_trade_value_tier_iv:0          "Tier IV"
+policy_bc_trade_value_tier_v:0           "Tier V"
+policy_bc_trade_value_tier_vi:0          "Tier VI"
+policy_bc_trade_value_tier_vii:0         "Tier VII"
+policy_bc_trade_value_tier_viii:0        "Tier VIII"
+policy_bc_trade_value_tier_ix:0          "Tier IX"
+policy_bc_trade_value_tier_x:0           "Tier X"
+#
+
+# Damage Tiers
+policy_bc_damage_tier_i:0           "Tier I"
+policy_bc_damage_tier_ii:0          "Tier II"
+policy_bc_damage_tier_iii:0         "Tier III"
+policy_bc_damage_tier_iv:0          "Tier IV"
+policy_bc_damage_tier_v:0           "Tier V"
+policy_bc_damage_tier_vi:0          "Tier VI"
+policy_bc_damage_tier_vii:0         "Tier VII"
+policy_bc_damage_tier_viii:0        "Tier VIII"
+policy_bc_damage_tier_ix:0          "Tier IX"
+#
+
+# Growth Speed
+policy_bc_growth_speed_tier_i:0           "Tier I"
+policy_bc_growth_speed_tier_ii:0          "Tier II"
+policy_bc_growth_speed_tier_iii:0         "Tier III"
+policy_bc_growth_speed_tier_iv:0          "Tier IV"
+policy_bc_growth_speed_tier_v:0           "Tier V"
+policy_bc_growth_speed_tier_vi:0          "Tier VI"
+policy_bc_growth_speed_tier_vii:0         "Tier VII"
+policy_bc_growth_speed_tier_viii:0        "Tier VIII"
+policy_bc_growth_speed_tier_ix:0          "Tier IX"
+#
+
+# Habitability
+policy_bc_habitability_tier_i:0           "Tier I"
+policy_bc_habitability_tier_ii:0          "Tier II"
+policy_bc_habitability_tier_iii:0         "Tier III"
+policy_bc_habitability_tier_iv:0          "Tier IV"
+policy_bc_habitability_tier_v:0           "Tier V"
+policy_bc_habitability_tier_vi:0          "Tier VI"
+policy_bc_habitability_tier_vii:0         "Tier VII"
+policy_bc_habitability_tier_viii:0        "Tier VIII"
+policy_bc_habitability_tier_ix:0          "Tier IX"
+#
+
+# Names Description
+policy_bc_habitability_desc:0        ""
+policy_bc_army_desc:0                ""
+policy_bc_buildings_desc:0           ""
+policy_bc_capacity_desc:0            ""
+policy_bc_diplomacy_desc:0           ""
+policy_bc_growth_speed_desc:0        ""
+policy_bc_happiness_desc:0           ""
+policy_bc_energy_desc:0              ""
+policy_bc_minerals_desc:0            ""
+policy_bc_consumer_goods_desc:0      ""
+policy_bc_food_desc:0                ""
+policy_bc_alloys_desc:0              ""
+policy_bc_influence_desc:0           ""
+policy_bc_unity_desc:0               ""
+policy_bc_strategic_resources_desc:0 ""
+policy_bc_upkeep_desc:0              ""
+policy_bc_admin_cap_desc:0           ""
+policy_bc_colony_desc:0              ""
+policy_bc_exploration_desc:0         ""
+policy_bc_leaders_desc:0             ""
+policy_bc_research_desc:0            ""
+policy_bc_trade_value_desc:0         ""
+policy_bc_damage_desc:0              ""
+#
+
+# Active Description
+policy_bc_army_active_desc:0             ""
+policy_bc_buildings_active_desc:0        ""
+policy_bc_capacity_active_desc:0         ""
+policy_bc_diplomacy_active_desc:0        ""
+policy_bc_happiness_active_desc:0        ""
+#
+
+# Energy Description
+policy_bc_energy_tier_i_desc:0           "Renewable energy? I'm a big fan. \n\n"
+policy_bc_energy_tier_ii_desc:0          "Why is this even a currency? \n\n"
+policy_bc_energy_tier_iii_desc:0         "Lets boost your economy! \n\n"
+policy_bc_energy_tier_iv_desc:0          "Who wants some freshly made reactors? \n\n"
+policy_bc_energy_tier_v_desc:0           "Maybe turn of your lights when you leave the planet? \n\n"
+policy_bc_energy_tier_vi_desc:0          "Have you considered building a few Dysonspheres? \n\n"
+policy_bc_energy_tier_vii_desc:0         "I love the tingling sensation on my tongue when i lick a battery. \n\n"
+policy_bc_energy_tier_viii_desc:0        "You really wanna accelerate the heat death of the universe, don't you? \n\n"
+policy_bc_energy_tier_ix_desc:0          "This breaks the first law of Thermodynamics. \n\n"
+#
+
+# Mineral Description
+policy_bc_minerals_tier_i_desc:0           "More is always better! \n\n"
+policy_bc_minerals_tier_ii_desc:0          "We shall head to Khazad-dum, the mines of Moria. \n\n"
+policy_bc_minerals_tier_iii_desc:0         "This isn't minecraft. \n\n"
+policy_bc_minerals_tier_iv_desc:0          "Your planets may become hollow. \n\n"
+policy_bc_minerals_tier_v_desc:0           "Bigger drills are always better. \n\n"
+policy_bc_minerals_tier_vi_desc:0          "What do you even do with all of this stuff? \n\n"
+policy_bc_minerals_tier_vii_desc:0         "You shouldv'e picked a dwarf species. \n\n"
+policy_bc_minerals_tier_viii_desc:0        "You might aswell mine a black hole \n\n"
+policy_bc_minerals_tier_ix_desc:0          "Matter shouldn't be able to be created, or should it? \n\n"
+#
+
+# Consumer Goods Description
+policy_bc_consumer_goods_tier_i_desc:0           "America now has Kinder Eggs. \n\n"
+policy_bc_consumer_goods_tier_ii_desc:0          "Is MLM a good thing? \n\n"
+policy_bc_consumer_goods_tier_iii_desc:0         "Because planned obsolescence is a bitch. \n\n"
+policy_bc_consumer_goods_tier_iv_desc:0          "Restrain yourself! \n\n"
+policy_bc_consumer_goods_tier_v_desc:0           "Mega Malls: Now an entire planet! \n\n"
+policy_bc_consumer_goods_tier_vi_desc:0          "Lawrence now is a town merchant. \n\n"
+policy_bc_consumer_goods_tier_vii_desc:0         "Jeff Bezos is a happy man. \n\n"
+policy_bc_consumer_goods_tier_viii_desc:0        "Welcome to IB economics, sigh... \n\n"
+policy_bc_consumer_goods_tier_ix_desc:0          "Do you remember Wall-E? This is your future. \n\n"
+#
+
+# Food Description
+policy_bc_food_tier_i_desc:0           "Stuff your mouth! \n\n"
+policy_bc_food_tier_ii_desc:0          "Do you want to become fat, because this is how you will get fat \n\n"
+policy_bc_food_tier_iii_desc:0         "I question your stomach. \n\n"
+policy_bc_food_tier_iv_desc:0          "How many stomaches does this species have!? \n\n"
+policy_bc_food_tier_v_desc:0           "Looks like meat's back on the menu, boys! \n\n"
+policy_bc_food_tier_vi_desc:0          "Mhhhm tasty... \n\n"
+policy_bc_food_tier_vii_desc:0         "This is a big dill. \n\n"
+policy_bc_food_tier_viii_desc:0        "Summons the harvest god Holo from Yoitsu. \n\n"
+policy_bc_food_tier_ix_desc:0          "Invention of the 'Flint Lockwood Diatonic Super Mutating Dynamic Food Replicator' (FLDSMDFR). \n\n"
+#
+
+# Alloys Description
+policy_bc_alloys_tier_i_desc:0           "Because fuck nature, thats why. \n\n"
+policy_bc_alloys_tier_ii_desc:0          "Dragon Scales? I wonder what will happen if i mix them into our hull. \n\n"
+policy_bc_alloys_tier_iii_desc:0         "Mithril infused. \n\n"
+policy_bc_alloys_tier_iv_desc:0          "Hey Vsauce, Michael here. What are alloys and why do we need so much of them? \n\n"
+policy_bc_alloys_tier_v_desc:0           "Aloy!!!! \n\n"
+policy_bc_alloys_tier_vi_desc:0          "I asked the guy sitting next to me if he had any Sodium Hypobromite…\n\nHe said NaBrO. \n\n"
+policy_bc_alloys_tier_vii_desc:0         "Giv me alloys, lul. \n\n"
+policy_bc_alloys_tier_viii_desc:0        "If the Silver Surfer and Iron Man team up, they'd be alloys. \n\n"
+policy_bc_alloys_tier_ix_desc:0          "German engineering and efficiency. \n\n"
+#
+
+# Influence Description
+policy_bc_influence_tier_i_desc:0           "Mexico pays for it. \n\n"
+policy_bc_influence_tier_ii_desc:0          "I am the Senate \n\n"
+policy_bc_influence_tier_iii_desc:0         "You are fake news! \n\n"
+policy_bc_influence_tier_iv_desc:0          "'Curses! Just when you've finally managed to bring the whole world under your evil influence some pathetic little Inquisitor goes whining off to the Adeptus Terra about rogue psykers and daemonic possession. I mean, do I look possessed? Well, do I? DO I???'\n\n-Personal Log of Lord Varlak, 995.M41 (during the Purging of Korsk II) \n\n"
+policy_bc_influence_tier_v_desc:0           "Trenni silver or Lumione gold? \n\n"
+policy_bc_influence_tier_vi_desc:0          "'Nö'\n-Merkel \n\n"
+policy_bc_influence_tier_vii_desc:0         "What do you even need all this influence for? \n\n"
+policy_bc_influence_tier_viii_desc:0        "A starbase here, a non-aggression pact here, another starbase... and I'm out again \n\n"
+policy_bc_influence_tier_ix_desc:0          "What are you an empire leader?\nOh wait... \n\n"
+policy_bc_influence_tier_x_desc:0           "At this point you are megalomaniacal \n\n"
+#
+
+# Unity Description
+policy_bc_unity_tier_i_desc:0           "We are one. \n\n"
+policy_bc_unity_tier_ii_desc:0          "Hunting for those perks are we? \n\n"
+policy_bc_unity_tier_iii_desc:0         "Unbelievable! You, [Subject Name Here], must be the pride of [Subject Hometown Here]. \n\n"
+policy_bc_unity_tier_iv_desc:0          "Having Schizophrenia? \n\n"
+policy_bc_unity_tier_v_desc:0           "We now are a cult. \n\n"
+policy_bc_unity_tier_vi_desc:0          "The Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us, it binds the galaxy together. \n\n"
+policy_bc_unity_tier_vii_desc:0         "'Don't break the fourth wall, you clever child you'\nQix'Lufran Ancients, Stagnant Ascendancy \n\n"
+policy_bc_unity_tier_viii_desc:0        "'Musubi is the old way of calling the local guardian god. Typing thread is Musubi. Connecting people is Musubi. The flow of time is Musubi. These are all the god's power. So the braided cords that we make are the god's art and represent the flow of time itself. They converge and take shape. They twist, tangle, sometimes unravel, break, and then connect again. Musubi - knotting. That's time.' \n\n"
+policy_bc_unity_tier_ix_desc:0          "We are one giant glob of yello now. \n\n"
+#
+
+# Strategic Resources Description
+policy_bc_strategic_resources_tier_i_desc:0           "No luck finding any in your range? \n\n"
+policy_bc_strategic_resources_tier_ii_desc:0          "Not so strategic anymore. \n\n"
+policy_bc_strategic_resources_tier_iii_desc:0         "Is mayonnaise a strategic resource? \n\n"
+policy_bc_strategic_resources_tier_iv_desc:0          "YOU NEED TO CONSTRUCT MORE ADDITIONAL PYLONS! \n\n"
+policy_bc_strategic_resources_tier_v_desc:0           "U is for uranium,Bombs \n\n"
+policy_bc_strategic_resources_tier_vi_desc:0          "Bless me bagpipes! I did it! I recreated Sea-Salt Ice Cream! \n\n"
+policy_bc_strategic_resources_tier_vii_desc:0         "I've seen the future. Our Tiberium future \n\n"
+policy_bc_strategic_resources_tier_viii_desc:0        "ghiscari slaves in dothraki \n\n"
+policy_bc_strategic_resources_tier_ix_desc:0          "the dwarfs of Erebor \n\n"
+policy_bc_strategic_resources_tier_x_desc:0           "ghiscari slaves in valyrian mines \n\n"
+#
+
+# Upkeep Description
+policy_bc_upkeep_tier_i_desc:0           "Because who needs public services? \n\n"
+policy_bc_upkeep_tier_ii_desc:0          "Removing the energy source of your ships would help, not saying your ships wouldn't work anymore, but... \n\n"
+policy_bc_upkeep_tier_iii_desc:0         "Reducing everything to a minimum! \n\n"
+policy_bc_upkeep_tier_iv_desc:0          "Rule with the heart of a servant. Serve with the heart of a king. \n\n"
+policy_bc_upkeep_tier_v_desc:0           "More like downkeep, am I right? HHAHAHahah.. ha? \n\n"
+policy_bc_upkeep_tier_vi_desc:0          "certainty is one of government recipes. \n\n"
+policy_bc_upkeep_tier_vii_desc:0         "607 tillion 386 zillion 947 trillion 522 billion dollars and 36 cents \n\n"
+policy_bc_upkeep_tier_viii_desc:0        "5 multiplujillion, 9 impossibidillion, 7 fantastica trillion dollars and 16 cents \n\n"
+policy_bc_upkeep_tier_ix_desc:0          "3 cubic acres (of Money) \n\n"
+#
+
+# Admin Cap Description
+policy_bc_admin_cap_tier_i_desc:0           "I love democracy. \n\n"
+policy_bc_admin_cap_tier_ii_desc:0          "A room without books is like a body without a soul \n\n"
+policy_bc_admin_cap_tier_iii_desc:0         "Kane lives in death! \n\n"
+policy_bc_admin_cap_tier_iv_desc:0          "the power you give me i will lay down when this crisis has abated \n\n"
+policy_bc_admin_cap_tier_v_desc:0           "Excuse me General, I meant Premier Cherdenko \n\n"
+policy_bc_admin_cap_tier_vi_desc:0          "What if I told you that the Republic was now under the control of a Dark Lord of the Sith? \n\n"
+policy_bc_admin_cap_tier_vii_desc:0         "Admire my amazing 2 thread voting system! \n\n"
+policy_bc_admin_cap_tier_viii_desc:0        "The Senate will decide your fate \n\n"
+policy_bc_admin_cap_tier_ix_desc:0          "I am the Senate \n\n"
+policy_bc_admin_cap_tier_x_desc:0           "Power! Unlimited power! \n\n"
+#
+
+# Colony Description
+policy_bc_colony_tier_i_desc:0           "What are you? Great Britain before or after they lost all their colonys? \n\n"
+policy_bc_colony_tier_ii_desc:0          "Thank you, NEXT! \n\n"
+policy_bc_colony_tier_iii_desc:0         "Admins on a minecraft server. \n\n"
+policy_bc_colony_tier_iv_desc:0          "Our shelters are held together by Duct-Tape. \n\n"
+policy_bc_colony_tier_v_desc:0           "To show the power of flex tape i sawed this colony in half. \n\n"
+policy_bc_colony_tier_vi_desc:0          "Vor uns liegt Deutschland, in uns marschiert Deutschland und hinter uns kommt Deutschland!/Germany is in front off us,marches within us and is behind us!  \n\n"
+policy_bc_colony_tier_vii_desc:0         "Lebensraum im Osten/Livingspace in the east \n\n"
+policy_bc_colony_tier_viii_desc:0        "If you want to rule everything, rule the rulers \n\n"
+policy_bc_colony_tier_ix_desc:0          "Great Britain at its height! \n\n"
+#
+
+# Army Description
+policy_bc_army_tier_i_desc:0           "Prepare for trouble. And make it double! \n\n"
+policy_bc_army_tier_ii_desc:0          "Murica, fuck yeah! \n\n"
+policy_bc_army_tier_iii_desc:0         "These aren't the droids you're looking for. \n\n"
+policy_bc_army_tier_iv_desc:0          "What doesn't kill you, usually succeeds in the second attempt. \n\n"
+policy_bc_army_tier_v_desc:0           "Killing you and giving you good advice aren't mutually exclusive. The rocket really is the way to go. \n\n"
+policy_bc_army_tier_vi_desc:0          "Easy 1M Fleets. \n\n"
+policy_bc_army_tier_vii_desc:0         "1 Trillion military budget. \n\n"
+policy_bc_army_tier_viii_desc:0        "Can your PC even handle battles at this point? \n\n"
+policy_bc_army_tier_ix_desc:0          "Did you ever have 1M armies? \n\n"
+#
+
+# Exploration Description
+policy_bc_exploration_tier_i_desc:0           "Looks like we found the Borealis. \n\n"
+policy_bc_exploration_tier_ii_desc:0          "There is always a bigger fish \n\n"
+policy_bc_exploration_tier_iii_desc:0         "Remember what happened to America when it was discovered? \n\n"
+policy_bc_exploration_tier_iv_desc:0          "Oh, Hi Mark. \n\n"
+policy_bc_exploration_tier_v_desc:0           "High, high, high to tigh, Space taxi to the sky! \n\n"
+policy_bc_exploration_tier_vi_desc:0          "'It's the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man.' \n\n"
+policy_bc_exploration_tier_vii_desc:0         "This is one huge step for man but a tiny leap for all of humanity! \n\n"
+policy_bc_exploration_tier_viii_desc:0        "1 winner 42 losers i eat losers for breakfest \n\n"
+policy_bc_exploration_tier_ix_desc:0          "It’s the ship that made the Kessel run in less than twelve parsecs. \n\n"
+#
+
+# Leader Description
+policy_bc_leaders_tier_i_desc:0           "Please get accepted to the art course. \n\n"
+policy_bc_leaders_tier_ii_desc:0          "'Orange is the new black.'\n-USA 2016 \n\n"
+policy_bc_leaders_tier_iii_desc:0         "I have the bigger button! \n\n"
+policy_bc_leaders_tier_iv_desc:0          "Caesar - Just don't get stabbed in the back, OK? \n\n"
+#
+
+# Research Description
+policy_bc_research_tier_i_desc:0           "Well done! Remember: The Aperture Science Bring Your Daughter to Work Day is the perfect time to have her tested. \n\n"
+policy_bc_research_tier_ii_desc:0          "I am Tony Stark. \n\n"
+policy_bc_research_tier_iii_desc:0         "'This is not a cheat... this is an invisible an science nexus.' \n\n"
+policy_bc_research_tier_iv_desc:0          "Data found from 'legitimate' Science EEs in the IB. \n\n"
+policy_bc_research_tier_v_desc:0           "Is this a certain scientific railgun? \n\n"
+policy_bc_research_tier_vi_desc:0          "Aperture Science. \n\n"
+policy_bc_research_tier_vii_desc:0         "Black Mesa. \n\n"
+policy_bc_research_tier_viii_desc:0        "Climate change does not exist! I mean its cold here. \n\n"
+policy_bc_research_tier_ix_desc:0          "Please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the Aperture Science Material Emancipation Grill, which may, in semi-rare cases, emancipate dental fillings, crowns, tooth enamel, and teeth. \n\n"
+policy_bc_research_tier_x_desc:0           "2 + 2 = 4 - 1 Thats 3 Quick Maff. \n\n"
+#
+
+# Trade Value Description
+policy_bc_trade_value_tier_i_desc:0           "NO, this is Patrick! \n\n"
+policy_bc_trade_value_tier_ii_desc:0          "Imagine the paperwork involved with this. \n\n"
+policy_bc_trade_value_tier_iii_desc:0         "If you're wasting time, you're wasting money... and that's just sick. \n\n"
+policy_bc_trade_value_tier_iv_desc:0          "People would be stupid if they'd buy this now.\n\nI guess nobody took the intelligent trait... \n\n"
+policy_bc_trade_value_tier_v_desc:0           "EU on steroids. \n\n"
+policy_bc_trade_value_tier_vi_desc:0          "Hopefully we don't turn into Venezuelan bolivar \n\n"
+policy_bc_trade_value_tier_vii_desc:0         "Is this Spice and Wolf? \n\n"
+policy_bc_trade_value_tier_viii_desc:0        "The art of the deal \n\n"
+policy_bc_trade_value_tier_ix_desc:0          "You are the IMF and World Bank merged into one! \n\n"
+policy_bc_trade_value_tier_x_desc:0           "A 5 letter word for happiness: MONEY. \n\n"
+#
+
+# Damage Description
+policy_bc_damage_tier_i_desc:0           "Owie, that hurt. \n\n"
+policy_bc_damage_tier_ii_desc:0          "Go and stub your toe. \n\n"
+policy_bc_damage_tier_iii_desc:0         "Neurotoxin... [cough] [cough] So deadly... [cough] Choking... [laughter] I'm kidding! \n\n"
+policy_bc_damage_tier_iv_desc:0          "Tom and Jerry, but who are you? \n\n"
+policy_bc_damage_tier_v_desc:0           "I hope you step on a Lego. \n\n"
+policy_bc_damage_tier_vi_desc:0          "'Now, young Skywalker, you will die.' \n\n"
+policy_bc_damage_tier_vii_desc:0         "Oh well. If you want my advice, you should just lie down in front of a rocket. Trust me, it'll be a lot less painful than the neurotoxin. \n\n"
+policy_bc_damage_tier_viii_desc:0        "Replacing every weapon with Lances. \n\n"
+policy_bc_damage_tier_ix_desc:0          "'This, recruits, is a 20 kilo ferrous slug. Feel the weight! Every five seconds, the main gun of an Everest-class dreadnought accelerates one, to one-point-three percent of lightspeed. It impacts with the force a 38 kiloton bomb. That is three times the yield of the city buster dropped on Hiroshima back on Earth. That means, Sir Isacc Newton is the deadliest son-of-a-bitch in space! Now! Serviceman Burnside, what is Newton's First Law?'\n\n'Sir! An object in motion stays in motion, sir!'\n\n'No credit for partial answers maggot!'\n\n'Sir! Unless acted on by an outside force, sir!'\n\n'Damn straight! I dare to assume you ignorant jackasses know that space is empty. Once you fire this hunk of metal, it keeps going 'til it hits something. That can be a ship, or the planet behind that ship. It might go off into deep space and hit somebody else in 10,000 years! If you pull the trigger on this, you are ruining someones day! Somewhere and sometime! That is why you check your damn targets! That is why you wait 'til the computer gives you a damn firing solution. That is why, Serviceman Chung, we do not 'eyeball it'. This is a weapon of Mass Destruction! You are NOT a cowboy, shooting from the hip!'\n\n'Sir, yes sir!' \n\n"
+#
+
+# Growth Speed Description
+policy_bc_growth_speed_tier_i_desc:0           "Fertilizing animals? \n\n"
+policy_bc_growth_speed_tier_ii_desc:0          "On to the rack you go! \n\n"
+policy_bc_growth_speed_tier_iii_desc:0         "Everybody is dutch now. \n\n"
+policy_bc_growth_speed_tier_iv_desc:0          "I am GROOT! \n\n"
+policy_bc_growth_speed_tier_v_desc:0           "What is this? A train in India? \n\n"
+policy_bc_growth_speed_tier_vi_desc:0          "It's breeding time.	( ͡° ͜ʖ ͡°) \n\n"
+policy_bc_growth_speed_tier_vii_desc:0         "Does love still exist or are you driven by instincts? \n\n"
+policy_bc_growth_speed_tier_viii_desc:0        "Growth enhancing drugs are forbidden because they are illegal.\n\n"
+policy_bc_growth_speed_tier_ix_desc:0          "Induced Acromegaly \n\n"
+#
+
+# Habitability Description
+policy_bc_habitability_tier_i_desc:0           "A new kitchen. \n\n"
+policy_bc_habitability_tier_ii_desc:0          "Terraforming those ugly rocks are we? \n\n"
+policy_bc_habitability_tier_iii_desc:0         "They say once you grow crops somewhere, you have officially colonized it. So, technically, I colonized Mars. In your face, Neil Armstrong! \n\n"
+policy_bc_habitability_tier_iv_desc:0          "I don't care, just let me live somewhere. \n\n"
+policy_bc_habitability_tier_v_desc:0           "Do you think humanity could ever come this far? \n\n"
+policy_bc_habitability_tier_vi_desc:0          "Habitats, on planets... hmmmmmmm... \n\n"
+policy_bc_habitability_tier_vii_desc:0         "Utopia ++++++++ \n\n"
+policy_bc_habitability_tier_viii_desc:0        "Breathing in space. \n\n"
+policy_bc_habitability_tier_ix_desc:0          "Just like robots. \n\n"
+#
+
+# Edict Names
+# Ascension Perks
+edict_bc_add_minor_artifacts:0                          "BC: Add Minor Artifacts \n\n"
+edict_bc_ap_enigmatic_engineering:0                     "BC: Ascension Perk - Enigmatic Engineering"
+edict_bc_ap_nihilistic_acquisition:0                    "BC: Ascension Perk - Nihilistic Acquisition"
+edict_bc_ap_colossus:0                                  "BC: Ascension Perk - Colossus Project"
+edict_bc_ap_engineered_evolution:0                      "BC: Ascension Perk - Engineered Evolution"
+edict_bc_ap_evolutionary_mastery:0                      "BC: Ascension Perk - Evolutionary Mastery"
+edict_bc_ap_the_flesh_is_weak:0                         "BC: Ascension Perk - The Flesh is Weak"
+edict_bc_ap_synthetic_evolution:0                       "BC: Ascension Perk - Synthetic Evolution"
+edict_bc_ap_mind_over_matter:0                          "BC: Ascension Perk - Mind over Matter"
+edict_bc_ap_transcendence:0                             "BC: Ascension Perk - Transcendence"
+edict_bc_ap_world_shaper:0                              "BC: Ascension Perk - World Shaper"
+edict_bc_ap_galactic_force_projection:0                 "BC: Ascension Perk - Galactic Force Projection"
+edict_bc_ap_defender_of_the_galaxy:0                    "BC: Ascension Perk - Defender of the Galaxy"
+edict_bc_ap_interstellar_dominion:0                     "BC: Ascension Perk - Interstellar Dominion"
+edict_bc_ap_grasp_the_void:0                            "BC: Ascension Perk - Grasp the Void"
+edict_bc_ap_eternal_vigilance:0                         "BC: Ascension Perk - Eternal Vigilance"
+edict_bc_ap_galactic_contender:0                        "BC: Ascension Perk - Galactic Contender"
+edict_bc_ap_technological_ascendancy:0                  "BC: Ascension Perk - Tec. Ascendancy"
+edict_bc_ap_one_vision:0                                "BC: Ascension Perk - One Vision"
+edict_bc_ap_consecrated_worlds:0                        "BC: Ascension Perk - Consecrated Worlds"
+edict_bc_ap_mastery_of_nature:0                         "BC: Ascension Perk - Mastery of Nature"
+edict_bc_ap_imperial_prerogative:0                      "BC: Ascension Perk - Imperial Prerogative"
+edict_bc_ap_executive_vigor:0                           "BC: Ascension Perk - Executive Vigor"
+edict_bc_ap_transcendent_learning:0                     "BC: Ascension Perk - Transcendent Learning"
+edict_bc_ap_shared_destiny:0                            "BC: Ascension Perk - Shared Destiny"
+edict_bc_ap_voidborn:0                                  "BC: Ascension Perk - Voidborne"
+edict_bc_ap_master_builders:0                           "BC: Ascension Perk - Master Builders"
+edict_bc_ap_galactic_wonders_utopia_and_megacorp:0      "BC: Ascension Perk - Galactic Wonders"
+edict_bc_ap_synthetic_age:0                             "BC: Ascension Perk - Synthetic Age"
+edict_bc_ap_machine_worlds:0                            "BC: Ascension Perk - Machine Worlds"
+edict_bc_ap_hive_worlds:0                               "BC: Ascension Perk - Hive Worlds"
+edict_bc_ap_arcology_project:0                          "BC: Ascension Perk - Arcology Project"
+edict_bc_ap_xeno_compatibility:0                        "BC: Ascension Perk - Xeno Compatibility"
+edict_bc_ap_universal_transactions:0                    "BC: Ascension Perk - Universal Transactions"
+
+# Relicts
+edict_bc_rl_dragon_trophy_passive:0         "BC: Passive Relict - Ether Drake Trophy"
+edict_bc_rl_dragon_trophy_active:0          "BC: Active Relict - Ether Drake Trophy"
+edict_bc_rl_khans_throne_passive:0          "BC: Passive Relict - Khan's Throne"
+edict_bc_rl_khans_throne_active:0           "BC: Active Relict - Khan's Throne"
+edict_bc_rl_worm_scales_passive:0           "BC: Passive Relict - Scales of the Worm"
+edict_bc_rl_worm_scales_active:0            "BC: Active Relict - Scales of the Worm"
+edict_bc_rl_rubricator_passive:0            "BC: Passive Relict - The Rubricator"
+edict_bc_rl_rubricator_active:0             "BC: Active Relict - The Rubricator"
+edict_bc_rl_galaxy_passive:0                "BC: Passive Relict - Miniature Galaxy"
+edict_bc_rl_galaxy_active:0                 "BC: Active Relict - Miniature Galaxy"
+edict_bc_rl_omnicodex_passive:0             "BC: Passive Relict - The Omnicodex"
+edict_bc_rl_omnicodex_active:0              "BC: Active Relict - The Omnicodex"
+edict_bc_rl_surveyor_passive:0              "BC: Passive Relict - The Surveyor"
+edict_bc_rl_surveyor_active:0               "BC: Active Relict - The Surveyor"
+edict_bc_rl_galatron_passive:0              "BC: Passive Relict - The Galatron"
+edict_bc_rl_galatron_active:0               "BC: Active Relict - The Galatron"
+edict_bc_rl_ancient_sword_passive:0         "BC: Passive Relict - Blade of the Huntress"
+edict_bc_rl_ancient_sword_active:0          "BC: Active Relict - Blade of the Huntress"
+edict_bc_rl_severed_head_passive:0          "BC: Passive Relict - Head of Zarqlan"
+edict_bc_rl_severed_head_active:0           "BC: Active Relict - Head of Zarqlan"
+edict_bc_rl_prethoryn_queen_passive:0       "BC: Passive Relict - Prethoryn Brood-Queen"
+edict_bc_rl_prethoryn_queen_active:0        "BC: Active Relict - Prethoryn Brood-Queen"
+edict_bc_rl_unbidden_warlock_passive:0      "BC: Passive Relict - Extradimensional Warlock"
+edict_bc_rl_unbidden_warlock_active:0       "BC: Active Relict - Extradimensional Warlock"
+edict_bc_rl_contingency_core_passive:0      "BC: Passive Relict - Isolated Contingency Core"
+edict_bc_rl_contingency_core_active:0       "BC: Active Relict - Isolated Contingency Core"
+edict_bc_rl_zro_crystal_passive:0           "BC: Passive Relict - Psionic Archive"
+edict_bc_rl_zro_crystal_active:0            "BC: Active Relict - Psionic Archive"
+edict_bc_rl_the_last_baol_passive:0         "BC: Passive Relict - The Last Baol"
+edict_bc_rl_the_last_baol_active:0          "BC: Active Relict - The Last Baol"
+edict_bc_rl_the_defragmentor_passive:0      "BC: Passive Relict - The Defragmentor"
+edict_bc_rl_the_defragmentor_active:0       "BC: Active Relict - The Defragmentor"
+edict_bc_rl_reality_perforator_passive:0    "BC: Passive Relict - Vultaum Reality Perforator"
+edict_bc_rl_reality_perforator_active:0     "BC: Active Relict - Vultaum Reality Perforator"
+edict_bc_rl_pox_sample_passive:0            "BC: Passive Relict - Javorian Pox Sample"
+edict_bc_rl_pox_sample_active:0             "BC: Active Relict - Javorian Pox Sample"
+edict_bc_rl_cryo_core_passive:0             "BC: Passive Relict - Yuht Cryo Core"
+edict_bc_rl_cryo_core_active:0              "BC: Active Relict - Yuht Cryo Core"
+edict_bc_rl_war_forge_passive:0             "BC: Passive Relict - Cybrex War Forge"
+edict_bc_rl_war_forge_active:0              "BC: Active Relict - Cybrex War Forge"
+
+# Edict Descriptions
+# Ascension Perks
+edict_bc_add_minor_artifacts_desc:0                          ""
+edict_bc_ap_enigmatic_engineering_desc:0                     ""
+edict_bc_ap_nihilistic_acquisition_desc:0                    ""
+edict_bc_ap_colossus_desc:0                                  ""
+edict_bc_ap_engineered_evolution_desc:0                      ""
+edict_bc_ap_evolutionary_mastery_desc:0                      ""
+edict_bc_ap_the_flesh_is_weak_desc:0                         ""
+edict_bc_ap_synthetic_evolution_desc:0                       ""
+edict_bc_ap_mind_over_matter_desc:0                          ""
+edict_bc_ap_transcendence_desc:0                             ""
+edict_bc_ap_world_shaper_desc:0                              ""
+edict_bc_ap_galactic_force_projection_desc:0                 ""
+edict_bc_ap_defender_of_the_galaxy_desc:0                    ""
+edict_bc_ap_interstellar_dominion_desc:0                     ""
+edict_bc_ap_grasp_the_void_desc:0                            ""
+edict_bc_ap_eternal_vigilance_desc:0                         ""
+edict_bc_ap_galactic_contender_desc:0                        ""
+edict_bc_ap_technological_ascendancy_desc:0                  ""
+edict_bc_ap_one_vision_desc:0                                ""
+edict_bc_ap_consecrated_worlds_desc:0                        ""
+edict_bc_ap_mastery_of_nature_desc:0                         ""
+edict_bc_ap_imperial_prerogative_desc:0                      ""
+edict_bc_ap_executive_vigor_desc:0                           ""
+edict_bc_ap_transcendent_learning_desc:0                     ""
+edict_bc_ap_shared_destiny_desc:0                            ""
+edict_bc_ap_voidborn_desc:0                                  ""
+edict_bc_ap_master_builders_desc:0                           ""
+edict_bc_ap_galactic_wonders_utopia_and_megacorp_desc:0      ""
+edict_bc_ap_synthetic_age_desc:0                             ""
+edict_bc_ap_machine_worlds_desc:0                            ""
+edict_bc_ap_hive_worlds_desc:0                               ""
+edict_bc_ap_arcology_project_desc:0                          ""
+edict_bc_ap_xeno_compatibility_desc:0                        ""
+edict_bc_ap_universal_transactions_desc:0                    ""
+
+# Relicts
+edict_bc_rl_dragon_trophy_passive_desc:0         ""
+edict_bc_rl_dragon_trophy_active_desc:0          ""
+edict_bc_rl_khans_throne_passive_desc:0          ""
+edict_bc_rl_khans_throne_active_desc:0           ""
+edict_bc_rl_worm_scales_passive_desc:0           ""
+edict_bc_rl_worm_scales_active_desc:0            ""
+edict_bc_rl_rubricator_passive_desc:0            ""
+edict_bc_rl_rubricator_active_desc:0             ""
+edict_bc_rl_galaxy_passive_desc:0                ""
+edict_bc_rl_galaxy_active_desc:0                 ""
+edict_bc_rl_omnicodex_passive_desc:0             ""
+edict_bc_rl_omnicodex_active_desc:0              ""
+edict_bc_rl_surveyor_passive_desc:0              ""
+edict_bc_rl_surveyor_active_desc:0               ""
+edict_bc_rl_galatron_passive_desc:0              ""
+edict_bc_rl_galatron_active_desc:0               ""
+edict_bc_rl_ancient_sword_passive_desc:0         ""
+edict_bc_rl_ancient_sword_active_desc:0          ""
+edict_bc_rl_severed_head_passive_desc:0          ""
+edict_bc_rl_severed_head_active_desc:0           ""
+edict_bc_rl_prethoryn_queen_passive_desc:0       ""
+edict_bc_rl_prethoryn_queen_active_desc:0        ""
+edict_bc_rl_unbidden_warlock_passive_desc:0      ""
+edict_bc_rl_unbidden_warlock_active_desc:0       ""
+edict_bc_rl_contingency_core_passive_desc:0      ""
+edict_bc_rl_contingency_core_active_desc:0       ""
+edict_bc_rl_zro_crystal_passive_desc:0           ""
+edict_bc_rl_zro_crystal_active_desc:0            ""
+edict_bc_rl_the_last_baol_passive_desc:0         ""
+edict_bc_rl_the_last_baol_active_desc:0          ""
+edict_bc_rl_the_defragmentor_passive_desc:0      ""
+edict_bc_rl_the_defragmentor_active_desc:0       ""
+edict_bc_rl_reality_perforator_passive_desc:0    ""
+edict_bc_rl_reality_perforator_active_desc:0     ""
+edict_bc_rl_pox_sample_passive_desc:0            ""
+edict_bc_rl_pox_sample_active_desc:0             ""
+edict_bc_rl_cryo_core_passive_desc:0             ""
+edict_bc_rl_cryo_core_active_desc:0              ""
+edict_bc_rl_war_forge_passive_desc:0             ""
+edict_bc_rl_war_forge_active_desc:0              ""
+
+# New Polices
+policy_bc_activate_cheats_edict:0               "Show Edict Cheats"
+policy_bc_activate_cheats_edict_active_1:0      "Show Ascension Perk Cheats"
+policy_bc_activate_cheats_edict_active_2:0      "Show Active Relict Cheats"
+policy_bc_activate_cheats_edict_active_3:0      "Show Passive Relict Cheats"
+policy_bc_activate_cheats_edict_active_4:0      "Show Every Edict Cheat"
+
+policy_bc_activate_cheats_policy:0          "Show Policy Cheats"
+policy_bc_activate_cheats_policy_active:0   "Show Policy Cheats"
+
+
+policy_bc_activate_cheats_edict_desc:0               ""
+policy_bc_activate_cheats_edict_active_1_desc:0      ""
+policy_bc_activate_cheats_edict_active_2_desc:0      ""
+policy_bc_activate_cheats_edict_active_3_desc:0      ""
+policy_bc_activate_cheats_edict_active_4_desc:0      ""
+
+policy_bc_activate_cheats_policy_desc:0          ""
+policy_bc_activate_cheats_policy_active_desc:0   ""
