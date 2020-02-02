@@ -762,6 +762,11 @@
  pdterra.01.desc.intro:0 "我们对[From.GetName]的详细调查显示，它可能在遥远的过去曾经支持过生态圈 环境已经灭绝了[From.GetPlanetMoon]的生命，但有明显的迹象表明如果改造它的话它可以再次支持生命。"
  pdterra.01.desc.1:0 "$anomaly.2575.desc.intro$\n\n从理论上来说，地貌改造这个[From.GetPlanetMoon]是可能的，但我们尚未拥有在切实的时间范围内完成这项重大任务的技术。"
  pdterra.01.desc.2:0 "$anomaly.2575.desc.intro$\n\n能源成本将是令人生畏的，但我们确实拥有将这种[From.GetPlanetMoon]逐渐变为可以再次支持生命的技术。"
+ pdanomaly.01.name:0 "Terraforming Candidate Discovered"
+ pdanomaly.01.desc.intro:0 "Our detailed survey of [From.GetName] has revealed that it may once have supported life in the distant past. Circumstance has left [From.GetPlanetMoon] lifeles, but there are clear signs it could support life once again if terraformed."
+ pdanomaly.01.desc.1:0 "$anomaly.2575.desc.intro$\n\nTerraforming this [From.GetPlanetMoon] would theoretically be possible, but we do not yet possess the technology to accomplish this monumental task within a realistic timeframe."
+ pdanomaly.01.desc.2:0 "$anomaly.2575.desc.intro$\n\nThe energy costs would be daunting, but we do have the technology to gradually terraform this [From.GetPlanetMoon] into something that would support life once again."
+
  
  ###PD Special Depsoits
  d_crystal_pillars:0 "晶体柱"
