@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+
+tech_experimental_subspace_navigation_desc:0 "单独的科研船可以突破自然形成的超空间来抵达那些用正常手段无法抵达的已知星域。 $dttr_tech_experimental_subspace_navigation_desc$"
+tech_lgate_activation_desc:0 "L星门超出了我们对亚空间原理的理解。在将其开启之前，我们必须对此进行补救。 $dttr_tech_lgate_activation_desc$"
+tech_mine_aldar_desc:0 "不稳定奥达尔仅少量存在于较为常见的矿石之中。若想在不对器械与人员造成巨大伤害的情况下将这些晶体成功提取出来，需要十分先进的自触觉机械。 $dttr_tech_mine_aldar_desc$"
+tech_nanite_repair_system_desc:0 "在拾荒者机器人的残骸里发现了一种高效的船壳自动维修系统，由数十亿个微型纳米机器人组成，并已改造成可为我们所用。至于拾荒者是从远古残骸中夺取了这个系统，还是原本就自带该系统则不得而知。 $dttr_tech_nanite_repair_system_desc$"
+tech_neuroregeneration_desc:0 "当改造成适合一个种群的基因组时，这种生物组织工程有着强烈的神经再生特性，可以大幅增强接受者的神经元，神经轴突，以及神经突触的成长。 $dttr_tech_neuroregeneration_desc$"
+tech_repeatable_lcluster_clue_desc:0 "对纳米机器与亚空间现象进行大量研究，最终将为$lgate_disabled$谜团揭开新的§Y$clue$§!。 $dttr_tech_repeatable_lcluster_clue_desc$"

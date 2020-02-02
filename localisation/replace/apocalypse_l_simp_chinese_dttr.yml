@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+
+tech_ftl_inhibitor_desc:0 "重力井投射器可以创造出无法安全进入超空间的局部空间。其能源需求与体积都十分巨大，只有太空基地才能安装。 $dttr_tech_ftl_inhibitor_desc$"
+tech_pk_cracker_desc:0 " $PLANET_KILLER_CRACKER_DESC $ $dttr_tech_pk_cracker_desc$"
+tech_pk_godray_desc:0 "一种增幅某些精神波长的神秘催化剂，可在有机大脑中造成幻觉（宗教体验），并在电子大脑中造成严重干扰（脑死亡）。 $dttr_tech_pk_godray_desc$"
+tech_pk_nanobots_desc:0 " $PLANET_KILLER_NANOBOTS $ $dttr_tech_pk_nanobots_desc$"
+tech_pk_neutron_desc:0 " $PLANET_KILLER_NEUTRON_DESC $ $dttr_tech_pk_neutron_desc$"
+tech_pk_shielder_desc:0 " $PLANET_KILLER_SHIELDER_DESC $ $dttr_tech_pk_shielder_desc$"

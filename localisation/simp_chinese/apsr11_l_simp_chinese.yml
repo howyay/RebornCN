@@ -1,0 +1,278 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr11_planet_modifier:0 "Firefly Swarm"
+ apsr11_planet_modifier_desc:0 "One of our scientists has discovered a biological miracle: these fireflies!"
+ 
+ apsr11_deposit:0 "$apsr11_planet_modifier$"
+ apsr11_deposit_desc:0 "$apsr11_planet_modifier_desc$\n\n§M$apsr11_deposit_effect$§!" 
+ apsr11_deposit_effect:0 "Unique resource available: $apsr11_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr11_building_part_b1_text:0 "By dint of a long selection, the first colonists have managed to incubate a special kind of fireflies capable of living in a synthetic environment"
+ 
+ apsr11_building_part_b2_text:0 "The recently bred firefly population has turned out to be not only combustible, but also nourishing."
+ 
+ apsr11_building_part_b3_text:0 "Eating extra genetically modified fireflies can induce the feeling of satiety"
+ 
+ 
+ apsr11_building_part_m1_text:0 "As a result of a long study of local species, our scientists have come to conclusion that individuals are linked with each other and react jointly in case of an outer danger"
+ 
+ apsr11_building_part_m2_text:0 "Studying the collective mind of the fireflies lets us to expand our knowledge of the structure of an organic society"
+ 
+ apsr11_building_part_m3_text:0 "Wathcing the fireflies creating a civilization has let us expand out knowledge of the society structure and reaise the level of our sociological research"
+ 
+ 
+ apsr11_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr11_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have proper technologies to maximize profit from this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr11_building_part_b1:0 "Firefly Farm"
+ apsr11_building_part_b1_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b1_text$"
+ 
+ apsr11_building_part_b2:0 "Firefly Farm"
+ apsr11_building_part_b2_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b2_text$"
+ 
+ apsr11_building_part_b3:0 "Firefly Farm"
+ apsr11_building_part_b3_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b3_text$"
+ 
+  
+ apsr11_building_part_m1:0 "Collective Mind Research Center"
+ apsr11_building_part_m1_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m1_text$"
+ 
+ apsr11_building_part_m2:0 "Collective Mind Research Center"
+ apsr11_building_part_m2_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m2_text$"
+ 
+ apsr11_building_part_m3:0 "Collective Mind Research Center"
+ apsr11_building_part_m3_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m3_text$"
+ 
+  
+ 
+ ### фейк-здания
+  
+ apsr11_building_part_b1_fake:0 "$apsr11_building_part_b1$"
+ apsr11_building_part_b1_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b1_text$"
+ 
+ apsr11_building_part_b2_fake:0 "$apsr11_building_part_b2$"
+ apsr11_building_part_b2_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b2_text$"
+ 
+ apsr11_building_part_b3_fake:0 "$apsr11_building_part_b3$"
+ apsr11_building_part_b3_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b3_text$"
+ 
+  
+ apsr11_building_part_m1_fake:0 "$apsr11_building_part_m1$"
+ apsr11_building_part_m1_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m1_text$"
+ 
+ apsr11_building_part_m2_fake:0 "$apsr11_building_part_m2$"
+ apsr11_building_part_m2_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m2_text$"
+ 
+ apsr11_building_part_m3_fake:0 "$apsr11_building_part_m3$"
+ apsr11_building_part_m3_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr11_building_part_b1:0 "Combustible Fireflies"
+ tech_apsr11_building_part_b1_desc:0 "By dint of a long selection, the first colonists have managed to incubate a special kind of combustible fireflies that can live in a synthetic environment"
+ 
+ tech_apsr11_building_part_b2:0 "Nutritious Fireflies"
+ tech_apsr11_building_part_b2_desc:0 "The incubated population of fireflies has turned out to be not only combustible, but also nutricious"
+ 
+ tech_apsr11_building_part_b3:0 "Genetically-Modified Fireflies"
+ tech_apsr11_building_part_b3_desc:0 "Additionally genetically modified fireflies can induce the feeling of satiety"
+ 
+ 
+ tech_apsr11_building_part_m1:0 "Collective Mind of Fireflies"
+ tech_apsr11_building_part_m1_desc:0 "As a result of a long study of local species, our scientists have come to conclusion that individuals are linked with each other and react jointly in case of an outer danger"
+ 
+ tech_apsr11_building_part_m2:0 "Primitive Fireflies"
+ tech_apsr11_building_part_m2_desc:0 "Studying the collective mind of the fireflies lets us to expand our knowledge of the structure of an organic society"
+ 
+ tech_apsr11_building_part_m3:0 "Cicindela Saniens - Firefly Mind"
+ tech_apsr11_building_part_m3_desc:0 "This may sound beyond belief, but the fireflies have formed their own civilization!"
+  
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.11001.title:0 "$apsr11_building_part_b1$ completed"
+ apsr.11001.desc:0 "A §Y$apsr11_building_part_b1$§!, which we've recently built, gives an ability to propagete and eat a special population of fireflies"
+ apsr.11001.ok-button:0 "Nice"
+ 
+ apsr.11002.title:0 "$apsr11_building_part_b2$ completed"
+ apsr.11002.desc:0 "The §Y$apsr11_building_part_b2$§! engaged in firefly propagation has raised its productive capacity and it now produces more food. Furthermore, a special processing of fireflies has given an opportunity to increade their food value"
+ apsr.11002.ok-button:0 "Wonderful"
+ 
+ apsr.11003.title:0 "$apsr11_building_part_b3$ completed"
+ apsr.11003.desc:0 "The §Y$apsr11_building_part_b3$§! has turned out to be incredibly useful. It has been found out that a single red firefly, after being specially processed, can make a whole settlement feel satiated"
+ apsr.11003.ok-button:0 "Delicious"
+ 
+ apsr.11004.title:0 "$apsr11_building_part_m1$ completed"
+ apsr.11004.desc:0 "By building a §Y$apsr11_building_part_m1$§!, we've got the ability to study the collective mind of red fireflies and its features. Who knows what it can lead us to?"
+ apsr.11004.ok-button:0 "Interesting"
+ 
+ apsr.11005.title:0 "$apsr11_building_part_m2$ completed"
+ apsr.11005.desc:0 "A §Y$apsr11_building_part_m2$§! registers an incipience of a primitive rational mind in the population of the red fireflies. By investing in the §YCollective Mind Research Center§!, we can increase its efficiency  in expanding the spectrum of our sociological research"
+ apsr.11005.ok-button:0 "Interesting"
+ 
+ apsr.11006.title:0 "$apsr11_building_part_m3$ completed"
+ apsr.11006.desc:0 "The §Y$apsr11_building_part_m3$§! is reporting about a wonderful phenomenon. The population of pre-sapient red fireflies has greatly evolved and created its own civilization. We keep on watching them"
+ apsr.11006.ok-button:0 "Unbelievable"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.11811.title:0 "Performance restored"
+ apsr.11811.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_b1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11811.ok-button:0 "Fine"
+ 
+ apsr.11812.title:0 "Performance restored"
+ apsr.11812.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_b2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11812.ok-button:0 "Fine"
+ 
+ apsr.11813.title:0 "Performance restored"
+ apsr.11813.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_b3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11813.ok-button:0 "Fine"
+ 
+ apsr.11814.title:0 "Performance restored"
+ apsr.11814.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_m1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11814.ok-button:0 "Fine"
+ 
+ apsr.11815.title:0 "Performance restored"
+ apsr.11815.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_m2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11815.ok-button:0 "Fine"
+ 
+ apsr.11816.title:0 "Performance restored"
+ apsr.11816.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr11_building_part_m3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.11816.ok-button:0 "Fine"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.11011.title:0 "Anomaly Discovered: §M$apsr11_planet_modifier$§!"
+ apsr.11011.desc:0 "A reserch team led by §H[Root.GetLeaderName]§! from the scientific ship §H[Root.GetName]§! has discovered something extraordinary! Here is an extract from the logbook: \n§P«Our team has just come out of the hyperspace in the affirmed coordinate to explore the system. Approaching one of the planets at a speed lower than the speed of light, I've suddenly received a signal from one of the sensors. We scanned the planet - it turned out to have characteristics that are very similar to ones our own planets have. \nIt was decided to examine it more closely by the onboard telescopes, and then we've noticed reddish glowing on the darker side of the planet. \nIs it caused by some kind of rocks? By some liquid or some gas? Maybe microogranisms? Or plants? But there's no point in contemplating. We'd already decided to land. Our pilot did so very skillfully. «Turn off the engines», «activate the «Perimeter» and all the external lights». And we are finally there»§!"
+ apsr.11011.button:1 "Next"
+ 
+ apsr.11022.title:0 "Anomaly Discovered: §M$apsr11_planet_modifier$§!"
+ apsr.11022.desc:0 "§P«Yes, there were solid rocks, there on the surface. Stones, rocky plates, specific fractures stretching into the distance... and nothing more. No red glowing. So what could it be? The sensors were displaying the local atmosphere characteristics - really close to what we have on our own planet. \nAt that moment our pilot informed us that he intended to reset the ship equipment to switch to the spare battery. Perhaps some connections  aren't right... The ship lights went off for a couple of seconds and switched on again. I felt like I had seen something and asked the pilot to mute the external lights»§!"
+ apsr.11022.button:1 "Next"
+ 
+ apsr.11023.title:0 "Anomaly Discovered: §M$apsr11_planet_modifier$§!"
+ apsr.11023.desc:0 "§P«And then we could see the glowing again., and it seemed that it was moving! I looked around. Small sparks were soaring, all the rocks and all the hills were covered with the red blanket of light, and from the external sensors of my suit I hear some rustle, like a kind of buzz. \nThese yellowish-red sparks were floating everywhere. And one of them passed just by my face. They were living creatures... like insects... The local fireflies... But glowing red. That's what it actually was. The first inhabited planet in this system, dwelt by fireflies and no other known creatures. That was really a thing! \nWe've left a beacon with a mark. The engines started buzzing, and we left that planet for another mission»§!"
+ apsr.11023.button:1 "Unbelievable!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.11013.title:0 "Anomaly Discovered: §M$apsr11_planet_modifier$§!"
+ apsr.11013.desc:0 "Something peculiar has been found on one of our new planets. \nThis planet is a habitat of a swarm of red fireflies, which can be seen only in night. Moreover, they demonstrate some features of a collective mind. We've studied them briefly, and our opinion is that they can be incredibly nutritious for organic life forms after being processed in some way"
+ apsr.11013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.11015.title:0 "Artifact Found: §M$apsr11_planet_modifier$§!"
+ apsr.11015.desc:0 "Our intelligence service, while checking information about the planets of other empires, has found something interesting!\nOn this planet lives a swarm of red fireflies, which can be seen only in the dark. In addition, they show signs of a collective mind. Having studied them fluently, the owner of the planet came to the conclusion that they can be incredibly nutritious for organic life forms after some processing.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr11_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr11_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr11_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr11_resource_planet.Owner.GetName]§!"
+ apsr.11015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr11_special:0 "$apsr11_planet_modifier$"
+ apsr11_special_desc:0 "$apsr11_planet_modifier_desc$"
+ 
+ APSR11_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR11_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr11_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr11_anomaly:0 "$apsr1_anomaly$"
+ apsr11_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.11601.title:0 "$apsr.11011.title$"
+ apsr.11601.desc:0 "$apsr.11011.desc$"
+ apsr.11601.button:0 "$apsr.11011.button$"
+ apsr.11602.title:0 "$apsr.11014.title$"
+ apsr.11602.desc:0 "$apsr.11014.desc$"
+ apsr.11602.button:0 "$apsr.11014.button$"
+ apsr.11603.title:0 "$apsr.11015.title$"
+ apsr.11603.desc:0 "$apsr.11015.desc$"
+ 
+ 
+ 
+ ### новые должности
+ 
+ apsr11_planet_scientist_machine:0 "Breeder drones"
+ job_apsr11_scientist_machine:0 "Breeder drone"
+ job_apsr11_scientist_machine_plural:0 "Breeder drones"
+ job_apsr11_scientist_machine_desc:0 "The special, multifunctional model of the drone, which provides the best conditions for habitat, reproduction and existence of the biological species «firefly», is engaged in selection and cultivation for the purpose of further studying the processes of evolution and social change"
+ mod_job_apsr11_scientist_machine_add:0 "Breeder drone"
+ 
+ apsr11_planet_scientist_lithoid_normal:0 "Breeders"
+ job_apsr11_scientist_lithoid_normal:0 "Breeder"
+ job_apsr11_scientist_lithoid_normal_plural:0 "Breeders"
+ job_apsr11_scientist_lithoid_normal_desc:0 "Breeder which provides the best conditions for habitat, reproduction and existence of the biological species «firefly», is engaged in selection and cultivation for the purpose of further studying the processes of evolution and social change"
+ mod_job_apsr11_scientist_lithoid_normal_add:0 "Breeder"
+ 
+ apsr11_planet_scientist_lithoid_hive:0 "Breeder drones"
+ job_apsr11_scientist_lithoid_hive:0 "Breeder drone"
+ job_apsr11_scientist_lithoid_hive_plural:0 "Breeder drones"
+ job_apsr11_scientist_lithoid_hive_desc:0 "Breeder drones which provides the best conditions for habitat, reproduction and existence of the biological species «firefly», is engaged in selection and cultivation for the purpose of further studying the processes of evolution and social change"
+ mod_job_apsr11_scientist_lithoid_hive_add:0 "Breeder drone"
+ 
+ apsr11_planet_agronomist_normal:0 "Breeders"
+ job_apsr11_agronomist_normal:0 "Breeder"
+ job_apsr11_agronomist_normal_plural:0 "Breeders"
+ job_apsr11_agronomist_normal_desc:0 "In order to increase the resources obtained, specialist is engaged in cultivation, intraspecific, controlled crossing and selection of useful properties of a biological species - firefly"
+ mod_job_apsr11_agronomist_normal_add:0 "Breeder"
+ 
+ apsr11_planet_agronomist_hive:0 "Breeder drones"
+ job_apsr11_agronomist_hive:0 "Breeder drone"
+ job_apsr11_agronomist_hive_plural:0 "Breeder drones"
+ job_apsr11_agronomist_hive_desc:0 "In order to increase the resources obtained, that being is engaged in cultivation, intraspecific, controlled crossing and selection of useful properties of a biological species - firefly"
+ mod_job_apsr11_agronomist_hive_add:0 "Breeder drone"
+ 
+ apsr11_planet_farmer_normal:0 "Farmers"
+ job_apsr11_farmer_normal:0 "Farmer"
+ job_apsr11_farmer_normal_plural:0 "Farmers"
+ job_apsr11_farmer_normal_desc:0 "Harvesting, maintaining the population level and monitoring its condition, health, nutrition, this is not a complete list of responsibilities that are included in the duties of farmers"
+ mod_job_apsr11_farmer_normal_add:0 "Farmer"
+ 
+ apsr11_planet_farmer_hive:0 "Farmer drones"
+ job_apsr11_farmer_hive:0 "Farmer drone"
+ job_apsr11_farmer_hive_plural:0 "Farmer drones"
+ job_apsr11_farmer_hive_desc:0 "Harvesting, maintaining the population level and monitoring its condition, health, nutrition, this is not a complete list of responsibilities that are included in the duties of farmers"
+ mod_job_apsr11_farmer_hive_add:0 "Farmer drone"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

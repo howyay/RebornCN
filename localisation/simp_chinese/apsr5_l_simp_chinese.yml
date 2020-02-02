@@ -1,0 +1,179 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr5_planet_modifier:0 "Immortal Megalopolis"
+ apsr5_planet_modifier_desc:0 "There is just a single city on this planet, but it covers all surface, even lakes and oceans. It is also extremely well preserved from corrosion and destructions for the place that was abandoned long time ago."
+ 
+ apsr5_deposit:0 "$apsr5_planet_modifier$"
+ apsr5_deposit_desc:0 "$apsr5_planet_modifier_desc$\n\n§M$apsr5_deposit_effect$§!" 
+ apsr5_deposit_effect:0 "Unique resource available: $apsr5_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr5_building_part1_text:0 "A small research center designed to study the architecture, logic and art of the ancients."
+ 
+ apsr5_building_part2_text:0 "Research Center, designed to study the architecture, logic and art of the ancients."
+ 
+ apsr5_building_part3_text:0 "A large research center, designed to study the architecture, logic and art of the ancients."
+ 
+ apsr5_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr5_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have proper technologies to maximize profit from this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr5_building_part1:0 "Ancients Information Processing Center"
+ apsr5_building_part1_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part1_text$"
+ 
+ apsr5_building_part2:0 "Ancients Information Processing Center"
+ apsr5_building_part2_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part2_text$"
+ 
+ apsr5_building_part3:0 "Ancients Information Processing Center"
+ apsr5_building_part3_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr5_building_part1_fake:0 "$apsr5_building_part1$"
+ apsr5_building_part1_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part1_text$"
+ 
+ apsr5_building_part2_fake:0 "$apsr5_building_part2$"
+ apsr5_building_part2_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part2_text$"
+ 
+ apsr5_building_part3_fake:0 "$apsr5_building_part3$"
+ apsr5_building_part3_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr5_building_part1:0 "Cipher of the Ancients I"
+ tech_apsr5_building_part1_desc:0 "The location of buildings, their architecture, individual elements, even the chemical composition and physical characteristics of the elements are a storehouse of knowledge of the Ancients that are protected by a cipher that we need to understand."
+ 
+ tech_apsr5_building_part2:0 "Cipher of the Ancients II"
+ tech_apsr5_building_part2_desc:0 "The location of buildings, their architecture, individual elements, even the chemical composition and physical characteristics of the elements are a storehouse of knowledge of the Ancients that are protected by a cipher that we need to understand."
+ 
+ tech_apsr5_building_part3:0 "Cipher of the Ancients III"
+ tech_apsr5_building_part3_desc:0 "The location of buildings, their architecture, individual elements, even the chemical composition and physical characteristics of the elements are a storehouse of knowledge of the Ancients that are protected by a cipher that we need to understand."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.5001.title:0 "$apsr5_building_part1$ completed"
+ apsr.5001.desc:0 "We have constructed §Y$apsr5_building_part1$§!, this will allow us to approach the understanding of the Ancients. Now we can finally see the signs and the ancient inscriptions in things that seemed to us the most common, and we must make every effort to decipher everything."
+ apsr.5001.ok-button:0 "Nice"
+ 
+ apsr.5002.title:0 "$apsr5_building_part2$ completed"
+ apsr.5002.desc:0 "We improved §Y$apsr5_building_part2$§!, and it will allow even closer to an understanding of the Ancients. And finally understand what it means the presence on this planet of the §YImmortal Megalopolis§!."
+ apsr.5002.ok-button:0 "Perfect"
+ 
+ apsr.5003.title:0 "$apsr5_building_part3$ completed"
+ apsr.5003.desc:0 "We improved §Y$apsr5_building_part3$§!, and now we finally came to understand the Ancients. As it turned out, the whole §YImmortal Megalopolis§! - this is an incredible social experiment for the once lived on this planet race. The results are unknown to us, but we could still benefit."
+ apsr.5003.ok-button:0 "Awesome"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.5811.title:0 "Performance restored"
+ apsr.5811.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr5_building_part1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.5811.ok-button:0 "Fine"
+ 
+ apsr.5812.title:0 "Performance restored"
+ apsr.5812.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr5_building_part2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.5812.ok-button:0 "Fine"
+ 
+ apsr.5813.title:0 "Performance restored"
+ apsr.5813.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr5_building_part3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.5813.ok-button:0 "Fine"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.5011.title:0 "Artifact found: §M$apsr5_planet_modifier$§!"
+ apsr.5011.desc:0 "While scanning this planet, our expedition team from ship §H[Root.GetName]§! found something interesting. There is just a single city on this planet, but it covers all surface, even lakes and oceans. It is also extremely well preserved from corrosion and destructions for the place that was abandoned long time ago. Whoever was living there was in early Space Age, but some of their engineering decisions are revolutionary even for us."
+ apsr.5011.button:1 "Unbelievable!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.5013.title:0 "Artifact found: §M$apsr5_planet_modifier$§!"
+ apsr.5013.desc:0 "On one of our newly occupied planets we found something interesting! There is just a single city on this planet, but it covers all surface, even lakes and oceans. It is also extremely well preserved from corrosion and destructions for the place that was abandoned long time ago. Whoever was living there was in early Space Age, but some of their engineering decisions are revolutionary even for us."
+ apsr.5013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.5015.title:0 "Artifact Found: §M$apsr5_planet_modifier$§!"
+ apsr.5015.desc:0 "Our intelligence service, while checking information about the planets of other empires, has found something interesting!\nOn one of the planets is an unusual city without any signs of life. Moreover, this city is the only one on the entire planet. The level of development of "industry" is about the beginning of the space age, but the engineering ideas used in the city are revolutionary even by the standards of our civilization.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr5_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr5_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr5_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr5_resource_planet.Owner.GetName]§!"
+ apsr.5015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr5_special:0 "$apsr5_planet_modifier$"
+ apsr5_special_desc:0 "$apsr5_planet_modifier_desc$"
+ 
+ APSR5_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR5_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr5_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr5_anomaly:0 "$apsr1_anomaly$"
+ apsr5_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.5601.title:0 "$apsr.5011.title$"
+ apsr.5601.desc:0 "$apsr.5011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr5_planet_manager_normal:0 "Managers of the Eternal Metropolis"
+ job_apsr5_manager_normal:0 "Manager of the Eternal Metropolis"
+ job_apsr5_manager_normal_plural:0 "Managers of the Eternal Metropolis"
+ job_apsr5_manager_normal_desc:0 "Organization and management of public utilities"
+ mod_job_apsr5_manager_normal_add:0 "Manager of the Eternal Metropolis"
+   
+ apsr5_planet_manager_hive:0 "Manager drones of the Eternal Metropolis"
+ job_apsr5_manager_hive:0 "Manager drone of the Eternal Metropolis"
+ job_apsr5_manager_hive_plural:0 "Manager drones of the Eternal Metropolis"
+ job_apsr5_manager_hive_desc:0 "Organization and management of public utilities"
+ mod_job_apsr5_manager_hive_add:0 "Manager drone of the Eternal Metropolis"
+   
+ apsr5_planet_manager_machine:0 "Manager drones of the Eternal Metropolis"
+ job_apsr5_manager_machine:0 "Manager drone of the Eternal Metropolis"
+ job_apsr5_manager_machine_plural:0 "Manager drones of the Eternal Metropolis"
+ job_apsr5_manager_machine_desc:0 "Organization and management of public utilities"
+ mod_job_apsr5_manager_machine_add:0 "Manager drone of the Eternal Metropolis"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

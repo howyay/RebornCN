@@ -1,0 +1,86 @@
+﻿l_english:
+ policy_maintenance_policy:0 "Military Maintenance"
+ policy_maintenance_policy_desc:0 "Having a strong force is always beneficial, but their maintenance cost is burdensome. We may lower maintenance to cut down hefty upkeep of our forces, though this will significantly lower our force's ability in many ways."
+ 
+ force_maintenance_policy_min:0 "Minimum Maintenance"
+ force_maintenance_policy_min_name:0 "$force_maintenance_policy_min$"
+ force_maintenance_policy_min_desc:0 "Mothballing the most of military fascility can cut-off military maintenance cost heavily, though it will maim our military power..."
+ 
+ force_maintenance_policy_low:0 "Lowered Maintenance"
+ force_maintenance_policy_low_name:0 "$force_maintenance_policy_low$"
+ force_maintenance_policy_low_desc:0 "If we are not in true need of military power, we may decide to lower its maintenance for a bit. It will damage our miltiary power, but it might be acceptable, in some cases."
+ 
+ force_maintenance_policy_normal:0 "Normal Maintenance"
+ force_maintenance_policy_normal_name:0 "$force_maintenance_policy_normal$"
+ force_maintenance_policy_normal_desc:0 "Maybe we should leave our good military untouched."
+ 
+ force_maintenance_policy_raised:0 "Raised Maintenance"
+ force_maintenance_policy_raised_name:0 "$force_maintenance_policy_raised$"
+ force_maintenance_policy_raised_desc:0 "We are in dangerous time and our forces needs to stay in alert. An extra effort can be made to keep our military prepard for an issue, though it will increase upkeep of our military."
+ 
+ force_maintenance_policy_high:0 "Highly Raised Maintenance"
+ force_maintenance_policy_high_name:0 "$force_maintenance_policy_high$"
+ force_maintenance_policy_high_desc:0 "Our country is in a danger, and we are in desperate need of our miltiary. We must do whatever we can do to keep our military alive!"
+ 
+ force_maintenance_policy_max:0 "Maximized Maintenance"
+ force_maintenance_policy_max_name:0 "$force_maintenance_policy_max$"
+ force_maintenance_policy_max_desc:0 "A military that owns the state."
+ 
+ economic_policy_demilitarized:0 "Demilitarized Economy"
+ economic_policy_demilitarized_name:0 "$economic_policy_demilitarized$"
+ economic_policy_demilitarized_desc:0 "Feeding a military is a waste of our economic potential. We can lower our investment on military and boost up our prosperity."
+ 
+ economic_policy_war_economy:0 "War Economy"
+ economic_policy_war_economy_name:0 "$economic_policy_war_economy"
+ economic_policy_war_economy_desc:0 "Our country is at WAR! Regular production schedule is mostly seized and resource rationing is announced."
+ 
+ economic_policy_intensive_war_economy:0 "Intensive War Economy"
+ economic_policy_intensive_war_economy_name:0 "$economic_policy_intensive_war_economy$"
+ economic_policy_intensive_war_economy_desc:0 "We are at an deadly WAR and we cannot afford for old day's luxuries. All regular production schedule is seized and heavy requisition is announced. Our people must rely on strict rationing to keep our country alive!"
+ 
+ economic_policy_desperate_measures:0 "Desperate Measures"
+ economic_policy_desperate_measures_name:0 "$economic_policy_desperate_measures$"
+ economic_policy_desperate_measures_desc:0 "Our country is in danger of the annihilation and we must do everything that we can to survive. We might be losing, but we cannot give up."
+ 
+ policy_production_policy:0 "Production Focus"
+ 
+ production_policy_servitor_pampering_focus:0 "Pampering Intensification Protocol"
+ production_policy_servitor_pampering_focus_name:0 "$production_policy_servitor_pampering_focus$"
+ production_policy_servitor_pampering_focus_desc:0 "Machine Intelligence makes 140% effort on pampering bio-trophies, disregarding military production partially. For some reason, it seems to decreases a maintenance demand of Machine Units too."
+ 
+ production_policy_demilitarized_hive:0 "Demilitarized Focus"
+ production_policy_demilitarized_hive_name:0 "$production_policy_demilitarized_hive$"
+ production_policy_demilitarized_hive_desc:0 "Hive Mind makes an extra effort on maintaining collectives' stability, disregarding military production partially."
+ 
+ production_policy_regular_production_machine:0 "Regular Production Protocol"
+ production_policy_regular_production_machine_name:0 "$production_policy_regular_production_machine$"
+ production_policy_regular_production_machine_desc:0 "Machine Intelligence makes 140% effort on everything."
+ 
+ production_policy_regular_production_hive:0 "Regular Focus"
+ production_policy_regular_production_hive_name:0 "$production_policy_regular_production_hive$"
+ production_policy_regular_production_hive_desc:0 "Hive Mind oversees productions in normal conditions."
+ 
+ production_policy_normal_war_servitor:0 "Service Expansion Protocol"
+ production_policy_normal_war_servitor_name:0 "$production_policy_normal_war_servitor$"
+ production_policy_normal_war_servitor_desc:0 "Machine Intelligence makes 140% effort on Service Expansion, partially replacing pampering with propaganda contents, and overloading Servitor Units for expanded 'service.' This will make bio-trophies unhappy and increase the maintenance demand of the Machine Units, but will have some war-time benefits."
+ 
+ production_policy_normal_war_hive:0 "War Focus"
+ production_policy_normal_war_hive_name:0 "$production_policy_normal_war_hive$"
+ production_policy_normal_war_hive_desc:0 "Hive Mind focuses on vanquishing its enemy. The collective will suffer some increased work-load, but survival of the collective is the utmost importance."
+ 
+ production_policy_normal_war_machine:0 "War Protocol"
+ production_policy_normal_war_machine_name:0 "$production_policy_normal_war_machine$"
+ production_policy_normal_war_machine_desc:0 "Machine Intelligence makes 140% effort on military production, disregarding regular protocols partially. This will increase maintenance demand of the machine unit, but it will allow Machine Intelligence to prepare for war better."
+ 
+ production_policy_intensive_war_machine:0 "Intensive War Protocol"
+ production_policy_intensive_war_machine_name:0 "$production_policy_intensive_war_machine$"
+ production_policy_intensive_war_machine_desc:0 "Machine Intelligence makes 140% effort on disregarding regular productions. All Units must be ready for imminent threat!"
+ 
+ production_policy_intensive_war_servitor:0 "Protection Protocol"
+ production_policy_intensive_war_servitor_name:0 "$production_policy_intensive_war_servitor$"
+ production_policy_intensive_war_servitor_desc:0 "Machine Intelligence makes 140% effort on protection of its masters. Bio-trophies will suffer reduced 'service' and Units will have harsh work-load, but Machine Intelligence is just doing whatever it can do to protect its masters..."
+ 
+ production_policy_intensive_war_hive:0 "Desperate War Effort"
+ production_policy_intensive_war_hive_name:0 "$production_policy_intensive_war_hive$"
+ production_policy_intensive_war_hive_desc:0 "Hive Mind is doing whatever it can do to protect its collective against 'others.'"
+ 

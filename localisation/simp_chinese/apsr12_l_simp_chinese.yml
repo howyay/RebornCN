@@ -1,0 +1,180 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr12_planet_modifier:0 "Frequence anomaly"
+ apsr12_planet_modifier_desc:0 "For an unknown reason all the signals sent here come almost immediately. It would be silly not to use it: it gives us the possibility to improve logistics"
+ 
+ apsr12_deposit:0 "$apsr12_planet_modifier$"
+ apsr12_deposit_desc:0 "$apsr12_planet_modifier_desc$\n\n§M$apsr12_deposit_effect$§!" 
+ apsr12_deposit_effect:0 "Unique resource available: $apsr12_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr12_building_part1_text:0 "A Communication Center built using the characteristic of the local anomaly ensures instant data and information exchange"
+ 
+ apsr12_building_part2_text:0 "The logistic support service arranged adjacent to the Communication Center can meet the needs of our logistics in shortest period"
+ 
+ apsr12_building_part3_text:0 "The base of imperial logistic service built using the characteristics of the local anomaly lets provide our logistics without any delay"
+ 
+ apsr12_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr12_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have proper technologies to maximize profit from this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr12_building_part1:0 "Communication Center"
+ apsr12_building_part1_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part1_text$"
+ 
+ apsr12_building_part2:0 "Logistic Support Service"
+ apsr12_building_part2_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part2_text$"
+ 
+ apsr12_building_part3:0 "Base of Imperial Logistic Service"
+ apsr12_building_part3_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr12_building_part1_fake:0 "$apsr12_building_part1$"
+ apsr12_building_part1_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part1_text$"
+ 
+ apsr12_building_part2_fake:0 "$apsr12_building_part2$"
+ apsr12_building_part2_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part2_text$"
+ 
+ apsr12_building_part3_fake:0 "$apsr12_building_part3$"
+ apsr12_building_part3_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr12_building_part1:0 "Anomalous communication"
+ tech_apsr12_building_part1_desc:0 "There is a point to place the communication center in the coverage area of the anomaly. Any delay between signals would disappear, any command would be passed instantly. The great opportunities this anomaly provides make it truly precious"
+ 
+ tech_apsr12_building_part2:0 "Space Logistics"
+ tech_apsr12_building_part2_desc:0 "The logistic support service arranged adjacent to the Communication Center can meet the needs of our logistics in shortest period."
+ 
+ tech_apsr12_building_part3:0 "Superlogistics"
+ tech_apsr12_building_part3_desc:0 "The base of imperial logistic service built using the characteristics of the local anomaly lets provide our logistics without any delay."
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.12001.title:0 "$apsr12_building_part1$ completed"
+ apsr.12001.desc:0 "All the stations are ready. power supply is stabilized. Equipment is put in its place and ready for exploitation"
+ apsr.12001.ok-button:0 "Great"
+ 
+ apsr.12002.title:0 "$apsr12_building_part2$ completed"
+ apsr.12002.desc:0 "The logistic support service arranged adjacent to the Communication Center can meet the needs of our logistics in shortest period."
+ apsr.12002.ok-button:0 "Great"
+ 
+ apsr.12003.title:0 "$apsr12_building_part3$ completed"
+ apsr.12003.desc:0 "The base of imperial logistic service built using the characteristics of the local anomaly lets provide our logistics without any delay."
+ apsr.12003.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.12811.title:0 "Performance restored"
+ apsr.12811.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr12_building_part1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.12811.ok-button:0 "Fine"
+ 
+ apsr.12812.title:0 "Performance restored"
+ apsr.12812.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr12_building_part2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.12812.ok-button:0 "Fine"
+ 
+ apsr.12813.title:0 "Performance restored"
+ apsr.12813.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr12_building_part3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.12813.ok-button:0 "Fine"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.12011.title:0 "Anomalous zone discovered: §M$apsr12_planet_modifier$§!"
+ apsr.12011.desc:0 "A research team lead by §H[Root.GetLeaderName]§! from the ship §H[Root.GetName]§! have discovered an anomalous zone where every signal can be transferred almost immediately""
+ apsr.12011.button:1 "Unbelieveable!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.12013.title:0 "Anomalous zone discovered: §M$apsr12_planet_modifier$§!"
+ apsr.12013.desc:0 "As a result of Incident 12887-a during a guerilla operation, there was discovered an anomalous zone where any signal is transferred almost immediately."
+ apsr.12013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.12015.title:0 "Artifact Found: §M$apsr12_planet_modifier$§!"
+ apsr.12015.desc:0 "Our intelligence service, while checking information about the planets of other empires, has found something interesting!\nOn one of the planets there is an anomaly in which the signal is transmitted almost instantly.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr12_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr12_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr12_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr12_resource_planet.Owner.GetName]§!"
+ apsr.12015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr12_special:0 "$apsr12_planet_modifier$"
+ apsr12_special_desc:0 "$apsr12_planet_modifier_desc$"
+ 
+ APSR12_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR12_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr12_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr12_anomaly:0 "$apsr1_anomaly$"
+ apsr12_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.12601.title:0 "$apsr.12011.title$"
+ apsr.12601.desc:0 "$apsr.12011.desc$"
+ 
+ 
+ 
+ ### новые должности
+ 
+ apsr12_planet_manager_normal:0 "Coordinators"
+ job_apsr12_manager_normal:0 "Coordinator"
+ job_apsr12_manager_normal_plural:0 "Coordinators"
+ job_apsr12_manager_normal_desc:0 "In the conditions of the militarization of space, delay was always the main problem, professional coordinators solved this problem using this anomaly"
+ mod_job_apsr12_manager_normal_add:0 "Coordinator"
+ 
+ apsr12_planet_manager_hive:0 "Coordination drones"
+ job_apsr12_manager_hive:0 "Coordination drone"
+ job_apsr12_manager_hive_plural:0 "Coordination drones"
+ job_apsr12_manager_hive_desc:0 "The physics of the space is still an inconvenience, the delay of the reaction of individual parts increased depending on the distance to the main brain, this strange anomaly changed everything, the drones relay signals from the center without any delay"
+ mod_job_apsr12_manager_hive_add:0 "Coordination drone"
+ 
+ apsr12_planet_manager_machine:0 "Coordination drones"
+ job_apsr12_manager_machine:0 "Coordination drone"
+ job_apsr12_manager_machine_plural:0 "Coordination drones"
+ job_apsr12_manager_machine_desc:0 "This special drones model relay the signals of the main AI to the direct performers without delays due to the distance to the metropolis"
+ mod_job_apsr12_manager_machine_add:0 "Coordination drone"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

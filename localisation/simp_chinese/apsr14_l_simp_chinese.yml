@@ -1,0 +1,253 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr14_planet_modifier:0 "Galactic Resort"
+ apsr14_planet_modifier_desc:0 "A wonderful place to relax created with the help of nanomachines"
+ 
+ apsr14_deposit:0 "$apsr14_planet_modifier$"
+ apsr14_deposit_desc:0 "$apsr14_planet_modifier_desc$\n\n§M$apsr14_deposit_effect$§!" 
+ apsr14_deposit_effect:0 "Unique resource available: $apsr14_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr14_building_part_b1_text:0 "Camp for our leaders to rest"
+ 
+ apsr14_building_part_b2_text:0 "A recreational center of special convenience for our leaders"
+ 
+ apsr14_building_part_b3_text:0 "The place where everything is possible"
+ 
+ 
+ apsr14_building_part_m1_text:0 "The factory for producing copies of local nanobots and programming them"
+ 
+ apsr14_building_part_m2_text:0 "Automatic replication and programming allow us to increase the available volume of nanorobots"
+ 
+ apsr14_building_part_m3_text:0 "A large concern, replicating and programming nanorobots"
+ 
+ apsr14_building_part_m4_text:0 "Modified Mega-Concern for the production and programming of nanorobots"
+ 
+ 
+ apsr14_building_predesc:0 "§MUnique building§!\n§W--------------§!"
+ 
+ apsr14_building_fake_predesc:0 "§MUnique building§!\n§RWe don't have proper technologies to maximize profit from this building!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr14_building_part_b1:0 "Rest Camp"
+ apsr14_building_part_b1_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b1_text$"
+ 
+ apsr14_building_part_b2:0 "Recreation Center"
+ apsr14_building_part_b2_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b2_text$"
+ 
+ apsr14_building_part_b3:0 "Galactic Resort"
+ apsr14_building_part_b3_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b3_text$"
+ 
+  
+ apsr14_building_part_m1:0 "Factory of Nanorobots"
+ apsr14_building_part_m1_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m1_text$"
+ 
+ apsr14_building_part_m2:0 "Replicator of Nanorobots"
+ apsr14_building_part_m2_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m2_text$"
+ 
+ apsr14_building_part_m3:0 "Nanoconcern"
+ apsr14_building_part_m3_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m3_text$"
+ 
+ apsr14_building_part_m4:0 "Modified Nanoconcern"
+ apsr14_building_part_m4_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m4_text$"
+ 
+  
+ 
+ ### фейк-здания
+  
+ apsr14_building_part_b1_fake:0 "$apsr14_building_part_b1$"
+ apsr14_building_part_b1_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b1_text$"
+ 
+ apsr14_building_part_b2_fake:0 "$apsr14_building_part_b2$"
+ apsr14_building_part_b2_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b2_text$"
+ 
+ apsr14_building_part_b3_fake:0 "$apsr14_building_part_b3$"
+ apsr14_building_part_b3_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b3_text$"
+ 
+  
+ apsr14_building_part_m1_fake:0 "$apsr14_building_part_m1$"
+ apsr14_building_part_m1_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m1_text$"
+ 
+ apsr14_building_part_m2_fake:0 "$apsr14_building_part_m2$"
+ apsr14_building_part_m2_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m2_text$"
+ 
+ apsr14_building_part_m3_fake:0 "$apsr14_building_part_m3$"
+ apsr14_building_part_m3_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr14_building_part_b1:0 "Resort"
+ tech_apsr14_building_part_b1_desc:0 "The construction of the §YResort§! would provide our leaders a place for recreation"
+ 
+ tech_apsr14_building_part_b2:0 "Recreation Center"
+ tech_apsr14_building_part_b2_desc:0 "A more modern and manufacturable resort for our leaders"
+ 
+ tech_apsr14_building_part_b3:0 "Antar Spice"
+ tech_apsr14_building_part_b3_desc:0 "This substance, found at the the §YRecreation center§!, significantly increases the regeneration of cells, unusually adapting to the body"
+ 
+ 
+ tech_apsr14_building_part_m1:0 "Using Nanomachines"
+ tech_apsr14_building_part_m1_desc:0 "Nanorobots found in the place that organics would call a §YGalactic resort§! can be recreated and programmed for constructing our mechanical bodies"
+ 
+ tech_apsr14_building_part_m2:0 "Replication of Nanorobots"
+ tech_apsr14_building_part_m2_desc:0 "Having automatic replication and programming set up, we would increase the available volume of nanorobots"
+ 
+ tech_apsr14_building_part_m3:0 "Mass Production of Nanorobots"
+ tech_apsr14_building_part_m3_desc:0 "Mass production of nanorobots would allow us to use them for our mechanical settlements"
+  
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.14001.title:0 "$apsr14_building_part_b1$ completed"
+ apsr.14001.desc:0 "A place where you can take a break from your problems and relax - that's what our leaders lack. More precisely, used to lack until this moment. Now we have a §Y$apsr14101$§!, and the regular rest of the leaders will prolong their life time."
+ apsr.14001.ok-button:0 "Very Good"
+ 
+ apsr.14002.title:0 "$apsr14_building_part_b2$ completed"
+ apsr.14002.desc:0 "As a result of working out the comments and suggestions of our leaders, we have expanded and improved our §YResort§!. Now you can relax here with a great comfort and pleasure, which means that the life of our leaders is going to be prolonged."
+ apsr.14002.ok-button:0 "Great"
+ 
+ apsr.14003.title:0 "$apsr14_building_part_b3$ completed"
+ apsr.14003.desc:0 "Our §YRecreation Center§! have been modernized, and the production of the §PAntar Spice§! has been set up. Our leaders can enjoy the benefits of this place, to increase the endurance of their body and prolong their lives. Now this place is a real §YGalactic resort§!."
+ apsr.14003.ok-button:0 "A true Eden"
+ 
+ apsr.14004.title:0 "$apsr14_building_part_m1$ completed"
+ apsr.14004.desc:0 "The nanorobots contained in this place have a very interesting structure. Using their features, we have increased the productivity of our replicators and increased the speed of assembling settlements"
+ apsr.14004.ok-button:0 "Interesting"
+ 
+ apsr.14005.title:0 "$apsr14_building_part_m2$ completed"
+ apsr.14005.desc:0 "Automated process of replication and programming of nanobots. The build rate of settlements has increased significantly"
+ apsr.14005.ok-button:0 "Interesting"
+ 
+ apsr.14006.title:0 "$apsr14_building_part_m3$ completed"
+ apsr.14006.desc:0 "Mass production of nanorobots allowed us to build mechanical settlements much faster!"
+ apsr.14006.ok-button:0 "Interesting"
+ 
+ apsr.14007.title:0 "$apsr14_building_part_m4$ completed"
+ apsr.14007.desc:0 "The modification of the Nanoconcern based on the use of the influence of the Communication Cube located on the planet allowed to significantly increase the speed of assembly of mechanical settlements!"
+ apsr.14007.ok-button:0 "Great"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.14811.title:0 "Performance restored"
+ apsr.14811.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_b1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14811.ok-button:0 "Fine"
+ 
+ apsr.14812.title:0 "Performance restored"
+ apsr.14812.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_b2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14812.ok-button:0 "Fine"
+ 
+ apsr.14813.title:0 "Performance restored"
+ apsr.14813.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_b3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14813.ok-button:0 "Fine"
+ 
+ apsr.14814.title:0 "Performance restored"
+ apsr.14814.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_m1$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14814.ok-button:0 "Fine"
+ 
+ apsr.14815.title:0 "Performance restored"
+ apsr.14815.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_m2$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14815.ok-button:0 "Fine"
+ 
+ apsr.14816.title:0 "Performance restored"
+ apsr.14816.desc:0 "Technological breakthrough today was accomplished in our empire! A team of scientists and engineers analyzed the building on one of our planets - §H$apsr14_building_part_m3$§!, and developed methodological and technological guidelines for its use. Now we can use this building with maximum benefit!"
+ apsr.14816.ok-button:0 "Fine"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.14011.title:0 "Artifact discovered: §M$apsr14_planet_modifier$§!"
+ apsr.14011.desc.bio:0 "A research team from the science ship §H[Root.GetName]§! led by §H[Root.GetLeaderName]§! reports they've found a galactic resort.\nThere is a perfect environment for the organic lifeforms in this place. We've conducted a study and found out that this kind of environment  is conditioned by special type of nanorobot. For an unknown reason, we can't take control of them, but we can use this place as a resort for our leaders."
+ apsr.14011.desc.mech:0 "A research team from the scientific ship §H[Root.GetName]§! led by §H[Root.GetLeaderName]§! is reporting they've discovered an unusual kind of nanorobot. \nSurely we are already able to create nanorobots, but these nanoassemblers seem to be a truly new frontier in nano-design. The thing is that they are created and replicated at molecular level and presumably used to serve for converting the matter to entertain some reasonably-minded organics, but for now we can adapt them for construction of mechanical bodies. \nWe've also found a place that would be perfect for recreational purposes, but there isn't a good point in using it."
+ apsr.14011.button:1 "Unbelieveable"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.14013.title:0 "Artifact discovered: §M$apsr14_planet_modifier$§!"
+ apsr.14013.desc.bio:0 "Something peculiar has been found on one of our new planets. \nThere is a perfect environment for organic lifeforms in this place. We've conducted a study and found out that this kind of environment is conditioned by special type of nanorobots. For an unknown reason, we can't take control of them, but we can use this place as a resort for our leaders."
+ apsr.14013.desc.mech:0 "A nanorobot factory has been discovered on one of the recently occupied planets. \nSurely we are already able to create nanorobots, but these nanoassemblers seem to be a brand-new frontier in nano-design. The thing is that they are created and replicated at molecular level, and presumably used for converting the matter to entertain some reasonably-minded organics, but from now on we can adapt them for construction of mechanical bodies. \nWe've also found a place that would be perfect for recreational purposes, but there isn't a good reason to use it."
+ apsr.14013.button:1 "Great!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.14015.title:0 "Artifact Found: §M$apsr14_planet_modifier$§!"
+ apsr.14015.desc:0 "Our intelligence service, while checking information about the planets of other empires, has found something interesting!\nIdeal conditions for organic life forms are created on one of the planets. The documents indicate that the cause of such conditions are special nanorobots.\n\n§GInformation:§!\n§YPlanet name:§! §W[event_target:apsr14_resource_planet.GetName]§! \n§YPlanet class:§! §W[event_target:apsr14_resource_planet.GetClassName]§! \n§YSolar system name:§! §W[event_target:apsr14_resource_planet.solar_system.GetName]§! \n§YPlanet owner:§! §W[event_target:apsr14_resource_planet.Owner.GetName]§!"
+ apsr.14015.button:1 "Interesting!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr14_special:0 "$apsr14_planet_modifier$"
+ apsr14_special_desc:0 "$apsr14_planet_modifier_desc$"
+ 
+ APSR14_MESSAGE_SR_INFORMED_TITLE:0 "Information about a unique planet"
+ APSR14_MESSAGE_SR_INFORMED:0 "We received information about a special resource called §M$apsr14_planet_modifier$§!, which is located on the planet §Y$PLANET$§! under control of the §Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr14_anomaly:0 "$apsr1_anomaly$"
+ apsr14_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.14601.title:0 "$apsr.14011.title$"
+ apsr.14601.desc.bio:0 "$apsr.14011.desc.bio$"
+ apsr.14601.desc.mech:0 "$apsr.14011.desc.mech$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr14_planet_stuff_normal:0 "Galactic Resort Managers"
+ job_apsr14_stuff_normal:0 "Galactic Resort Manager"
+ job_apsr14_stuff_normal_plural:0 "Galactic Resort Managers"
+ job_apsr14_stuff_normal_desc:0 "Any kind of holiday that you can only imagine in any conditions, for any period, Galactic Resort manager can help you with that"
+ mod_job_apsr14_stuff_normal_add:0 "Galactic Resort Manager"
+   
+ apsr14_planet_stuff_hive:0 "Rehabilitation Drones"
+ job_apsr14_stuff_hive:0 "Rehabilitation Drone"
+ job_apsr14_stuff_hive_plural:0 "Rehabilitation Drones"
+ job_apsr14_stuff_hive_desc:0 "Physical shells of drones sometimes need rehabilitation for recovery, this beings can find the optimal way"
+ mod_job_apsr14_stuff_hive_add:0 "Rehabilitation Drone"
+   
+ apsr14_planet_replicator_machine:0 "Replicator Drones v.2.0"
+ job_apsr14_replicator_machine:0 "Replicator Drone v.2.0"
+ job_apsr14_replicator_machine_plural:0 "Replicator Drones v.2.0"
+ job_apsr14_replicator_machine_desc:0 "In ideal conditions of this planet, an incredible working speed of the improved version of drones-replicators was achieved"
+ mod_job_apsr14_replicator_machine_add:0 "Replicator Drone v.2.0"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
